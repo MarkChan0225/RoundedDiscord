@@ -21,3 +21,22 @@
 .container-YkUktl{border-radius: var(--radius);}
 .sidebar-1tnWFu{border-radius: var(--radius);}
 .header-3OsQeK{border-radius: var(--radius);}
+
+.sidebar-1tnWFu,
+.content-1SgpWY
+{background:var(--darkgrey);}
+.panels-3wFtMD{border-radius:0px 0px var(--radius) var(--radius)!important}
+.privateChannels-oVe7HL{
+    border-radius: var(--radius) var(--radius) 0px 0px!important;
+}
+.scroller-WSmht3 {background-color:var(--grey);}
+.scroller-3X7KbA{background-color:var(--darkgrey);}
+.wrapper-1_HaEi{
+    border-radius:var(--radius);
+    margin: var(--spacing);
+}
+.scroller-3X7KbA {
+    background:var(--grey); 
+    border-radius:var(--radius);
+    padding-top:var(--spacing);
+}
