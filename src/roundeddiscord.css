@@ -14,8 +14,14 @@
 /* Rounded Msg */
 .message-2CShn3{border-radius: var(--radius);}
 
-/* Round Button */
-.app-2CXKsg button{border-radius: var(--radius);}
+/* Setting */
+.app-2CXKsg button,
+.card-2guEcY:not(.outline-3kFzf8){
+    border-radius: var(--radius);
+}
+.animatedContainer-2laTjx{
+    border-radius: 0px 0px var(--radius) var(--radius);
+}
   
 /* Rounded Embed Msg */
 .embed-hKpSrO, 
@@ -24,12 +30,12 @@
 }
   
 /* Rounded Server Menu */
-.panels-3wFtMD,
-.container-YkUktl{
-    border-radius: var(--radius) var(--radius) 0px 0px;
-}
 .header-3OsQeK{
     border-radius: 0px 0px var(--radius) var(--radius);
+}
+/* .panels-3wFtMD,*/
+.container-YkUktl{
+    border-radius: var(--radius) var(--radius) 0px 0px;
 }
 
 /* Home Page */
