@@ -46,6 +46,10 @@
 }
 
 /* Profile */
+.profileBadges-2pItdR{background-color: transperant};
+.role-2TIOKu{
+    border-radius: var(--radius);
+}
 
 /* Server */
 .side-1lrxIh .item-2GWPIy, 
