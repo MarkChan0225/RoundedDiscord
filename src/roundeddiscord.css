@@ -26,7 +26,8 @@
 /* Rounded Msg */ 
 .reaction-3vwAF2, 
 .mention, 
-.wrapper-1ZcZW-{
+.wrapper-1ZcZW-,
+.wrapper-1HIH0j{
     border-radius: var(--radius);
 }
 
@@ -95,18 +96,24 @@
 .changelog-2zmJ4c,
 .safetyChecklist-3kgSZf,
 .auditLog-1NVAY0,
-.container-2kTWmC{
+.container-2kTWmC,
+.wrapper-2SplAX,
+.container-2E0bff,
+.fieldBackground-3nYcw0, 
+.fieldBackground-3nYcw0:hover:not(:focus){
     border-radius: var(--radius);
 }
 .layout-1qmrhw{border-radius:20px}
 .header-1ffhsl,
 .tierHeader-3q9jIw,
 .cardHeader-3d6H8N,
-.header-2pgFQm{
+.header-2pgFQm,
+.firstChannel-3vAGDY{
     border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .footer-IubaaS,
-.changeDetails-1kMZqI{
+.changeDetails-1kMZqI,
+.lastChannel-21yyBC{
     border-radius: 0px 0px var(--radius) var(--radius);
 }
 
