@@ -47,7 +47,8 @@
 
 /* Profile */
 .profileBadges-2pItdR {background-color: transparent;}
-.role-2TIOKu{
+.role-2TIOKu,
+.buttonsContainer-3iOFIV{
     border-radius: var(--radius);
 }
 
