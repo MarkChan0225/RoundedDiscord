@@ -12,39 +12,20 @@
 }
 
 /* Search */
-.searchBar-jGtisZ,
-.searchResult-O9NDji{
-    border-radius: var(--radius);
+.searchBar-jGtisZ, .searchResult-O9NDji {border-radius: var(--radius);
 }
-.searchFilter-2UfsDk{
-    border-radius: var(--radius) 0px 0px var(--radius);
-}
-.searchHeader-1r_ZSh{
-    border-radius: 0px 0px var(--radius) var(--radius);
-}
+.searchFilter-2UfsDk {border-radius: var(--radius) 0px 0px var(--radius);}
+.searchHeader-1r_ZSh {border-radius: 0px 0px var(--radius) var(--radius);}
 
 /* Rounded Msg */
-.message-2CShn3,
-.reaction-3vwAF2,
-.mention,
-.wrapper-1ZcZW-{
-    border-radius: var(--radius);
-}
+.message-2CShn3, .reaction-3vwAF2, .mention, .wrapper-1ZcZW- {border-radius: var(--radius);}
 
 /* Setting */
-.app-2CXKsg button,
-.card-2guEcY:not(.outline-3kFzf8){
-    border-radius: var(--radius);
-}
-.animatedContainer-2laTjx{
-    border-radius: 0px 0px var(--radius) var(--radius);
-}
+.app-2CXKsg button, .card-2guEcY:not(.outline-3kFzf8) {border-radius: var(--radius);}
+.animatedContainer-2laTjx {border-radius: 0px 0px var(--radius) var(--radius);}
   
 /* Rounded Embed Msg */
-.embed-hKpSrO, 
-.imageWrapper-oMkQl4{
-    border-radius: var(--radius);
-}
+.embed-hKpSrO, .imageWrapper-oMkQl 4{border-radius: var(--radius);}
   
 /* Rounded Server Menu */
 .header-3OsQeK{
