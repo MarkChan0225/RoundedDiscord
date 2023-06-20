@@ -46,7 +46,7 @@
 }
 
 /* Profile */
-.profileBadges-2pItdR {background-color: transparent;}
+.profileBadges-2pItdR {background-color: transparent !important;}
 .role-2TIOKu{
     border-radius: var(--radius);
 }
