@@ -25,7 +25,9 @@
 
 /* Rounded Msg */
 .message-2CShn3,
-.reaction-3vwAF2{
+.reaction-3vwAF2,
+.mention,
+.wrapper-1ZcZW-{
     border-radius: var(--radius);
 }
 
