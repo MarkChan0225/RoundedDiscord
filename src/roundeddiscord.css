@@ -48,7 +48,9 @@
 /* Profile */
 .profileBadges-2pItdR {background-color: transparent;}
 .role-2TIOKu,
-.button-35nmN9{
+.button-35nmN9,
+.overlayBackground-2aa7wt,
+.messageInputContainer-24qqTx{
     border-radius: var(--radius);
 }
 
