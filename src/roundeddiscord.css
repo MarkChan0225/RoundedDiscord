@@ -26,7 +26,7 @@
 /* Rounded Server Menu */
 .panels-3wFtMD,
 .container-YkUktl{
-    border-radius: var(--radius) var(--radius) 0px 0px;
+    border-radius: 16px 16px 0px 0px;
 }
 .header-3OsQeK{
     border-radius: 0px 0px var(--radius); var(--radius);
