@@ -28,6 +28,7 @@
 }
 
 /* Rounded SideBar */
+/*
 .sidebar-1tnWFu,
 .content-1SgpWY
 {background:var(--darkgrey);}
@@ -46,12 +47,14 @@
     border-radius:var(--radius);
     padding-top:var(--spacing);
 }
-
-/* Profile */
-.sidebar-1tnWFu {
+.panels-3wFtMD {
     background-color:var(--grey);
     margin-bottom:var(--spacing);
-}
+} 
+*/
+
+/* Profile */
+.profileBadges-2pItdR{background-color: transparent;}
 .overlayBackground-2aa7wt, 
 .layout-1qmrhw, 
 .mainContent-20q_Hp,
