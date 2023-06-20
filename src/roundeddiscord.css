@@ -11,6 +11,18 @@
     margin-left: 0.25rem;
 }
 
+/* Search */
+.searchBar-jGtisZ,
+.searchResult-O9NDji{
+    border-radius: var(--radius);
+}
+.searchFilter-2UfsDk{
+    border-radius: var(--radius) 0px 0px var(--radius);
+}
+.searchHeader-1r_ZSh{
+    border-radius: 0px 0px var(--radius) var(--radius);
+}
+
 /* Rounded Msg */
 .message-2CShn3,
 .reaction-3vwAF2{
