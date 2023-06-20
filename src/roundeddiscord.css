@@ -31,12 +31,12 @@
   
 /* Rounded Server Menu */
 .header-3OsQeK{
-    background-color: var(--darkgray);
+    background-color: var(--background-secondary-alt);
     border-radius: 0px 0px var(--radius) var(--radius);
 }
 .panels-3wFtMD,
 .container-YkUktl{
-    background-color: var(--darkgray);
+    background-color: var(--background-secondary-alt);
     border-radius: var(--radius) var(--radius) 0px 0px;
 }
 
@@ -51,7 +51,8 @@
 .layout-1qmrhw, 
 .mainContent-20q_Hp,
 .role-2TIOKu,
-.messageInputContainer-24qqTx{
+.messageInputContainer-24qqTx, 
+.overlayBackground-2aa7wt *{
     border-radius: var(--radius);
 }
 
