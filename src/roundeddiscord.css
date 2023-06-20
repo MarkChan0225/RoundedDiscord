@@ -22,7 +22,7 @@
   
 /* Rounded Server Menu */
 .container-YkUktl{
-    border-radius: var(--radius) var(--radius) 0px 0px;
+    border-radius: var(--radius) var(--radius)
 }
 .header-3OsQeK{
     border-radius: 0px 0px var(--radius) var(--radius);
