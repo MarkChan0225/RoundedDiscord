@@ -11,6 +11,9 @@
     margin-left: 0.25rem;
 }
 
+/* Rounded Msg */
+.message-2CShn3{border-radius: var(--radius);}
+
 /* Round Button */
 .app-2CXKsg button{border-radius: var(--radius);}
   
