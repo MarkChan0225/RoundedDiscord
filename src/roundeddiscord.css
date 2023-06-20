@@ -31,6 +31,7 @@
   
 /* Rounded Server Menu */
 .header-3OsQeK{
+    background-color: var(--background-secondary-alt);
     border-radius: 0px 0px var(--radius) var(--radius);
 }
 .panels-3wFtMD,
