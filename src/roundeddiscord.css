@@ -21,10 +21,11 @@
 }
   
 /* Rounded Server Menu */
-.container-YkUktl, 
-.sidebar-1tnWFu, 
+.container-YkUktl{
+    border-radius: var(--radius) var(--radius) 0px 0px;
+}
 .header-3OsQeK{
-    border-radius: var(--radius);
+    border-radius: 0px 0px var(--radius) var(--radius);
 }
 
 /* Rounded SideBar */
