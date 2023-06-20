@@ -26,10 +26,10 @@
 /* Rounded Server Menu */
 .panels-3wFtMD,
 .container-YkUktl{
-    border-radius: 16px 16px 0px 0px;
+    border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .header-3OsQeK{
-    border-radius: 0px 0px 16px 16px;
+    border-radius: 0px 0px var(--radius) var(--radius);
 }
 
 /* Rounded SideBar */
@@ -72,7 +72,9 @@
 .role-2TIOKu,
 .menu-2TXYjN,
 .content-1gYQeQ,
-.item-5ApiZt{
+.item-5ApiZt,
+.scrollableContainer-15eg7h{
     border-radius: var(--radius);
 }
 .layout-1qmrhw{border-radius:20px}
+
