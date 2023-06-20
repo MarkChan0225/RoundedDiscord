@@ -58,7 +58,8 @@
 }
 
 /* Home Page */
-.interactive-26HRN_{
+.interactive-26HRN_,
+.topPill-2vcLsa .item-2GWPIy{
     border-radius: var(--radius);
 }
 
@@ -101,4 +102,15 @@
 }
 .footer-IubaaS{
     border-radius: 0px 0px var(--radius) var(--radius);
+}
+
+/* Emoji Selector */
+.contentWrapper-3vHNP2,
+.container-1SX9VC,
+.badgeLabel-2Eo2Mq,
+.container-2oNtJn,
+.gif-2kTiNB,
+.categoryFade-3RRG67, 
+.categoryFadeBlurple-1l49_Q{
+    border-radius: var(--radius);
 }
