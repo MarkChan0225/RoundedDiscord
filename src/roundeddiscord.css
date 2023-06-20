@@ -85,3 +85,20 @@
 }
 .layout-1qmrhw{border-radius:20px}
 
+/* Slash Command */
+.outerWrapper-3UdjNj,
+.base-2v-uc0,
+.optionPill-2kmuZR,
+.autocomplete-3jLKbj,
+.root-1CAIjD,
+.container-3jbRo5,
+.select-Zz0IcO,
+.tooltip-1T4pLi{
+    border-radius: var(--radius);
+}
+.optionPillKey-2JyeoP{
+    border-radius: var(--radius 0px 0px var(--radius);
+}
+.footer-IubaaS{
+    border-radius: 0px 0px var(--radius) var(--radius);
+}
