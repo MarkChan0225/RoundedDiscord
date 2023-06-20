@@ -24,7 +24,8 @@
 }
 
 /* Rounded Msg */ 
-.reaction-3vwAF2, 
+.reaction-3vwAF2,
+.reaction-102jx9,
 .mention, 
 .wrapper-1ZcZW-,
 .wrapper-1HIH0j{
@@ -100,7 +101,12 @@
 .wrapper-2SplAX,
 .container-2E0bff,
 .fieldBackground-3nYcw0, 
-.fieldBackground-3nYcw0:hover:not(:focus){
+.fieldBackground-3nYcw0:hover:not(:focus),
+.container-3EtAkD,
+.wrapper-1HIH0j,
+.inviteSplash-2nkLRX,
+.mainCard-3KBsBI,
+.header-1Uy0p6{
     border-radius: var(--radius);
 }
 .layout-1qmrhw{border-radius:20px}
@@ -129,7 +135,7 @@
     border-radius: var(--radius);
 }
 .optionPillKey-2JyeoP{
-    border-radius: var(--radius 0px 0px var(--radius);
+    border-radius: var(--radius) 0px 0px var(--radius);
 }
 .footer-IubaaS{
     border-radius: 0px 0px var(--radius) var(--radius);
