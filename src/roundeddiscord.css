@@ -24,7 +24,8 @@
 }
   
 /* Rounded Server Menu */
-.panels-3wFtMD{
+.panels-3wFtMD,
+.container-YkUktl{
     border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .header-3OsQeK{
