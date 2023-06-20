@@ -80,12 +80,35 @@
 .scrollableContainer-15eg7h,
 .roleRow-230vCm,
 .input-3O04eu, 
-.button-ejjZWC{
+.button-ejjZWC,
+.previewContainer-1xQAsw,
+.colorPickerSwatch-RTUGRR.custom-1Up2lr, 
+.colorPickerSwatch-RTUGRR.default-3ISV7m,
+.customColorPicker-C_jddW,
+.previewContainer-1GxmBJ,
+.memberRow-1FhJgR,
+.memberRow-1FhJgR,
+.tierHeaderWithoutCardBody-1iT8o_,
+.copyInput-3AbKWB,
+.descriptionBox-SKGNgB,
+.container-uFFZnN,
+.changelog-2zmJ4c,
+.safetyChecklist-3kgSZf,
+.auditLog-1NVAY0,
+.container-2kTWmC{
     border-radius: var(--radius);
 }
 .layout-1qmrhw{border-radius:20px}
-.header-1ffhsl{border-radius: var(--radius) var(--radius) 0px 0px;}
-.footer-IubaaS{border-radius: 0px 0px var(--radius) var(--radius);}
+.header-1ffhsl,
+.tierHeader-3q9jIw,
+.cardHeader-3d6H8N,
+.header-2pgFQm{
+    border-radius: var(--radius) var(--radius) 0px 0px;
+}
+.footer-IubaaS,
+.changeDetails-1kMZqI{
+    border-radius: 0px 0px var(--radius) var(--radius);
+}
 
 /* Slash Command */
 .outerWrapper-3UdjNj,
