@@ -1,1 +1,1 @@
-# Rounded Discord Theme
+# Rounded Dark           [![Latest Release](https://img.shields.io/github/v/release/MarkChan0225/RoundedDiscord?color=gree&label=release&style=for-the-badge)](https://github.com/MarkChan0225/RoundedDiscord/releases/latest)
