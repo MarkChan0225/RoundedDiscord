@@ -2,11 +2,11 @@
  * @name Rounded Discord
  * @author MarkChan0225
  * @version 0.0.1
- * @description Yet another (rounded) Dark Discord Theme.
+ * @description A rounded Discord theme
  * @source https://github.com/MarkChan0225/RoundedDiscord/
 */
 
-@import url('https://github.com/MarkChan0225/RoundedDiscord/raw/main/src/roundeddiscord.css');
+@import url('https://MarkChan0225.github.io/RoundedDiscord/src/roundeddiscord.css');
 
 :root {
     --blurple: #576aed;
