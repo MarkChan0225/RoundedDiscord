@@ -11,17 +11,6 @@
     margin-left: 0.25rem;
 }
 
-/* Emoji Selector */
-.contentWrapper-3vHNP2,
-.container-1SX9VC,
-.badgeLabel-2Eo2Mq,
-.container-2oNtJn,
-.gif-2kTiNB,
-.categoryFade-3RRG67, 
-.categoryFadeBlurple-1l49_Q{
-    border-radius: var(--radius);
-}
-
 /* Search */
 .searchBar-jGtisZ, 
 .searchResult-O9NDji{
@@ -96,6 +85,7 @@
     border-radius: var(--radius);
 }
 .layout-1qmrhw{border-radius:20px}
+.header-1ffhsl{border-radius: var(--radius) var(--radius) 0px 0px;}
 
 /* Slash Command */
 .outerWrapper-3UdjNj,
