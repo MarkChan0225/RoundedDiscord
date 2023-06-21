@@ -151,8 +151,7 @@
 .swatch-efj8wq,
 .saturation-CLQHFD>div, 
 .saturation-CLQHFD>div>div,
-.radioBar-1XgZqD.radioPositionLeft-27wZ8M,
-.headerClickable-zGQJz3{
+.radioBar-1XgZqD.radioPositionLeft-27wZ8M{
     border-radius: var(--radius);
 }
 .suggestedColor-2q1U7c{
@@ -283,6 +282,9 @@
 .lastChannel-21yyB,
 .tierBody-1d3UiSC{
     border-radius: 0px 0px var(--radius) var(--radius);
+}
+.headerClickable-zGQJz3{
+    border-radius: var(--radius) !important; /* Try to fix log not rounded */
 }
 
 /* Slash Command */
