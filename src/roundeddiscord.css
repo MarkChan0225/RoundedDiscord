@@ -1,3 +1,30 @@
+/* Chat UI */
+.typeWindows-2-g3UY,
+.container-1eFtFS{
+    background-color:var(--darkgrey);
+}
+.theme-dark .container-2cd8Mz, .chat-2ZfjoI{
+    border-radius: 16px;
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-right: 10px;
+    margin-left: 5px;
+}
+.sidebar-1tnWFu{
+    border-radius: 16px;
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.wrapper-1_HaEi{
+    border-radius: 16px;
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-right: 5px;
+    margin-left: 10px;
+}
+
 /* Round Bot Tag */
 .botTag-7aX5WZ:not(.botTagOP-3pUTXu) {
     color: var(--brand-560);
@@ -95,7 +122,6 @@
 }
 .panels-3wFtMD,
 .container-YkUktl{
-    background-color: var(--background-secondary-alt);
     border-radius: var(--radius) var(--radius) 0px 0px;
 }
 
