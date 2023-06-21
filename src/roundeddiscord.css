@@ -11,6 +11,28 @@
     margin-left: 0.25rem;
 }
 
+/* Invite */
+.contentWrapper-3oy4Xo{
+    border-radius: var(--radius) 0px 0px var(--radius);
+}
+.inviteSplash-2Q0PLE{
+    border-radius: 0px var(--radius) var(--radius) 0px);
+}
+
+/* App Directory */
+.search-2RHhW6,
+.category-2OvQ93,
+.card-2xymMp,
+.container-2NdZr9,
+.headerBanner-ZCUdfQ,
+.category-3LanTP,
+.list-1bztb-,
+.commandName-SDgdgz,
+.category-qFAw-K,
+.clickable-WBCFI5{
+    border-radius: var(--radius);
+}
+
 /* Emoji Selector */
 .contentWrapper-3vHNP2,
 .container-1SX9VC,
@@ -117,12 +139,25 @@
 .wrapper-1HIH0j,
 .inviteSplash-2nkLRX,
 .mainCard-3KBsBI,
-.header-1Uy0p6{
+.header-1Uy0p6,
+.item-1TA5qI,
+.optionButtonWrapper-2lbogO,
+.prompt-R8SyL4,
+.termsFieldBody-2nQ2cD,
+.optionContainer-yOpaLq,
+.testimonialHeroContainer-18HL2a,
+.upsellPreview-zfsyzm,
+.previewListItem-2VAZ-Y,
+.error-2568aZ,
+.developerPortalCtaWrapper-2PniQs,
+.container-13pE3E,
+.featureCard-3XHbjy,
+.tierHeaderUnlocked-1OpOLf{
     border-radius: var(--radius);
 }
 .layout-1qmrhw{border-radius:20px}
 .header-1ffhsl,
-.tierHeader-3q9jIw,
+.tierHeaderLocked-30MLlO,
 .cardHeader-3d6H8N,
 .header-2pgFQm,
 .firstChannel-3vAGDY{
