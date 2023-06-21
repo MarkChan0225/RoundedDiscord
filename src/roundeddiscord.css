@@ -147,8 +147,14 @@
 .notDetected-M3Ghh2, 
 .nowPlaying-3UpuKc,
 .membershipDialog-2wAdpQ,
-.vc-error-card{
+.vc-error-card,
+.swatch-efj8wq,
+.saturation-CLQHFD>div, 
+.saturation-CLQHFD>div>div{
     border-radius: var(--radius);
+}
+.suggestedColor-2q1U7c{
+    border-radius: 10px;
 }
 .animatedContainer-2laTjx{
     border-radius: 0px 0px var(--radius) var(--radius);
@@ -163,7 +169,7 @@
     border-radius: var(--radius);
 }
   
-/* Rounded Server Menu */
+/* Rounded Menu */
 .header-3OsQeK,
 .panels-3wFtMD,
 .container-YkUktl{
@@ -174,7 +180,14 @@
 .interactive-26HRN_,
 .topPill-2vcLsa .item-2GWPIy,
 .container-_dQaft,
-.addFriendInputWrapper-kkoSV9{
+.addFriendInputWrapper-kkoSV9,
+.quickswitcher-pKcM9U,
+.input-3r5zZY,
+.result-u66Ywh,
+.searchBar-3TnChZ .searchBarComponent-3N7dCG,
+.peopleListItem-u6dGxF.active-2UF8Zh, 
+.peopleListItem-u6dGxF:hover,
+.list-3-WAYB{
     border-radius: var(--radius);
 }
 
@@ -187,7 +200,9 @@
 .button-35nmN9,
 .overlayBackground-2aa7wt,
 .messageInputContainer-24qqTx,
-.listRow-2nO1T6{
+.listRow-2nO1T6,
+.accountProfileCard-lbN7n-,
+.background-3d_SjE{
     border-radius: var(--radius);
 }
 
