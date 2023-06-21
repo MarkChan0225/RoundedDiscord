@@ -9,12 +9,9 @@
 @import url(https://MarkChan0225.github.io/RoundedDiscord/src/roundeddiscord.css);
 
 :root {
-    --blurple: #576aed;
     --grey:#252629;
     --lightgrey:#323438;
     --darkgrey:#17181a;
-    --red:#eb4148;
-    --blurple-gradient: linear-gradient(0deg, rgba(37,38,41,1) 0%, rgba(87,106,237,1) 70%);
     --darkgrey-gradient: linear-gradient(0deg, rgba(37,38,41,1) 0%, rgba(23,24,26,1) 100%);
 
     --radius: 16px;
