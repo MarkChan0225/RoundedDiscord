@@ -123,7 +123,8 @@
 .mention, 
 .wrapper-1ZcZW-,
 .wrapper-1HIH0j,
-.wrapper-2vIMkT{
+.wrapper-2vIMkT,
+.hoverButtonGroup-2yZIzC{
     border-radius: var(--radius);
 }
 .newMosaicStyle-2jdUaP .footer-GXWBBp{
@@ -141,7 +142,12 @@
 .valuePropContainer-NqrwuR,
 .cardIcon-1d-mcG:after, 
 .cardIcon-1d-mcG:before,
-.background-Gjdjzm{
+.background-Gjdjzm,
+.vc-plugins-card,
+.notDetected-M3Ghh2, 
+.nowPlaying-3UpuKc,
+.membershipDialog-2wAdpQ,
+.vc-error-card{
     border-radius: var(--radius);
 }
 .animatedContainer-2laTjx{
