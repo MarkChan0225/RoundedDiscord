@@ -116,13 +116,10 @@
 }
   
 /* Rounded Server Menu */
-.header-3OsQeK{
-    background-color: var(--background-secondary-alt);
-    border-radius: 0px 0px var(--radius) var(--radius);
-}
+.header-3OsQeK,
 .panels-3wFtMD,
 .container-YkUktl{
-    border-radius: var(--radius) var(--radius) 0px 0px;
+    border-radius: var(--radius)
 }
 
 /* Home Page */
