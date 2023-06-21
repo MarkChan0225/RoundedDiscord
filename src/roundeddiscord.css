@@ -45,6 +45,15 @@
     border-radius: var(--radius);
 }
 
+/* SoundBoard */
+.picker-20lcBA,
+.soundButton-2P2Ua2
+
+/* Activities */
+.poster-iN2kh_,
+.activityItem-1Z9CTr,
+.activityTag-3C3YK5
+
 /* Discover */
 .searchBox-pyIJJj,
 .card-2TuZPZ,
@@ -234,7 +243,8 @@
 .cardHeader-3d6H8N,
 .header-2pgFQm,
 .firstChannel-3vAGDY,
-.container-1zzFcN{
+.container-1zzFcN,
+.activityPanel-9icbyU{
     border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .footer-IubaaS,
