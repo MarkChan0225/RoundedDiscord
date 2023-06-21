@@ -6,7 +6,7 @@
 .container-2cd8Mz, 
 .chat-2ZfjoI, 
 .pageWrapper-2PwDoS{
-    border-radius: 16px;
+    border-radius: 16px !important; /* Fix sidebar not rounded on windows platform */
     margin-top:10px;
     margin-bottom:10px;
     margin-right: 10px;
