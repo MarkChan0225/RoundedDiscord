@@ -9,7 +9,7 @@
 </div>
 
 # BetterDiscord Users
-Download the latest file in [release](https://github.com/MarkChan0225/RoundedDiscord/releases/latest) and move it into Theme file.
+Download the latest file in [release](https://github.com/MarkChan0225/RoundedDiscord/releases/latest) and move it into 'Theme' file.
 
-# Github link of the theme file
-https://markchan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css
+# Vencord Users
+Copy this [link](https://markchan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css) to 'Theme' setting.
