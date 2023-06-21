@@ -66,6 +66,12 @@
 .wrapper-2vIMkT{
     border-radius: var(--radius);
 }
+.footer-GXWBBp{
+    border-radius: 0px 0px var(--radius) var(--radius);
+}
+.textContainer-36wgKK{
+    border-radius: var(--radius) var(--radius) 0px 0px;
+}
 
 /* Setting */
 .app-2CXKsg button, 
