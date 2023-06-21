@@ -46,7 +46,17 @@
 }
 
 /* Discover */
-.searchBox-pyIJJj
+.searchBox-pyIJJj,
+.card-2TuZPZ,
+.container-1wv6C6,
+.headerImage-1c8Lrb,
+.headerImage-2D5D-v,
+.categoryPill-1zjNrr,
+.splashContainer-2PC_Bm,
+.popout-15UxD6,
+.option-Uc12mm{
+    border-radius: var(--radius);
+}
 
 /* Invite */
 .contentWrapper-3oy4Xo{
