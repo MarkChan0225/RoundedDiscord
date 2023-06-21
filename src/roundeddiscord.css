@@ -3,7 +3,9 @@
 .container-1eFtFS{
     background-color:var(--darkgrey);
 }
-.theme-dark .container-2cd8Mz, .chat-2ZfjoI{
+.container-2cd8Mz, 
+.chat-2ZfjoI, 
+.pageWrapper-2PwDoS{
     border-radius: 16px;
     margin-top:10px;
     margin-bottom:10px;
@@ -37,6 +39,14 @@
 .botTag-7aX5WZ.botTagCozy-3NTBvK:not(.botTagOP-3pUTXu) {
     margin-left: 0.25rem;
 }
+
+/* Create Server */
+.container-x8Y1ix{
+    border-radius: var(--radius);
+}
+
+/* Discover */
+.searchBox-pyIJJj
 
 /* Invite */
 .contentWrapper-3oy4Xo{
@@ -131,11 +141,15 @@
 }
 
 /* Profile */
-.profileBadges-2pItdR {background-color: transparent;}
+.profileBadges-2pItdR, 
+.badgeList-2hF9ig{
+    background-color: transparent;
+}
 .role-2TIOKu,
 .button-35nmN9,
 .overlayBackground-2aa7wt,
-.messageInputContainer-24qqTx{
+.messageInputContainer-24qqTx,
+.listRow-2nO1T6{
     border-radius: var(--radius);
 }
 
@@ -187,7 +201,11 @@
 .featureCard-3XHbjy,
 .tierHeaderUnlocked-1OpOLf,
 .settingCard-xZSDjS,
-.prompt-1sE27N{
+.prompt-1sE27N,
+.messagesPopoutWrap-3zryHW,
+.messageGroupWrapper-1jf_7C,
+.container-18GwIk,
+.container-2rzKKA{
     border-radius: var(--radius);
 }
 .layout-1qmrhw{border-radius:20px}
