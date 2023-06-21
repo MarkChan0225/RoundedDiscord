@@ -122,11 +122,20 @@
 
 /* Setting */
 .app-2CXKsg button, 
-.card-2guEcY:not(.outline-3kFzf8){
+.card-2guEcY:not(.outline-3kFzf8),
+.connection-YOVI9j,
+.connectContainer-1hylYM,
+.valuePropContainer-NqrwuR,
+.cardIcon-1d-mcG:after, 
+.cardIcon-1d-mcG:before,
+.background-Gjdjzm{
     border-radius: var(--radius);
 }
 .animatedContainer-2laTjx{
     border-radius: 0px 0px var(--radius) var(--radius);
+}
+.connectionHeader-Ixbb1s{
+    border-radius: var(--radius) var(--radius) 0px 0px;
 }
   
 /* Rounded Embed Msg */
