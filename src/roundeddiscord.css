@@ -152,7 +152,8 @@
 .swatch-efj8wq,
 .saturation-CLQHFD>div, 
 .saturation-CLQHFD>div>div,
-.radioBar-1XgZqD.radioPositionLeft-27wZ8M{
+.radioBar-1XgZqD.radioPositionLeft-27wZ8M,
+.upsellFooter-1H_OCF{
     border-radius: var(--radius);
 }
 .suggestedColor-2q1U7c{
@@ -265,7 +266,11 @@
 .attachedBars-2BCP3l,
 .card-m7VgZ8,
 .qualitySettingsContainer-2LjkfM,
-.upsellBanner-1tVKtW{
+.upsellBanner-1tVKtW,
+.upsellContainer-22N_CL,
+.checklistContainer-12xGp5,
+.card-ErWTld,
+.howItWorksContainer-3ZDRIG{
     border-radius: var(--radius);
 }
 .layout-1qmrhw{border-radius:20px}
@@ -275,17 +280,20 @@
 .header-2pgFQm,
 .firstChannel-3vAGDY,
 .container-1zzFcN,
-.activityPanel-9icbyU{
+.activityPanel-9icbyU,
+.upsellContent-10YytV,
+.checklistHeader-3liG7E{
     border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .footer-IubaaS,
 .changeDetails-1kMZqI,
 .lastChannel-21yyB,
-.tierBody-1d3UiSC{
+.tierBody-1d3UiSC.
+.upsellFooter-3M1V33{
     border-radius: 0px 0px var(--radius) var(--radius);
 }
 .headerClickable-zGQJz3{
-    border-radius: var(--radius) !important; /* Try to fix log not rounded */
+    border-radius: var(--radius) !important; /* Fix server log not rounded */
 }
 
 /* Slash Command */
