@@ -47,12 +47,16 @@
 
 /* SoundBoard */
 .picker-20lcBA,
-.soundButton-2P2Ua2
+.soundButton-2P2Ua2{
+    border-radius: var(--radius);
+}
 
 /* Activities */
 .poster-iN2kh_,
 .activityItem-1Z9CTr,
-.activityTag-3C3YK5
+.activityTag-3C3YK5{
+    border-radius: var(--radius);
+}
 
 /* Discover */
 .searchBox-pyIJJj,
