@@ -1,4 +1,4 @@
-# Rounded Dark           [![Latest Release][https://img.shields.io/github/v/release/MarkChan0225/RoundedDiscord?color=gree&label=release&style=for-the-badge)](https://github.com/MarkChan0225/RoundedDiscord/releases/latest)
+# Rounded Dark           [![Latest Release][(https://img.shields.io/github/v/release/MarkChan0225/RoundedDiscord?color=gree&label=release&style=for-the-badge)](https://github.com/MarkChan0225/RoundedDiscord/releases/latest)
 
 # Vencord Users
 Copy [this link](https://raw.githubusercontent.com/MarkChan0225/RoundedDiscord/main/RoundedDiscord.theme.css) into Theme setting.
