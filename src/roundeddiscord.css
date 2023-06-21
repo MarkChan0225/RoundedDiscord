@@ -40,7 +40,8 @@
 .container-2oNtJn,
 .gif-2kTiNB,
 .categoryFade-3RRG67, 
-.categoryFadeBlurple-1l49_Q{
+.categoryFadeBlurple-1l49_Q,
+.contentWrapper-2f9yME{
     border-radius: var(--radius);
 }
 
@@ -61,7 +62,8 @@
 .reaction-102jx9,
 .mention, 
 .wrapper-1ZcZW-,
-.wrapper-1HIH0j{
+.wrapper-1HIH0j,
+.wrapper-2vIMkT{
     border-radius: var(--radius);
 }
 
@@ -93,7 +95,9 @@
 
 /* Home Page */
 .interactive-26HRN_,
-.topPill-2vcLsa .item-2GWPIy{
+.topPill-2vcLsa .item-2GWPIy,
+.container-_dQaft,
+.addFriendInputWrapper-kkoSV9{
     border-radius: var(--radius);
 }
 
@@ -152,7 +156,8 @@
 .developerPortalCtaWrapper-2PniQs,
 .container-13pE3E,
 .featureCard-3XHbjy,
-.tierHeaderUnlocked-1OpOLf{
+.tierHeaderUnlocked-1OpOLf,
+.settingCard-xZSDjS{
     border-radius: var(--radius);
 }
 .layout-1qmrhw{border-radius:20px}
