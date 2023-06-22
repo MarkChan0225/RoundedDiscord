@@ -193,7 +193,10 @@
 .searchBar-3TnChZ .searchBarComponent-3N7dCG,
 .peopleListItem-u6dGxF.active-2UF8Zh, 
 .peopleListItem-u6dGxF:hover,
-.list-3-WAYB{
+.list-3-WAYB,
+.itemCard-3Etziu,
+.section-3G9aLW:only-child,
+.twitchSectionPreview-3qElNQ{
     border-radius: var(--radius);
 }
 
