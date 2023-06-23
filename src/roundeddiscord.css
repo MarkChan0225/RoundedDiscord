@@ -48,6 +48,14 @@
 #bd-editor-controls{
     border-radius: var(--radius) var(--radius) 0px 0px;
 }
+
+/* Vencord */
+.vc-plugins-card,
+.vc-error-card,
+.vc-st-modal-content input{
+    border-radius: var(--radius);
+}
+
 /* Round Bot Tag By @sunn_ie */
 .botTag-7aX5WZ:not(.botTagOP-3pUTXu) {
     color: var(--brand-560);
@@ -166,11 +174,9 @@
 .cardIcon-1d-mcG:after, 
 .cardIcon-1d-mcG:before,
 .background-Gjdjzm,
-.vc-plugins-card,
 .notDetected-M3Ghh2, 
 .nowPlaying-3UpuKc,
 .membershipDialog-2wAdpQ,
-.vc-error-card,
 .swatch-efj8wq,
 .saturation-CLQHFD>div, 
 .saturation-CLQHFD>div>div,
@@ -298,8 +304,7 @@
 .howItWorksContainer-3ZDRIG,
 .guildPopout-1PxOP0,
 .descriptionContainer-2ylKGk,
-.messageAttachmentMediaMosaic-2ic1yt,
-.vc-st-modal-content input{
+.messageAttachmentMediaMosaic-2ic1yt{
     border-radius: var(--radius);
 }
 .layout-1qmrhw{border-radius:20px}
