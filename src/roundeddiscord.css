@@ -41,12 +41,20 @@
 .bd-search-wrapper,
 .bd-select-transparent,
 .bd-notice,
-.bd-notice:first-child{
+.bd-notice:first-child,
+.bd-addon-error,
+.bd-tab-item,
+.bd-number-input,
+.bd-changelog-modal video, 
+.bd-changelog-modal img{
     border-radius: var(--radius);
 }
 
 #bd-editor-controls{
     border-radius: var(--radius) var(--radius) 0px 0px;
+}
+.monaco-editor:not(.rename-box){
+    border-radius: 0px 0px var(--radius) var(--radius);
 }
 
 /* Vencord */
