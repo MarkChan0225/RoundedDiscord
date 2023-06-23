@@ -35,6 +35,19 @@
     margin-left: 5px;
 }
 
+/* BetterDiscord */
+.bd-select,
+.bd-addon-list .bd-addon-card,
+.bd-search-wrapper,
+.bd-select-transparent,
+.bd-notice,
+.bd-notice:first-child{
+    border-radius: var(--radius);
+}
+
+#bd-editor-controls{
+    border-radius: var(--radius) var(--radius) 0px 0px;
+}
 /* Round Bot Tag By @sunn_ie */
 .botTag-7aX5WZ:not(.botTagOP-3pUTXu) {
     color: var(--brand-560);
