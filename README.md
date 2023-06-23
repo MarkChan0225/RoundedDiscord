@@ -14,8 +14,8 @@
 
 # Feature:
 1. No colour changed, can be used with your nitro theme or day theme.
-2. Totally rounded UI, an art.
-3. lifetime support and maintenance.
+2. Fully rounded UI, a work of art.
+3. Lifetime support and maintenance.
 4. Always fix the bug at the first time.
 
 # BetterDiscord Users
