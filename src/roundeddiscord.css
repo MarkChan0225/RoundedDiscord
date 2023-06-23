@@ -230,7 +230,9 @@
 .list-3-WAYB,
 .itemCard-3Etziu,
 .section-3G9aLW:only-child,
-.twitchSectionPreview-3qElNQ{
+.twitchSectionPreview-3qElNQ,
+.withTagAsButton-OsgQ9L, 
+.withTagless-10ooWt{
     border-radius: var(--radius);
 }
 
