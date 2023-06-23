@@ -247,8 +247,13 @@
 .messageInputContainer-24qqTx,
 .listRow-2nO1T6,
 .accountProfileCard-lbN7n-,
-.background-3d_SjE{
+.background-3d_SjE,
+.userPopoutInner-nv9Y92:before,
+.userProfileOuter-2tQwNf{
     border-radius: var(--radius);
+}
+.roundedBanner-uNt2w-{
+    border-radius: var(--radius) var(--radius) 0px 0px;
 }
 
 /* Server */
