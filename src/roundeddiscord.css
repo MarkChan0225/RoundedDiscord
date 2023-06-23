@@ -319,7 +319,11 @@
 .roleMessagePreview-NUi2Ri{
     border-radius: var(--radius);
 }
-.layout-1qmrhw{border-radius:20px}
+.layout-1qmrhw{
+    border-radius: 20px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
 .header-1ffhsl,
 .tierHeaderLocked-30MLlO,
 .cardHeader-3d6H8N,
