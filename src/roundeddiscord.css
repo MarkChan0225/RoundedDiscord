@@ -363,6 +363,12 @@
     margin-right: 10px;
     margin-left: 5px;
 }
+.guildSidebar-UHnQqs{
+    border-radius: var(--radius) 0px 0px var(--radius);
+}
+.modal-2TOYtq{
+    border-radius: 0px var(--radius) var(--radius) 0pz;
+}
 
 /* Slash Command */
 .outerWrapper-3UdjNj,
