@@ -339,6 +339,11 @@
 .headerClickable-zGQJz3{
     border-radius: var(--radius) !important; /* Fix server log not rounded */
 }
+.notice-2HEN-u{
+    border-radius: var(--radius);
+    margin-right: 10px;
+    margin-left: 5px;
+}
 
 /* Slash Command */
 .outerWrapper-3UdjNj,
