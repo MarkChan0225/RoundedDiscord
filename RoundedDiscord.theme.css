@@ -1,7 +1,7 @@
 /**
  * @name Rounded Discord
  * @author MarkChan0225
- * @version 0.1.0
+ * @version 0.1.1
  * @description A rounded Discord theme
  * @source https://github.com/MarkChan0225/RoundedDiscord/
 */
@@ -15,5 +15,4 @@
     --darkgrey-gradient: linear-gradient(0deg, rgba(37,38,41,1) 0%, rgba(23,24,26,1) 100%);
 
     --radius: 16px;
-    --spacing: 11px;
 }
