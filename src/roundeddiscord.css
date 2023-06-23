@@ -1,6 +1,4 @@
 /* Chat UI */
-.typeWindows-2-g3UY,
-.container-1eFtFS,
 .resizeHandle-PBRzPC{
     background-color:var(--darkgrey);
 }
@@ -16,8 +14,8 @@
 .sidebar-1tnWFu,
 .chat-2ZfjoI.threadSidebarOpen-1LSXvU{
     border-radius: var(--radius) !important; /* Fix sidebar not rounded on windows platform */
-    margin-top:10px;
-    margin-bottom:10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     margin-right: 5px !important;
     margin-left: 5px;
 }
@@ -27,6 +25,7 @@
     margin-bottom: 10px;
     margin-right: 5px;
     margin-left: 10px;
+    background-color: var(--background-secondary);
 }
 .container-3XgAHv{
     border-radius: var(--radius);
