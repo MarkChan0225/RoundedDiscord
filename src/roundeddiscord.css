@@ -313,7 +313,8 @@
 .guildPopout-1PxOP0,
 .descriptionContainer-2ylKGk,
 .messageAttachmentMediaMosaic-2ic1yt,
-.role-23oyrw{
+.role-23oyrw,
+.cardContainerWithoutTopIndicator-36cvDB{
     border-radius: var(--radius);
 }
 .layout-1qmrhw{border-radius:20px}
