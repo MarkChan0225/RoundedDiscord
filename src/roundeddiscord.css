@@ -285,7 +285,8 @@
 .howItWorksContainer-3ZDRIG,
 .guildPopout-1PxOP0,
 .descriptionContainer-2ylKGk,
-.messageAttachmentMediaMosaic-2ic1yt{
+.messageAttachmentMediaMosaic-2ic1yt,
+.vc-st-modal-content input{
     border-radius: var(--radius);
 }
 .layout-1qmrhw{border-radius:20px}
