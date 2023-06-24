@@ -213,9 +213,11 @@
   
 /* Rounded Menu */
 .header-3OsQeK,
-.panels-3wFtMD,
-.container-YkUktl{
+.panels-3wFtMD{
     border-radius: var(--radius)
+}
+.container-YkUktl{
+    border-radius: 0px 0px var(--radius) var(--radius);
 }
 
 /* Home Page */
