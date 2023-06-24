@@ -65,35 +65,6 @@
     border-radius: var(--radius);
 }
 
-/* RolesBackground By @carrot#4216 */
-.role-2TIOKu {
-    transform: translate(0);
-    overflow: hidden;
-    border: 0;
-
-    --transparency: .4;
-    border-radius: var(--radius);
-}
-.role-2TIOKu .roleRemoveIcon-387wKV {
-    margin: 0;
-    left: unset;
-    transform: translate(50%,-50%);
-}
-.role-2TIOKu .roleRemoveButton-17oXnT {
-    position: static;
-}
-.role-2TIOKu .roleCircle-3TFUOr:after {
-    content: '';
-    top: 0;
-    left: 0;
-    z-index: -1;
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    background: inherit;
-    opacity: var(--transparency);
-}
-
 /* Round Bot Tag By @sunn_ie */
 .botTag-7aX5WZ:not(.botTagOP-3pUTXu) {
     color: var(--brand-560);
