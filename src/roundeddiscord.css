@@ -139,7 +139,8 @@
 .gif-2kTiNB,
 .categoryFade-3RRG67, 
 .categoryFadeBlurple-1l49_Q,
-.contentWrapper-2f9yME{
+.contentWrapper-2f9yME,
+.container-3a5mk-{
     border-radius: var(--radius);
 }
 
@@ -326,7 +327,9 @@
 .messageAttachmentMediaMosaic-2ic1yt,
 .role-23oyrw,
 .cardContainerWithoutTopIndicator-36cvDB,
-.roleMessagePreview-NUi2Ri{
+.roleMessagePreview-NUi2Ri,
+.noiseCancellationPopout-2-e5Xz,
+.container-2ebMPP{
     border-radius: var(--radius);
 }
 .layout-1qmrhw{
