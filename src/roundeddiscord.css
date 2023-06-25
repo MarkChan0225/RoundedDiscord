@@ -347,7 +347,8 @@
 .activityPanel-9icbyU,
 .upsellContent-10YytV,
 .checklistHeader-3liG7E,
-.container-ZMc96U{
+.container-ZMc96U,
+.modal-2TOYtq{
     border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .footer-IubaaS,
@@ -369,9 +370,6 @@
 }
 .guildSidebar-UHnQqs{
     border-radius: var(--radius) 0px 0px var(--radius);
-}
-.modal-2TOYtq{
-    border-radius: 0px var(--radius) var(--radius) 0pz;
 }
 
 /* Slash Command */
