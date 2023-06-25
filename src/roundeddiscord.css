@@ -237,6 +237,9 @@
 .withTagless-10ooWt{
     border-radius: var(--radius);
 }
+.avatarWrapper-1B9FTW{
+    border-radius: var(--radius) !important;
+}
 
 /* Profile */
 .profileBadges-2pItdR, 
