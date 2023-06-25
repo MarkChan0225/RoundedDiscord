@@ -127,8 +127,12 @@
 .list-1bztb-,
 .commandName-SDgdgz,
 .category-qFAw-K,
-.clickable-WBCFI5{
+.clickable-WBCFI5,
+.card-sX105p{
     border-radius: var(--radius);
+}
+.splashImage-1iRUgw{
+    border-radius: var(--radius) var(--radius) 0px 0px;
 }
 
 /* Emoji Selector */
