@@ -20,8 +20,8 @@
 
 ## Installation:
 
-# BetterDiscord Users
+### BetterDiscord Users
 Download the latest file in [release](https://github.com/MarkChan0225/RoundedDiscord/releases/latest) or by [this link](https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css) and move it into 'Theme' file.
 
-# Vencord Users
+### Vencord Users
 Copy this [link](https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css) to 'Theme' setting.
