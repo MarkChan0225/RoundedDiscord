@@ -12,14 +12,16 @@
 
 </div>
 
-# Feature:
+## Feature:
 1. No colour changed, can be used with your nitro theme or day theme.
 2. Fully rounded UI, a work of art.
 3. Lifetime support and maintenance.
 4. Always fix the bug at the first time.
 
+## Installation:
+
 # BetterDiscord Users
 Download the latest file in [release](https://github.com/MarkChan0225/RoundedDiscord/releases/latest) or by [this link](https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css) and move it into 'Theme' file.
 
 # Vencord Users
-Copy this [link](https://markchan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css) to 'Theme' setting.
+Copy this [link](https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css) to 'Theme' setting.
