@@ -335,7 +335,8 @@
 .noiseCancellationPopout-2-e5Xz,
 .container-2ebMPP,
 .profileCard-2gVmvm,
-.messageContainer-3VTXBC{
+.messageContainer-3VTXBC,
+.channelTextArea-1VQBuV{
     border-radius: var(--radius);
 }
 .layout-1qmrhw{
@@ -353,7 +354,8 @@
 .upsellContent-10YytV,
 .checklistHeader-3liG7E,
 .container-ZMc96U,
-.modal-2TOYtq{
+.modal-2TOYtq,
+.jumpToPresentBar-1cEnH0{
     border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .footer-IubaaS,
