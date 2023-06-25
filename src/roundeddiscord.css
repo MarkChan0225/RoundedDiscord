@@ -377,6 +377,7 @@
 }
 .notice-2HEN-u{
     border-radius: var(--radius);
+    margin-top: 10px;
     margin-right: 10px;
     margin-left: 5px;
 }
