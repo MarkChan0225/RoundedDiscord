@@ -51,7 +51,7 @@
     border-radius: var(--radius);
 }
 
-#bd-editor-controls{
+.bd-editor-controls{
     border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .monaco-editor:not(.rename-box){
@@ -59,11 +59,13 @@
 }
 
 /* Vencord */
-.vc-plugins-card,
 .vc-error-card,
 .vc-st-modal-content input,
 .vc-notification-root{
     border-radius: var(--radius);
+}
+.vc-plugins-card{
+    border-radius: var(--radius) !important;
 }
 
 /* Round Bot Tag By @sunn_ie */
