@@ -255,6 +255,12 @@
 .avatarWrapper-1B9FTW{
     border-radius: var(--radius) !important;
 }
+.card-14SgW5{
+    border-radius: var(--radius) var(--radius) 0px 0px;
+}
+.navRow-dG-XX8{
+    border-radius: 0px 0px var(--radius) var(--radius);
+}
 
 /* Profile */
 .profileBadges-2pItdR, 
