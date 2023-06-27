@@ -60,11 +60,11 @@
 
 /* Vencord */
 .vc-error-card,
-.vc-st-modal-content input,
-.vc-notification-root{
+.vc-st-modal-content input{
     border-radius: var(--radius);
 }
-.vc-plugins-card{
+.vc-plugins-card,
+.vc-notification-root{
     border-radius: var(--radius) !important;
 }
 
