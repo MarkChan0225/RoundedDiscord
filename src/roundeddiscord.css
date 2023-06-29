@@ -111,6 +111,9 @@
 .option-Uc12mm{
     border-radius: var(--radius);
 }
+.sidebarContainer-gUKhtL{
+    border-radius: var(--radius) 0px 0px var(--radius);
+}
 
 /* Invite */
 .contentWrapper-3oy4Xo{
