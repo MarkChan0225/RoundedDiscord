@@ -1,39 +1,41 @@
 /* Chat UI */
-.resizeHandle-PBRzPC{
-    width: 0px;
+.resizeHandle-PBRzPC {
+  width: 0px;
 }
-.container-2cd8Mz, 
-.chat-2ZfjoI, 
+.container-2cd8Mz,
+.chat-2ZfjoI,
 .pageWrapper-2PwDoS,
-.container-2_BXG-{
-    border-radius: var(--radius);
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-right: 10px;
-    margin-left: 5px;
+.container-2_BXG- {
+  border-radius: var(--radius);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 5px;
 }
 .sidebar-1tnWFu,
-.chat-2ZfjoI.threadSidebarOpen-1LSXvU{
-    border-radius: var(--radius) !important; /* Fix sidebar not rounded on windows platform */
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-right: 5px !important;
-    margin-left: 5px;
+.chat-2ZfjoI.threadSidebarOpen-1LSXvU {
+  border-radius: var(
+    --radius
+  ) !important; /* Fix sidebar not rounded on windows platform */
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 5px !important;
+  margin-left: 5px;
 }
-.wrapper-1_HaEi{
-    border-radius: var(--radius);
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-right: 5px;
-    margin-left: 10px;
-    background-color: var(--background-secondary);
+.wrapper-1_HaEi {
+  border-radius: var(--radius);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  margin-left: 10px;
+  background-color: var(--background-secondary);
 }
-.container-3XgAHv{
-    border-radius: var(--radius);
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-right: 5px;
-    margin-left: 5px;
+.container-3XgAHv {
+  border-radius: var(--radius);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  margin-left: 5px;
 }
 
 /* BetterDiscord */
@@ -46,57 +48,57 @@
 .bd-addon-error,
 .bd-tab-item,
 .bd-number-input,
-.bd-changelog-modal video, 
-.bd-changelog-modal img{
-    border-radius: var(--radius);
+.bd-changelog-modal video,
+.bd-changelog-modal img {
+  border-radius: var(--radius);
 }
 
-.bd-editor-controls{
-    border-radius: var(--radius) var(--radius) 0px 0px;
+.bd-editor-controls {
+  border-radius: var(--radius) var(--radius) 0px 0px;
 }
-.monaco-editor:not(.rename-box){
-    border-radius: 0px 0px var(--radius) var(--radius);
+.monaco-editor:not(.rename-box) {
+  border-radius: 0px 0px var(--radius) var(--radius);
 }
 
 /* Vencord */
 .vc-error-card,
-.vc-st-modal-content input{
-    border-radius: var(--radius);
+.vc-st-modal-content input {
+  border-radius: var(--radius);
 }
 .vc-plugins-card,
-.vc-notification-root{
-    border-radius: var(--radius) !important;
+.vc-notification-root {
+  border-radius: var(--radius) !important;
 }
 
 /* Round Bot Tag By @sunn_ie */
 .botTag-7aX5WZ:not(.botTagOP-3pUTXu) {
-    color: var(--brand-560);
-    background-color: var(--brand-260);
-    height: 0.9375rem;
-    padding: 0 0.275rem;
-    border-radius: var(--radius);
-    margin-top: 0.25em;
+  color: var(--brand-560);
+  background-color: var(--brand-260);
+  height: 0.9375rem;
+  padding: 0 0.275rem;
+  border-radius: var(--radius);
+  margin-top: 0.25em;
 }
 .botTag-7aX5WZ.botTagCozy-3NTBvK:not(.botTagOP-3pUTXu) {
-    margin-left: 0.25rem;
+  margin-left: 0.25rem;
 }
 
 /* Create Server */
-.container-x8Y1ix{
-    border-radius: var(--radius);
+.container-x8Y1ix {
+  border-radius: var(--radius);
 }
 
 /* SoundBoard */
 .picker-20lcBA,
-.soundButton-2P2Ua2{
-    border-radius: var(--radius);
+.soundButton-2P2Ua2 {
+  border-radius: var(--radius);
 }
 
 /* Activities */
 .poster-iN2kh_,
 .activityItem-1Z9CTr,
-.activityTag-3C3YK5{
-    border-radius: var(--radius);
+.activityTag-3C3YK5 {
+  border-radius: var(--radius);
 }
 
 /* Discover */
@@ -108,19 +110,19 @@
 .categoryPill-1zjNrr,
 .splashContainer-2PC_Bm,
 .popout-15UxD6,
-.option-Uc12mm{
-    border-radius: var(--radius);
+.option-Uc12mm {
+  border-radius: var(--radius);
 }
-.sidebarContainer-gUKhtL{
-    border-radius: var(--radius) 0px 0px var(--radius);
+.sidebarContainer-gUKhtL {
+  border-radius: var(--radius) 0px 0px var(--radius);
 }
 
 /* Invite */
-.contentWrapper-3oy4Xo{
-    border-radius: var(--radius) 0px 0px var(--radius);
+.contentWrapper-3oy4Xo {
+  border-radius: var(--radius) 0px 0px var(--radius);
 }
-.inviteSplash-2Q0PLE{
-    border-radius: 0px var(--radius) var(--radius) 0px;
+.inviteSplash-2Q0PLE {
+  border-radius: 0px var(--radius) var(--radius) 0px;
 }
 
 /* App Directory */
@@ -134,11 +136,11 @@
 .commandName-SDgdgz,
 .category-qFAw-K,
 .clickable-WBCFI5,
-.card-sX105p{
-    border-radius: var(--radius);
+.card-sX105p {
+  border-radius: var(--radius);
 }
-.splashImage-1iRUgw{
-    border-radius: var(--radius) var(--radius) 0px 0px;
+.splashImage-1iRUgw {
+  border-radius: var(--radius) var(--radius) 0px 0px;
 }
 
 /* Emoji Selector */
@@ -147,29 +149,29 @@
 .badgeLabel-2Eo2Mq,
 .container-2oNtJn,
 .gif-2kTiNB,
-.categoryFade-3RRG67, 
+.categoryFade-3RRG67,
 .categoryFadeBlurple-1l49_Q,
 .contentWrapper-2f9yME,
-.container-3a5mk-{
-    border-radius: var(--radius);
+.container-3a5mk- {
+  border-radius: var(--radius);
 }
 
 /* Search */
-.searchBar-jGtisZ, 
-.searchResult-O9NDji{
-    border-radius: var(--radius);
+.searchBar-jGtisZ,
+.searchResult-O9NDji {
+  border-radius: var(--radius);
 }
-.searchFilter-2UfsDk{
-    border-radius: var(--radius) 0px 0px var(--radius);
+.searchFilter-2UfsDk {
+  border-radius: var(--radius) 0px 0px var(--radius);
 }
-.searchHeader-1r_ZSh{
-    border-radius: 0px 0px var(--radius) var(--radius);
+.searchHeader-1r_ZSh {
+  border-radius: 0px 0px var(--radius) var(--radius);
 }
 
-/* Rounded Msg */ 
+/* Rounded Msg */
 .reaction-3vwAF2,
 .reaction-102jx9,
-.mention, 
+.mention,
 .wrapper-1ZcZW-,
 .wrapper-1HIH0j,
 .wrapper-2vIMkT,
@@ -177,63 +179,63 @@
 .burstGlow-3AZMzF,
 .hljs,
 .attachment-1PZZB2.newMosaicStyle-35X6XO,
-.languageSelector-2e1IuO{
-    border-radius: var(--radius);
+.languageSelector-2e1IuO {
+  border-radius: var(--radius);
 }
 .newMosaicStyle-2jdUaP .footer-GXWBBp,
-.footer-GXWBBp{
-    border-radius: 0px 0px var(--radius) var(--radius);
+.footer-GXWBBp {
+  border-radius: 0px 0px var(--radius) var(--radius);
 }
 .newMosaicStyle-2jdUaP .textContainer-36wgKK,
-.modalTextContainer-1FUO2W{
-    border-radius: var(--radius) var(--radius) 0px 0px;
+.modalTextContainer-1FUO2W {
+  border-radius: var(--radius) var(--radius) 0px 0px;
 }
 
 /* Setting */
-.app-2CXKsg button, 
+.app-2CXKsg button,
 .card-2guEcY:not(.outline-3kFzf8),
 .connection-YOVI9j,
 .connectContainer-1hylYM,
 .valuePropContainer-NqrwuR,
-.cardIcon-1d-mcG:after, 
+.cardIcon-1d-mcG:after,
 .cardIcon-1d-mcG:before,
 .background-Gjdjzm,
-.notDetected-M3Ghh2, 
+.notDetected-M3Ghh2,
 .nowPlaying-3UpuKc,
 .membershipDialog-2wAdpQ,
 .swatch-efj8wq,
-.saturation-CLQHFD>div, 
-.saturation-CLQHFD>div>div,
+.saturation-CLQHFD > div,
+.saturation-CLQHFD > div > div,
 .radioBar-1XgZqD.radioPositionLeft-27wZ8M,
 .upsellFooter-1H_OCF,
 .card-2guEcY,
 .cardWrapper-1bSePP,
 .paymentPane-ut5qKZ,
 .payment-2bOh4k,
-.expandedInfo-1W31i3{
-    border-radius: var(--radius);
+.expandedInfo-1W31i3 {
+  border-radius: var(--radius);
 }
-.suggestedColor-2q1U7c{
-    border-radius: 10px;
+.suggestedColor-2q1U7c {
+  border-radius: 10px;
 }
-.animatedContainer-2laTjx{
-    border-radius: 0px 0px var(--radius) var(--radius);
+.animatedContainer-2laTjx {
+  border-radius: 0px 0px var(--radius) var(--radius);
 }
-.connectionHeader-Ixbb1s{
-    border-radius: var(--radius) var(--radius) 0px 0px;
+.connectionHeader-Ixbb1s {
+  border-radius: var(--radius) var(--radius) 0px 0px;
 }
-  
+
 /* Rounded Embed Msg */
-.embed-hKpSrO, 
-.imageWrapper-oMkQl4{
-    border-radius: var(--radius);
+.embed-hKpSrO,
+.imageWrapper-oMkQl4 {
+  border-radius: var(--radius);
 }
-  
+
 /* Rounded Menu */
 .header-3OsQeK,
 .panels-3wFtMD,
-.container-YkUktl{
-    border-radius: var(--radius)
+.container-YkUktl {
+  border-radius: var(--radius);
 }
 
 /* Home Page */
@@ -245,31 +247,31 @@
 .input-3r5zZY,
 .result-u66Ywh,
 .searchBar-3TnChZ .searchBarComponent-3N7dCG,
-.peopleListItem-u6dGxF.active-2UF8Zh, 
+.peopleListItem-u6dGxF.active-2UF8Zh,
 .peopleListItem-u6dGxF:hover,
 .list-3-WAYB,
 .itemCard-3Etziu,
 .section-3G9aLW:only-child,
 .twitchSectionPreview-3qElNQ,
-.withTagAsButton-OsgQ9L, 
-.withTagless-10ooWt{
-    border-radius: var(--radius);
+.withTagAsButton-OsgQ9L,
+.withTagless-10ooWt {
+  border-radius: var(--radius);
 }
-.avatarWrapper-1B9FTW{
-    border-radius: var(--radius) !important;
+.avatarWrapper-1B9FTW {
+  border-radius: var(--radius) !important;
 }
-.card-14SgW5{
-    border-radius: var(--radius) var(--radius) 0px 0px;
+.card-14SgW5 {
+  border-radius: var(--radius) var(--radius) 0px 0px;
 }
-.navRow-dG-XX8{
-    border-radius: 0px 0px var(--radius) var(--radius);
+.navRow-dG-XX8 {
+  border-radius: 0px 0px var(--radius) var(--radius);
 }
 
 /* Profile */
-.profileBadges-2pItdR, 
+.profileBadges-2pItdR,
 .badgeList-2hF9ig,
-.badgeList-2aoHPw{
-    background-color: transparent;
+.badgeList-2aoHPw {
+  background-color: transparent;
 }
 .role-2TIOKu,
 .button-35nmN9,
@@ -281,25 +283,25 @@
 .userPopoutInner-nv9Y92:before,
 .userProfileOuter-2tQwNf,
 .userProfileModalInner-3dx9L9:before,
-.connectedAccountContainer-3aLMHJ{
-    border-radius: var(--radius);
+.connectedAccountContainer-3aLMHJ {
+  border-radius: var(--radius);
 }
-.roundedBanner-uNt2w-{
-    border-radius: var(--radius) var(--radius) 0px 0px;
+.roundedBanner-uNt2w- {
+  border-radius: var(--radius) var(--radius) 0px 0px;
 }
 
 /* Server */
-.side-1lrxIh .item-2GWPIy, 
+.side-1lrxIh .item-2GWPIy,
 .role-2TIOKu,
 .menu-2TXYjN,
 .content-1gYQeQ,
 .item-5ApiZt,
 .scrollableContainer-15eg7h,
 .roleRow-230vCm,
-.input-3O04eu, 
+.input-3O04eu,
 .button-ejjZWC,
 .previewContainer-1xQAsw,
-.colorPickerSwatch-RTUGRR.custom-1Up2lr, 
+.colorPickerSwatch-RTUGRR.custom-1Up2lr,
 .colorPickerSwatch-RTUGRR.default-3ISV7m,
 .customColorPicker-C_jddW,
 .previewContainer-1GxmBJ,
@@ -315,7 +317,7 @@
 .container-2kTWmC,
 .wrapper-2SplAX,
 .container-2E0bff,
-.fieldBackground-3nYcw0, 
+.fieldBackground-3nYcw0,
 .fieldBackground-3nYcw0:hover:not(:focus),
 .container-3EtAkD,
 .wrapper-1HIH0j,
@@ -364,13 +366,13 @@
 .item-1Mjtru,
 .jumpButton-1V_1FA,
 .container-3GP6AV,
-.stepContainer-SaPPyG{
-    border-radius: var(--radius);
+.stepContainer-SaPPyG {
+  border-radius: var(--radius);
 }
-.layout-1qmrhw{
-    border-radius: 20px;
-    margin-top: 1px;
-    margin-bottom: 1px;
+.layout-1qmrhw {
+  border-radius: 20px;
+  margin-top: 1px;
+  margin-bottom: 1px;
 }
 .header-1ffhsl,
 .tierHeaderLocked-30MLlO,
@@ -383,8 +385,8 @@
 .checklistHeader-3liG7E,
 .container-ZMc96U,
 .modal-2TOYtq,
-.jumpToPresentBar-1cEnH0{
-    border-radius: var(--radius) var(--radius) 0px 0px;
+.jumpToPresentBar-1cEnH0 {
+  border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .footer-IubaaS,
 .changeDetails-1kMZqI,
@@ -393,23 +395,23 @@
 .upsellFooter-3M1V33,
 .scroller-38C5lh,
 .lastChannel-21yyBC,
-.threadSuggestionBar-3ExSyc{
-    border-radius: 0px 0px var(--radius) var(--radius);
+.threadSuggestionBar-3ExSyc {
+  border-radius: 0px 0px var(--radius) var(--radius);
 }
-.headerClickable-zGQJz3{
-    border-radius: var(--radius) !important; /* Fix server log not rounded */
+.headerClickable-zGQJz3 {
+  border-radius: var(--radius) !important; /* Fix server log not rounded */
 }
-.notice-2HEN-u{
-    border-radius: var(--radius);
-    margin-top: 10px;
-    margin-right: 10px;
-    margin-left: 5px;
+.notice-2HEN-u {
+  border-radius: var(--radius);
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 5px;
 }
-.guildSidebar-UHnQqs{
-    border-radius: var(--radius) 0px 0px var(--radius);
+.guildSidebar-UHnQqs {
+  border-radius: var(--radius) 0px 0px var(--radius);
 }
-.newMessagesBar-1hF-9G{
-    border-radius: 0px 0px var(--radius) var(--radius) !important;
+.newMessagesBar-1hF-9G {
+  border-radius: 0px 0px var(--radius) var(--radius) !important;
 }
 
 /* Slash Command */
@@ -420,12 +422,12 @@
 .root-1CAIjD,
 .container-3jbRo5,
 .select-Zz0IcO,
-.tooltip-1T4pLi{
-    border-radius: var(--radius);
+.tooltip-1T4pLi {
+  border-radius: var(--radius);
 }
-.optionPillKey-2JyeoP{
-    border-radius: var(--radius) 0px 0px var(--radius);
+.optionPillKey-2JyeoP {
+  border-radius: var(--radius) 0px 0px var(--radius);
 }
-.footer-IubaaS{
-    border-radius: 0px 0px var(--radius) var(--radius);
+.footer-IubaaS {
+  border-radius: 0px 0px var(--radius) var(--radius);
 }
