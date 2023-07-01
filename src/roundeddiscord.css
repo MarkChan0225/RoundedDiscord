@@ -146,7 +146,7 @@
   border-radius: var(--radius) var(--radius) 0px 0px;
 }
 
-/* Emoji Selector */
+/* Emoji */
 .contentWrapper-3vHNP2,
 .container-1SX9VC,
 .badgeLabel-2Eo2Mq,
@@ -155,8 +155,15 @@
 .categoryFade-3RRG67,
 .categoryFadeBlurple-1l49_Q,
 .contentWrapper-2f9yME,
-.container-3a5mk- {
+.container-3a5mk-,
+.container-KM8BU6, 
+.reactors-1VXca7,
+.reactionDefault-1Sjj1f, 
+.reactionSelected-1aMb2K {
   border-radius: var(--radius);
+}
+.scroller-2GkvCq{
+  border-radius: var(--radius) 0px 0px var(--radius);
 }
 
 /* Search */
