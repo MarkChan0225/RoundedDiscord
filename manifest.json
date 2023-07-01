@@ -7,7 +7,7 @@
     "discordID": "608821416212692993",
     "github": "MarkChan0225"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "updater": {
     "type": "store",
     "id": "dev.markchan0225.RounedDiscord"
