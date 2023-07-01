@@ -25,7 +25,7 @@
 Use [this link](https://replugged.dev/install?identifier=dev.markchan0225.RounedDiscord) to install the theme.
 
 ### BetterDiscord Users
-Download the latest file in [release](https://github.com/MarkChan0225/RoundedDiscord/releases/latest) or by [this link](https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css) and move it into 'Theme' file.
+Download the latest `RoundedDiscord.theme.css` file in [release](https://github.com/MarkChan0225/RoundedDiscord/releases/latest) or by [this link](https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css) and move it into 'Theme' file.
 
 ### Vencord Users
 Copy this [link](https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css) to 'Theme' setting.
