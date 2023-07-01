@@ -1,5 +1,5 @@
 {
-  "id": "dev.markchan0225.RoundedDiscord",
+  "id": "dev.markchan0225.RounedDiscord",
   "name": "RoundedDiscord",
   "description": "A theme which make your discord round.",
   "author": {
@@ -10,11 +10,11 @@
   "version": "1.0.0",
   "updater": {
     "type": "store",
-    "id": "dev.markchan0225.RoundedDiscord"
+    "id": "dev.markchan0225.RounedDiscord"
   },
   "license": "MIT",
   "type": "replugged-theme",
   "main": "src/main.css",
-  "source": "https://github.com/MarkChan0225/RoundedDiscord-RePlugged",
+  "source": "https://github.com/MarkChan0225/RoundedDiscord",
   "image": "https://i.imgur.com/jiCdqbD.png"
 }
