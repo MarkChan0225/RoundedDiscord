@@ -14,7 +14,9 @@
 }
 .sidebar-1tnWFu,
 .chat-2ZfjoI.threadSidebarOpen-1LSXvU {
-  border-radius: var(--radius) !important; /* Fix sidebar not rounded on windows platform */
+  border-radius: var(
+    --radius
+  ) !important; /* Fix sidebar not rounded on windows platform */
   margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 5px !important;
@@ -156,13 +158,13 @@
 .categoryFadeBlurple-1l49_Q,
 .contentWrapper-2f9yME,
 .container-3a5mk-,
-.container-KM8BU6, 
+.container-KM8BU6,
 .reactors-1VXca7,
-.reactionDefault-1Sjj1f, 
+.reactionDefault-1Sjj1f,
 .reactionSelected-1aMb2K {
   border-radius: var(--radius);
 }
-.scroller-2GkvCq{
+.scroller-2GkvCq {
   border-radius: var(--radius) 0px 0px var(--radius);
 }
 
