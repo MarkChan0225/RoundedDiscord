@@ -70,6 +70,11 @@
   border-radius: var(--radius) !important;
 }
 
+/* Replugged */
+.replugged-addon-card {
+  border-radius: var(--radius);
+}
+
 /* Round Bot Tag By @sunn_ie */
 .botTag-7aX5WZ:not(.botTagOP-3pUTXu) {
   color: var(--brand-560);
