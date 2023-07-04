@@ -387,7 +387,9 @@
 .jumpButton-1ZwI_j,
 .buttonInner-3aRbcx,
 .burstGlow-uhab6Q,
-.upsell-3B1lnN {
+.upsell-3B1lnN,
+.addReactButton-3bSQb6, 
+.buttonInner-3aRbcx {
   border-radius: var(--radius);
 }
 .layout-1qmrhw {
