@@ -59,12 +59,12 @@
 }
 
 /* Vencord */
-.vc-error-card,
-.vc-st-modal-content input {
+.vc-error-card {
   border-radius: var(--radius);
 }
 .vc-plugins-card,
-.vc-notification-root {
+.vc-notification-root,
+.vc-st-modal-content input {
   border-radius: var(--radius) !important;
 }
 
