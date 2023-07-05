@@ -438,7 +438,7 @@
   border-radius: 0px 0px var(--radius) var(--radius) !important;
 }
 .controlButton-2PMNom > svg > foreignObject {
-  mask:none; 
+  mask: none;
 }
 
 /* Slash Command */
