@@ -14,9 +14,7 @@
 }
 .sidebar-1tnWFu,
 .chat-2ZfjoI.threadSidebarOpen-1LSXvU {
-  border-radius: var(
-    --radius
-  ) !important; /* Fix sidebar not rounded on windows platform */
+  border-radius: var(--radius) !important; /* Fix sidebar not rounded on windows platform */
   margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 5px !important;
