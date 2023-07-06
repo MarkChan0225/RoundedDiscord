@@ -307,7 +307,6 @@
 }
 
 /* Server */
-.side-1lrxIh .item-2GWPIy,
 .role-2TIOKu,
 .menu-2TXYjN,
 .content-1gYQeQ,
@@ -423,7 +422,8 @@
 .uploadModal-2ie9O_ .footer-VCsJQY {
   border-radius: 0px 0px var(--radius) var(--radius);
 }
-.headerClickable-zGQJz3 {
+.headerClickable-zGQJz3,
+.side-1lrxIh .item-2GWPIy, {
   border-radius: var(--radius) !important; /* Fix server log not rounded */
 }
 .notice-2HEN-u {
