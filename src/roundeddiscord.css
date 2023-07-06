@@ -14,7 +14,9 @@
 }
 .sidebar-1tnWFu,
 .chat-2ZfjoI.threadSidebarOpen-1LSXvU {
-  border-radius: var(--radius) !important; /* Fix sidebar not rounded on windows platform */
+  border-radius: var(
+    --radius
+  ) !important; /* Fix sidebar not rounded on windows platform */
   margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 5px !important;
@@ -307,9 +309,7 @@
 }
 
 /* Server */
-.side-1lrxIh .item-2GWPIy,
-.link-1_kTxV
-.role-2TIOKu,
+.side-1lrxIh .item-2GWPIy .role-2TIOKu,
 .menu-2TXYjN,
 .content-1gYQeQ,
 .item-5ApiZt,
@@ -424,7 +424,8 @@
 .uploadModal-2ie9O_ .footer-VCsJQY {
   border-radius: 0px 0px var(--radius) var(--radius);
 }
-.headerClickable-zGQJz3 {
+.headerClickable-zGQJz3,
+.link-1_kTxV {
   border-radius: var(--radius) !important; /* Fix server log not rounded */
 }
 .notice-2HEN-u {
