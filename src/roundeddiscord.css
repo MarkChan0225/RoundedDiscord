@@ -160,7 +160,8 @@
 .reactors-1VXca7,
 .reactionDefault-1Sjj1f,
 .reactionSelected-1aMb2K,
-.result-pzZrwj:after {
+.result-pzZrwj:after,
+.popoutContainer-2wbmiM {
   border-radius: var(--radius);
 }
 .scroller-2GkvCq {
