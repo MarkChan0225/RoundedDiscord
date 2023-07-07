@@ -47,15 +47,17 @@
 .bd-tab-item,
 .bd-number-input,
 .bd-changelog-modal video,
-.bd-changelog-modal img {
+.bd-changelog-modal img,
+.monaco-editor .overflow-guard {
   border-radius: var(--radius);
 }
-
-.bd-editor-controls {
-  border-radius: var(--radius) var(--radius) 0px 0px;
+.bd-notice {
+  margin-left: 5px;
+  margin-top: 5px;
+  margin-right: 5px;
 }
-.monaco-editor:not(.rename-box) {
-  border-radius: 0px 0px var(--radius) var(--radius);
+#bd-editor-controls {
+  border-radius: var(--radius) var(--radius) 0px 0px;
 }
 
 /* Vencord */
