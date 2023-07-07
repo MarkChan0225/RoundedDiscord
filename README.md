@@ -22,7 +22,7 @@
 
 ## Preview:
 
-[![Preview](https://img.shields.io/badge/Preview-5865F2?logo=Discord&style=for-the-badge&labelColor=black)](https://discord.gg/98gAY7v6y7)
+[![Preview](https://img.shields.io/badge/Preview-5865F2?logo=Discord&style=for-the-badge&labelColor=black)](https://gibbu.github.io/ThemePreview/?file=https://markchan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css)
 
 ## Installation:
 
