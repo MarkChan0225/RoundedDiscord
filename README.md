@@ -1,6 +1,6 @@
 <div align="center">
   
-# Rounded Discord           
+# Rounded Discord
 
 [![Latest Release](https://img.shields.io/github/v/release/MarkChan0225/RoundedDiscord?color=gree&label=Release&style=flat)](https://github.com/MarkChan0225/RoundedDiscord/releases/latest)
 [![Support Server](https://img.shields.io/discord/1120929009329524849?color=5865F2&labelColor=white&label=Support%20Server&logo=Discord&style=flat)](https://discord.gg/98gAY7v6y7)
@@ -14,18 +14,31 @@
 </div>
 
 ## Feature:
+
 1. No colour changed, can be used with your nitro theme or day theme.
 2. Fully rounded UI, a work of art.
 3. Lifetime support and maintenance.
 4. Always fix the bug at the first time.
 
+## Preview:
+
+[![Preview](https://img.shields.io/badge/Preview-5865F2?logo=Discord&style=for-the-badge&labelColor=black)](https://discord.gg/98gAY7v6y7)
+
 ## Installation:
 
 ### Replugged Users
-Use [this link](https://replugged.dev/install?identifier=dev.markchan0225.RounedDiscord) to install the theme.
+
+Use [this link](https://replugged.dev/install?identifier=dev.markchan0225.RounedDiscord) to install
+the theme.
 
 ### BetterDiscord Users
-Download the latest `RoundedDiscord.theme.css` file in [release](https://github.com/MarkChan0225/RoundedDiscord/releases/latest) or by [this link](https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css) and move it into `Theme` file.
+
+Download the latest `RoundedDiscord.theme.css` file in
+[release](https://github.com/MarkChan0225/RoundedDiscord/releases/latest) or by
+[this link](https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css) and move it into
+`Theme` file.
 
 ### Vencord Users
-Copy this [link](https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css) to `Theme` setting.
+
+Copy this [link](https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css) to `Theme`
+setting.
