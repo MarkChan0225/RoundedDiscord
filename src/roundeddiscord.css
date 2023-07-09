@@ -76,6 +76,9 @@
 .vc-st-modal-content input {
   border-radius: var(--radius) !important;
 }
+#vc-spotify-player {
+  border-radius: var(--radius) var(--radius) 0px 0px;
+}
 
 /* Replugged */
 .replugged-addon-card {
@@ -425,7 +428,8 @@
 .checklistHeader-3liG7E,
 .container-ZMc96U,
 .modal-2TOYtq,
-.jumpToPresentBar-1cEnH0 {
+.jumpToPresentBar-1cEnH0,
+.container-3i3IzO {
   border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .footer-IubaaS,
