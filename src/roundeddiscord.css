@@ -406,8 +406,7 @@
 .addReactButton-3bSQb6,
 .buttonInner-3aRbcx,
 .channelContainer-3YAhb_,
-.containerBackground-Ang24O,
-.callContainer-HtHELf {
+.containerBackground-Ang24O {
   border-radius: var(--radius);
 }
 .layout-1qmrhw {
@@ -440,7 +439,8 @@
 .uploadModal-2ie9O_ .footer-VCsJQY {
   border-radius: 0px 0px var(--radius) var(--radius);
 }
-.headerClickable-zGQJz3 {
+.headerClickable-zGQJz3,
+.callContainer-HtHELf {
   border-radius: var(--radius) !important; /* Fix server log not rounded */
 }
 .notice-2HEN-u {
