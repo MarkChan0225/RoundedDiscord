@@ -35,6 +35,13 @@
   margin-right: 5px;
   margin-left: 5px;
 }
+.channelChatWrapper-35N3nR {
+  border-radius: var(--radius);
+  margin-top: -10px;
+  margin-bottom: -10px;
+  margin-right: -5px;
+  margin-left: 5px;
+}
 
 /* BetterDiscord */
 .bd-select,
@@ -396,7 +403,8 @@
 .addReactButton-3bSQb6,
 .buttonInner-3aRbcx,
 .channelContainer-3YAhb_,
-.containerBackground-Ang24O {
+.containerBackground-Ang24O,
+.callContainer-HtHELf {
   border-radius: var(--radius);
 }
 .layout-1qmrhw {
