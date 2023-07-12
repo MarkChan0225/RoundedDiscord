@@ -409,7 +409,8 @@
 .addReactButton-3bSQb6,
 .buttonInner-3aRbcx,
 .channelContainer-3YAhb_,
-.containerBackground-Ang24O {
+.containerBackground-Ang24O,
+.container-3i3IzO {
   border-radius: var(--radius);
 }
 .layout-1qmrhw {
@@ -428,8 +429,7 @@
 .checklistHeader-3liG7E,
 .container-ZMc96U,
 .modal-2TOYtq,
-.jumpToPresentBar-1cEnH0,
-.container-3i3IzO {
+.jumpToPresentBar-1cEnH0 {
   border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .footer-IubaaS,
