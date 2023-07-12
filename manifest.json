@@ -14,7 +14,7 @@
   },
   "license": "MIT",
   "type": "replugged-theme",
-  "main": "./RoundedDiscord.theme.css",
+  "main": "src/main.css",
   "source": "https://github.com/MarkChan0225/RoundedDiscord",
   "image": "https://i.imgur.com/jiCdqbD.png"
 }
