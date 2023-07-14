@@ -104,3 +104,4 @@ dist
 .tern-port
 
 /bundle
+.parcel-cache
