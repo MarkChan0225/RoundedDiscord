@@ -1,7 +1,0 @@
-@import url(https://MarkChan0225.github.io/RoundedDiscord/src/roundeddiscord.css);
-/* To enable experimental css, delete the / and * in the @import */
-/* @import url(https://MarkChan0225.github.io/RoundedDiscord/src/experimental.css); */
-
-:root {
-  --radius: 16px;
-}
