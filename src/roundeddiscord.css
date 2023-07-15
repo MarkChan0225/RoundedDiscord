@@ -71,7 +71,8 @@
 }
 
 /* Vencord */
-.vc-error-card {
+.vc-error-card,
+.shc-lock-screen-allowed-users-and-roles-container {
   border-radius: var(--radius);
 }
 .vc-plugins-card,
