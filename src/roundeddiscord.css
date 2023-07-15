@@ -475,6 +475,9 @@
 .controlButton-2PMNom > svg > foreignObject {
   mask: none;
 }
+.channelTextArea-1FufC0 {
+  background-color: unset;
+}
 
 /* Slash Command */
 .outerWrapper-3UdjNj,
