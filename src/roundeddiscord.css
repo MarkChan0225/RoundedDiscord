@@ -206,7 +206,8 @@
 .burstGlow-3AZMzF,
 .hljs,
 .attachment-1PZZB2.newMosaicStyle-35X6XO,
-.languageSelector-2e1IuO {
+.languageSelector-2e1IuO,
+.wrapperAudio-1Bzv_Z.newMosaicStyle-31sBoZ {
   border-radius: var(--radius);
 }
 .newMosaicStyle-2jdUaP .footer-GXWBBp,
@@ -216,6 +217,10 @@
 .newMosaicStyle-2jdUaP .textContainer-36wgKK,
 .modalTextContainer-1FUO2W {
   border-radius: var(--radius) var(--radius) 0px 0px;
+}
+.audioControls-3fmemK, 
+.videoControls-2NzHnF {
+  border-radius: var(--radius) !important;
 }
 
 /* Setting */
