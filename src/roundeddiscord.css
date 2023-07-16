@@ -92,7 +92,7 @@
 [id^="folder-items-"] {
   margin-top: 6px;
 }
-.vc-bf-folder-sidebar [class*=expandedFolderBackground-] {
+.vc-bf-folder-sidebar [class*="expandedFolderBackground-"] {
   background: unset !important;
 }
 
