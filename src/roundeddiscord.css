@@ -221,11 +221,13 @@
   border-radius: var(--radius);
 }
 .newMosaicStyle-2jdUaP .footer-GXWBBp,
-.footer-GXWBBp {
+.footer-GXWBBp,
+.footerContainer-11-cKL {
   border-radius: 0px 0px var(--radius) var(--radius);
 }
 .newMosaicStyle-2jdUaP .textContainer-36wgKK,
-.modalTextContainer-1FUO2W {
+.modalTextContainer-1FUO2W,
+.withFooter-3i6JUa {
   border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .audioControls-3fmemK,
