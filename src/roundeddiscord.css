@@ -72,8 +72,8 @@
 
 /* Vencord */
 .vc-bf-folder-sidebar {
-  margin-right: -5px;
-  margin-left: 15px;
+  margin-right: 15px;
+  margin-left: -5px;
 }
 .vc-error-card,
 .shc-lock-screen-allowed-users-and-roles-container,
