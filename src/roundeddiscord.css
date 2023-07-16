@@ -1,7 +1,4 @@
 /* Chat UI */
-.scroller-3X7KbA {
-  margin-top: 6px;
-}
 .resizeHandle-PBRzPC {
   width: 0px;
 }
@@ -29,7 +26,6 @@
   margin-bottom: 10px;
   margin-right: 5px;
   margin-left: 10px;
-  background: unset;
 }
 .container-3XgAHv {
   border-radius: var(--radius);
