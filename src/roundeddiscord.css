@@ -72,7 +72,9 @@
 
 /* Vencord */
 .vc-error-card,
-.shc-lock-screen-allowed-users-and-roles-container {
+.shc-lock-screen-allowed-users-and-roles-container,
+.scroller-1-L89H,
+.memberListItem-3V-x8Q {
   border-radius: var(--radius);
 }
 .vc-plugins-card,
