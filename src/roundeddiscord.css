@@ -71,6 +71,10 @@
 }
 
 /* Vencord */
+.vc-bf-folder-sidebar {
+  margin-right: -5px;
+  margin-left: 15px;
+}
 .vc-error-card,
 .shc-lock-screen-allowed-users-and-roles-container,
 .scroller-1-L89H,
