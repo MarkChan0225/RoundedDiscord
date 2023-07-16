@@ -436,7 +436,15 @@
 .channelContainer-3YAhb_,
 .containerBackground-Ang24O,
 .container-3i3IzO,
-.contentWrapper-2f9yME.isBurstReactionPicker-3h5fqV {
+.contentWrapper-2f9yME.isBurstReactionPicker-3h5fqV,
+.editCard-K9Q9mb,
+.editCard-K9Q9mb:before,
+.triggerMainContainer-274ue5,
+.keywordsTextArea-3QkFoG,
+.collapseable-1FiLab:before,
+.collapseable-1FiLab,
+.textArea-3KjrTT,
+.actionContainer-2krsiT {
   border-radius: var(--radius);
 }
 .layout-1qmrhw {
