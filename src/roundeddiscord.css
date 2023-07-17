@@ -450,7 +450,8 @@
 .actionContainer-2krsiT,
 .content-1Tgc42,
 .card-8UsK4b,
-.simpleItemWrapper-1Zwc4I {
+.simpleItemWrapper-1Zwc4I,
+.container-2McqkF {
   border-radius: var(--radius);
 }
 .layout-1qmrhw {
@@ -471,8 +472,7 @@
 .modal-2TOYtq,
 .jumpToPresentBar-1cEnH0,
 .message-G6O-Wv,
-.disabledButtonWrapper-1m0hYZ,
-.container-2McqkF {
+.disabledButtonWrapper-1m0hYZ {
   border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .footer-IubaaS,
