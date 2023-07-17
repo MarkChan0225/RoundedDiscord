@@ -314,7 +314,8 @@
 .authBox-1HR6Ha,
 .content-1OG56Q,
 .friend-8ZraY7,
-.tag-15zcD_ {
+.tag-15zcD_,
+.contentWrapper-3oy4Xo:only-child {
   border-radius: var(--radius);
 }
 .avatarWrapper-1B9FTW {
