@@ -1,0 +1,33 @@
+/* BetterUserPanel by @dablulite (582170007505731594) */
+.panels-3wFtMD {
+  border-radius: var(--radius);
+  overflow: hidden;
+  transition: 0.2s;
+}
+.panels-3wFtMD .container-YkUktl {
+  flex-direction: column;
+  height: 88px;
+  padding: 8px;
+  margin-bottom: -36px;
+  transition: 0.2s;
+}
+.panels-3wFtMD:hover .container-YkUktl {
+  margin-bottom: 0;
+}
+.panels-3wFtMD .avatarWrapper-1B9FTW {
+  margin-right: 0;
+  width: 100%;
+  padding: 6px;
+  box-sizing: border-box;
+  margin-bottom: 4px;
+  border-radius: var(--radius);
+  transition: 0.15s;
+}
+.panels-3wFtMD .directionRow-2Iu2A9 {
+  gap: 4px;
+}
+.panels-3wFtMD .directionRow-2Iu2A9 > button {
+  width: calc((224px / 3) - 7px);
+  border-radius: var(--radius);
+  transition: 0.15s;
+}
