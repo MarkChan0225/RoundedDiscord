@@ -10,5 +10,8 @@
   background: var(--bg-overlay-1, var(--background-secondary-alt));
 }
 .custom-theme-background .scroller-3X7KbA {
-  background: var(--bg-overlay-3,var(--background-secondary));
+  background: var(--bg-overlay-3, var(--background-secondary));
+}
+.hasConnectedBar-1vN2JH {
+  border-radius: 0px 0px var(--radius) var(--radius);
 }
