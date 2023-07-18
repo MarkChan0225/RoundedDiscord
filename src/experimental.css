@@ -1,6 +1,6 @@
 .container-1NXEtd,
 .privateChannels-oVe7HL {
-  border-radius: 16px;
+  border-radius: var(--radius);
   margin-bottom: 5px;
 }
 .sidebar-1tnWFu {
@@ -8,4 +8,7 @@
 }
 .panels-3wFtMDvar {
   background: var(--bg-overlay-1, var(--background-secondary-alt));
+}
+custom-theme-background .scroller-3X7KbA {
+  background: var(--bg-overlay-3,var(--background-secondary));
 }
