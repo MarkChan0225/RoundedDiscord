@@ -72,6 +72,16 @@
 #bd-editor-controls {
   border-radius: var(--radius) var(--radius) 0px 0px;
 }
+.monaco-editor {
+  border-radius: 0px 0px var(--radius) var(--radius);
+}
+#floating-editor-window {
+  border-radius: var(--radius);
+}
+.floating-window #bd-editor-controls,
+.floating-window .monaco-editor {
+  border-radius: 0px;
+}
 
 /* Vencord */
 .vc-bf-folder-sidebar {
