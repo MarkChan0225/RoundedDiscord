@@ -94,6 +94,7 @@
 }
 [id^="folder-items-"] {
   margin-top: 6px;
+  margin-bottom: 6px;
 }
 .vc-bf-folder-sidebar [class*="expandedFolderBackground-"] {
   background: unset !important;
