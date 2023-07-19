@@ -13,10 +13,10 @@
   background: var(--bg-overlay-3, var(--background-secondary));
 }
 .theme-dark.custom-theme-background .channelTextArea-1FufC0 {
-  background: var(--bg-overlay-1,var(--background-secondary)) !important;
+  background: var(--bg-overlay-1, var(--background-secondary)) !important;
 }
 .theme-light.custom-theme-background .channelTextArea-1FufC0 {
-  background: var(--bg-overlay-2,var(--background-secondary)) !important;
+  background: var(--bg-overlay-2, var(--background-secondary)) !important;
 }
 .channelTextArea-1FufC0 {
   background: var(--background-secondary) !important;
