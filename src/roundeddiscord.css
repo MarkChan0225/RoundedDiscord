@@ -96,6 +96,9 @@
 .vc-bf-folder-sidebar [class*="expandedFolderBackground-"] {
   background: unset !important;
 }
+.platform-osx .vc-bf-folder-sidebar {
+  margin-top: -21px;
+}
 
 /* Replugged */
 .replugged-addon-card {
