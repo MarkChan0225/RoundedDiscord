@@ -118,19 +118,6 @@
   border-radius: var(--radius);
 }
 
-/* Round Bot Tag By @sunn_ie */
-.botTag-7aX5WZ:not(.botTagOP-3pUTXu) {
-  color: var(--brand-560);
-  background-color: var(--brand-260);
-  height: 0.9375rem;
-  padding: 0 0.275rem;
-  border-radius: var(--radius);
-  margin-top: 0.25em;
-}
-.botTag-7aX5WZ.botTagCozy-3NTBvK:not(.botTagOP-3pUTXu) {
-  margin-left: 0.25rem;
-}
-
 /* Create Server */
 .container-x8Y1ix {
   border-radius: var(--radius);
