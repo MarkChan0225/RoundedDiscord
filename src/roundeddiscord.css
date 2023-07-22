@@ -465,7 +465,10 @@
 .container-12NG2g,
 .container-1ILvLB,
 .mainTableContainer-1olPmq,
-.css-19vtg9u-control {
+.css-19vtg9u-control,
+.lastChannel-21yyBC.firstChannel-3vAGDY {
+  border-radius: 16px;
+}
   border-radius: var(--radius);
 }
 .layout-1qmrhw {
