@@ -475,7 +475,9 @@
 .action-3oG-si,
 .row--LCpto,
 .container-12NG2g,
-.container-1ILvLB {
+.container-1ILvLB,
+.mainTableContainer-1olPmq,
+.css-19vtg9u-control {
   border-radius: var(--radius);
 }
 .layout-1qmrhw {
@@ -520,10 +522,12 @@
   margin-right: 10px;
   margin-left: 5px;
 }
-.guildSidebar-UHnQqs {
+.guildSidebar-UHnQqs,
+.roundedRow-2mAezB td:first-child {
   border-radius: var(--radius) 0px 0px var(--radius);
 }
-.newMessagesBar-1hF-9G {
+.newMessagesBar-1hF-9G,
+.roundedRow-2mAezB td:last-child {
   border-radius: 0px 0px var(--radius) var(--radius) !important;
 }
 .controlButton-2PMNom > svg > foreignObject {
