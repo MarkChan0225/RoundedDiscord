@@ -43,3 +43,9 @@ Download the latest `RoundedDiscord.theme.css` file in
 
 Copy this [link](https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css) to `Theme`
 setting.
+
+## Css Adaptation
+
+- [BetterWindowsTitleBar](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/BetterWindowsTitleBar.css) - Let the title bar become better and suitable
+- [BetterUserPanel](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/BetterUserPanel.css) - Let user panel auto collapse
+- [BetterBotTag](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/BetterBotTag.css) - Let bot tag color become better
