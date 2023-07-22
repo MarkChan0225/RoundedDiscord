@@ -19,7 +19,7 @@
   "devDependencies": {
     "@parcel/config-default": "^2.9.3",
     "@parcel/core": "^2.9.3",
-    "@types/node": "^18.16.19",
+    "@types/node": "^18.16.20",
     "prettier": "^2.8.8",
     "replugged": "^4.5.1"
   }
