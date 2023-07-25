@@ -537,6 +537,9 @@
 .newMessagesBar-1hF-9G {
   border-radius: 0px 0px var(--radius) var(--radius) !important;
 }
+.formContainer-1zrOWf .title-1v5ZfI {
+  border-radius: 0px;
+}
 .controlButton-2PMNom > svg > foreignObject {
   mask: none;
 }
