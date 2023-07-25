@@ -20,7 +20,9 @@
 }
 .sidebar-1tnWFu,
 .chat-2ZfjoI.threadSidebarOpen-1LSXvU {
-  border-radius: var(--radius) !important; /* Fix sidebar not rounded on windows platform */
+  border-radius: var(
+    --radius
+  ) !important; /* Fix sidebar not rounded on windows platform */
   margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 5px !important;
@@ -81,6 +83,12 @@
 .floating-window #bd-editor-controls,
 .floating-window .monaco-editor {
   border-radius: 0px;
+}
+.content-Pph8t6:not(.hidden-10MsGQ) {
+  margin-left: 5px;
+}
+.content-Pph8t6.closed-j55_T- {
+  display: none;
 }
 
 /* Vencord */
