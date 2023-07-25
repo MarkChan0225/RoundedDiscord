@@ -124,8 +124,12 @@
 
 /* Replugged */
 .replugged-addon-card,
-.replugged-updater-item {
+.replugged-updater-item,
+#replugged-quickcss-wrapper .cm-editor {
   border-radius: var(--radius);
+}
+#replugged-quickcss-wrapper .cm-gutters {
+  border-radius: var(--radius) 0px 0px var(--radius);
 }
 
 /* Create Server */
