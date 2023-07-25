@@ -97,8 +97,7 @@
 .vc-error-card,
 .shc-lock-screen-allowed-users-and-roles-container,
 .scroller-1-L89H,
-.memberListItem-3V-x8Q,
-.vc-plugins-filter-controls .input-3O04eu {
+.memberListItem-3V-x8Q {
   border-radius: var(--radius);
 }
 .vc-plugins-card,
@@ -333,7 +332,8 @@
 .contentWrapper-3oy4Xo:only-child,
 .px-MnE_OR.botTag-7aX5WZ,
 .popout-15UxD6.popoutPositionTop-3Uhefd,
-.selectPositionTop-3OGkHL.open-LeyjhI {
+.selectPositionTop-3OGkHL.open-LeyjhI,
+.input-3O04eu {
   border-radius: var(--radius);
 }
 .avatarWrapper-1B9FTW {
@@ -378,8 +378,6 @@
 .menu-2TXYjN,
 .content-1gYQeQ,
 .item-5ApiZt,
-.page-15bX59 .input-3O04eu,
-.customColorPickerInputContainer-3q58yc .input-3O04eu,
 .roleRow-230vCm,
 .button-ejjZWC,
 .previewContainer-1xQAsw,
