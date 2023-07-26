@@ -5,8 +5,14 @@
   height: 15px;
   padding: 0px 4.4px;
   border-radius: var(--radius);
-  margin-top: 4px;
+  margin-top: -1px;
 }
 .botTag-7aX5WZ.botTagCozy-3NTBvK:not(.botTagOP-3pUTXu) {
   margin-left: 4px;
+}
+.userPopoutOuter-1OHwPL .botTag-7aX5WZ:not(.botTagOP-3pUTXu) {
+  margin-top: 1.5px;
+}
+.messageListItem-ZZ7v6g .botTag-7aX5WZ:not(.botTagOP-3pUTXu) {
+  margin-top: 1.3px;
 }
