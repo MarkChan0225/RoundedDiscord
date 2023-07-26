@@ -484,7 +484,8 @@
 .channelTextArea-1FufC0 .scrollableContainer-15eg7h,
 .popout-TdhJ6Z,
 .row-1qtctT,
-.container-8Futzw {
+.container-8Futzw,
+.message-G6O-Wv {
   border-radius: var(--radius);
 }
 .layout-1qmrhw {
@@ -504,7 +505,6 @@
 .container-ZMc96U,
 .modal-2TOYtq,
 .jumpToPresentBar-1cEnH0,
-.message-G6O-Wv,
 .disabledButtonWrapper-1m0hYZ {
   border-radius: var(--radius) var(--radius) 0px 0px;
 }
