@@ -61,7 +61,8 @@
 .bd-number-input,
 .bd-changelog-modal video,
 .bd-changelog-modal img,
-.monaco-editor .overflow-guard {
+.monaco-editor .overflow-guard,
+.qwert-toast {
   border-radius: var(--radius);
 }
 .bd-notice {
