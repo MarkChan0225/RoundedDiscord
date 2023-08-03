@@ -101,7 +101,8 @@
 .vc-error-card,
 .shc-lock-screen-allowed-users-and-roles-container,
 .scroller-1-L89H,
-.memberListItem-3V-x8Q {
+.memberListItem-3V-x8Q,
+.vc-permviewer-perms-list-item {
   border-radius: var(--radius);
 }
 .vc-plugins-card,
@@ -522,7 +523,8 @@
 .scroller-38C5lh,
 .lastChannel-21yyBC,
 .threadSuggestionBar-3ExSyc,
-.uploadModal-2ie9O_ .footer-VCsJQY {
+.uploadModal-2ie9O_ .footer-VCsJQY,
+.tooltipPremiumFooterContainer-3Z8jwf {
   border-radius: 0px 0px var(--radius) var(--radius);
 }
 .headerClickable-zGQJz3,
