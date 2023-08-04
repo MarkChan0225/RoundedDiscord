@@ -108,7 +108,7 @@
 .vc-permviewer-perms-list-item {
   border-radius: var(--radius);
 }
-.vc-plugins-card,
+.vc-addon-card,
 .vc-notification-root,
 .vc-st-modal-content input {
   border-radius: var(--radius) !important;
