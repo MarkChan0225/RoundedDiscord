@@ -89,6 +89,9 @@
 .content-Pph8t6:not(.hidden-10MsGQ) {
   margin-left: 5px;
 }
+.platform-osx .content-Pph8t6:not(.hidden-10MsGQ) {
+  margin-top: 10px;
+}
 .content-Pph8t6.closed-j55_T- {
   display: none;
 }
