@@ -1,4 +1,4 @@
-<div align="center">
+<br/><div align="center">
   
 # Rounded Discord
 
@@ -12,7 +12,7 @@
 | ----------------------------------------------- | ------------------------------------------------------------------- |
 | ![preview](https://markchan0225.github.io/RoundedDiscord/src/preview_dark.png) | ![preview_win](https://markchan0225.github.io/RoundedDiscord/src/preview_nitro.png) |
 
-</div>
+</div><br/>
 
 ## Feature:
 
@@ -32,17 +32,18 @@
 Use [this link](https://replugged.dev/install?identifier=dev.markchan0225.RounedDiscord) to install
 the theme.
 
+### Vencord Users
+
+Download the latest `RoundedDiscord.theme.css` file in
+[release](https://github.com/MarkChan0225/RoundedDiscord/releases/latest) or copy this [link](https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css) to `Theme`
+setting.
+
 ### BetterDiscord Users
 
 Download the latest `RoundedDiscord.theme.css` file in
 [release](https://github.com/MarkChan0225/RoundedDiscord/releases/latest) or by
 [this link](https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css) and move it into
 `Theme` file.
-
-### Vencord Users
-
-Copy this [link](https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css) to `Theme`
-setting.
 
 ## Css Adaptation
 
