@@ -243,12 +243,14 @@
 .hljs,
 .attachment-1PZZB2.newMosaicStyle-35X6XO,
 .languageSelector-2e1IuO,
-.wrapperAudio-1Bzv_Z.newMosaicStyle-31sBoZ {
+.wrapperAudio-1Bzv_Z.newMosaicStyle-31sBoZ,
+.attachment-1PZZB2 {
   border-radius: var(--radius);
 }
 .newMosaicStyle-2jdUaP .footer-GXWBBp,
 .footer-GXWBBp,
-.footerContainer-11-cKL {
+.footerContainer-11-cKL,
+.videoControls-2NzHnF {
   border-radius: 0px 0px var(--radius) var(--radius);
 }
 .newMosaicStyle-2jdUaP .textContainer-36wgKK,
@@ -256,8 +258,7 @@
 .withFooter-3i6JUa {
   border-radius: var(--radius) var(--radius) 0px 0px;
 }
-.audioControls-3fmemK,
-.videoControls-2NzHnF {
+.audioControls-3fmemK {
   border-radius: var(--radius) !important;
 }
 
