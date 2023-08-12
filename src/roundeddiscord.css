@@ -353,7 +353,8 @@
 .card-14SgW5 {
   border-radius: var(--radius) var(--radius) 0px 0px;
 }
-.navRow-dG-XX8 {
+.navRow-dG-XX8,
+.root-2x5M19>:last-child {
   border-radius: 0px 0px var(--radius) var(--radius);
 }
 
