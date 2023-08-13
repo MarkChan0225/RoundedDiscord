@@ -212,7 +212,8 @@
 .reactionDefault-1Sjj1f,
 .reactionSelected-1aMb2K,
 .result-pzZrwj:after,
-.popoutContainer-2wbmiM {
+.popoutContainer-2wbmiM,
+.result-pzZrwj {
   border-radius: var(--radius);
 }
 .scroller-2GkvCq {
