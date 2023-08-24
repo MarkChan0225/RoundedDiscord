@@ -101,11 +101,18 @@
   margin-right: 15px;
   margin-left: -5px;
 }
+.shiki-btn:last-child {
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
 .vc-error-card,
 .shc-lock-screen-allowed-users-and-roles-container,
 .scroller-1-L89H,
 .memberListItem-3V-x8Q,
-.vc-permviewer-perms-list-item {
+.vc-permviewer-perms-list-item,
+.shiki-root,
+.markup-eYLPri pre,
+.shiki-btn:last-child {
   border-radius: var(--radius);
 }
 .vc-addon-card,
