@@ -120,7 +120,8 @@
 .vc-st-modal-content input {
   border-radius: var(--radius) !important;
 }
-#vc-spotify-player {
+#vc-spotify-player,
+.vc-gp-banner {
   border-radius: var(--radius) var(--radius) 0px 0px;
 }
 [id^="folder-items-"] {
