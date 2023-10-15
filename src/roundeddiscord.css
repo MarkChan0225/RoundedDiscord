@@ -12,7 +12,8 @@
 .main-243VC2,
 .applicationStore-2nk7Lo,
 .containerSidenav-3qiKqP,
-.shop-3sIaH8 {
+.shop-3sIaH8,
+.container-20Ljoy {
   border-radius: var(--radius);
   margin-top: 10px;
   margin-bottom: 10px;
@@ -517,7 +518,8 @@
 .reactionTooltip-29BsaC,
 .upload-vLbqu-,
 .button-cfOvv-,
-.streamPreview-I7itZ6 {
+.streamPreview-I7itZ6,
+.previewChannelRowContent-3fpJu0 {
   border-radius: var(--radius);
 }
 .layout-1qmrhw {
