@@ -52,6 +52,15 @@
   margin-left: 5px;
 }
 
+/* User Panel (Optional) */
+.container-1NXEtd,.privateChannels-oVe7HL {
+   border-radius: var(--radius);
+   margin-bottom: 5px;
+}
+.sidebar-1tnWFu {
+   background: unset;
+}
+
 /* BetterDiscord */
 .bd-select,
 .bd-addon-list .bd-addon-card,
@@ -508,7 +517,7 @@
 .css-19vtg9u-control,
 .lastChannel-21yyBC.firstChannel-3vAGDY,
 .rem-3kT9wc.botTag-7aX5WZ,
-.channelTextArea-1FufC0 .scrollableContainer-15eg7h,
+.channelTextArea-1deLlK .scrollableContainer-15eg7h,
 .popout-TdhJ6Z,
 .row-1qtctT,
 .container-8Futzw,
@@ -582,7 +591,7 @@
 .controlButton-2PMNom > svg > foreignObject {
   mask: none;
 }
-.channelTextArea-1FufC0 {
+.channelTextArea-1deLlK {
   background-color: unset;
 }
 
