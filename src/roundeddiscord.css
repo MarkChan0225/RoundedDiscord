@@ -2,11 +2,12 @@
 .tutorialContainer-1pL9QS {
   margin-top: 6px;
 }
-.resizeHandle-PBRzPC {
+.resizeHandle-2F4Beb {
   width: 0px;
 }
 .container-2cd8Mz,
-.chat-2ZfjoI,
+.container-36u7Lw,
+.chat-9g_3Xj,
 .pageWrapper-2PwDoS,
 .container-2_BXG-,
 .main-243VC2,
@@ -21,7 +22,7 @@
   margin-left: 5px;
 }
 .sidebar-1tnWFu,
-.chat-2ZfjoI.threadSidebarOpen-1LSXvU {
+.chat-9g_3Xj,.container-3s2w-i {
   border-radius: var(--radius) !important; /* Fix sidebar not rounded on windows platform */
   margin-top: 10px;
   margin-bottom: 10px;
