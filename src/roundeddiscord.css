@@ -61,6 +61,17 @@
    background: unset;
 }
 
+/* Text Area Reply Fix */
+.theme-dark.custom-theme-background .channelTextArea-1deLlK{
+  background: var(--bg-overlay-1,var(--background-secondary)) !important;
+}
+.theme-light.custom-theme-background .channelTextArea-1deLlK{
+  background: var(--bg-overlay-2,var(--background-secondary)) !important;
+}
+.channelTextArea-1deLlK{
+  background: var(--background-secondary) !important;
+}
+
 /* BetterDiscord */
 .bd-select,
 .bd-addon-list .bd-addon-card,
