@@ -11,14 +11,14 @@
 .platform-win .winButtonClose-3Q8ZH5 {
   border-top-right-radius: var(--radius);
 }
-.platform-win .winButton-3UMjdg {
+.platform-win .winButton-3SigSb {
   position: relative;
   top: -32px;
   right: 0px;
   height: 46px;
   width: 40px;
 }
-.platform-win .winButton-3UMjdg:not(.winButtonClose-3Q8ZH5):hover {
+.platform-win .winButton-3SigSb:not(.winButtonClose-3Q8ZH5):hover {
   background-color: rgba(255, 255, 255, 0.1);
 }
 .platform-win .container-ZMc96U {
