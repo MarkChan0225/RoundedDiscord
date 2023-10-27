@@ -24,9 +24,7 @@
 .sidebar_ded4b5,
 .chat__52833,
 .container_def45c {
-  border-radius: var(
-    --radius
-  ) !important; /* Fix sidebar not rounded on windows platform */
+  border-radius: var(--radius) !important; /* Fix sidebar not rounded on windows platform */
   margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 5px !important;
