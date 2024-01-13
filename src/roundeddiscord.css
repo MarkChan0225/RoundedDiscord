@@ -122,6 +122,10 @@
 }
 
 /* Vencord */
+[style="width: 72px; display: flex;"]:has(.wrapper_a7e7a8.guilds__2b93a) {
+  margin-left: -5px;
+  margin-right: 15px;
+}
 .shiki-btn:last-child {
   margin-right: 5px;
   margin-bottom: 5px;
