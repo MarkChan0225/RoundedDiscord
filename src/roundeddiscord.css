@@ -246,11 +246,18 @@
 .reactionSelected__249a7,
 .result_e1fc74:after,
 .popoutContainer__7b9a3,
-.result_e1fc74 {
+.result_e1fc74,
+.reactionTooltip__9384a {
   border-radius: var(--radius);
 }
 .scroller__5fda0 {
   border-radius: var(--radius) 0px 0px var(--radius);
+}
+.header__55964 {
+  border-radius: var(--radius) var(--radius) 0px 0px;
+}
+.emojiPicker_b65ce9 {
+  border-radius: 0px 0px var(--radius) var(--radius);
 }
 
 /* Search */
@@ -539,7 +546,6 @@
 .scrollableContainer__33e06,
 .spamBanner_adb1b9,
 .container__8fd9f,
-.reactionTooltip-29BsaC,
 .upload_c98ecb,
 .button_f8244b,
 .streamPreview__1846c,
