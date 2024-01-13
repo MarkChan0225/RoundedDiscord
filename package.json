@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@parcel/config-default": "^2.10.1",
-    "@parcel/core": "^2.10.1",
-    "@types/node": "^18.18.7",
+    "@parcel/config-default": "^2.11.0",
+    "@parcel/core": "^2.11.0",
+    "@types/node": "^18.19.6",
     "prettier": "^2.8.8",
-    "replugged": "^4.7.4"
+    "replugged": "^4.7.7"
   }
 }
