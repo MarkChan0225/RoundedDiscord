@@ -122,10 +122,6 @@
 }
 
 /* Vencord */
-.vc-bf-folder-sidebar {
-  margin-right: 15px;
-  margin-left: -5px;
-}
 .shiki-btn:last-child {
   margin-right: 5px;
   margin-bottom: 5px;
@@ -271,6 +267,7 @@
 .mention,
 .wrapper__2d9b1,
 .wrapper_efe67f,
+.wrapper_f46140,
 .wrapper_c727b6,
 .hoverButtonGroup__5b423,
 .burstGlow_f0f94c,
