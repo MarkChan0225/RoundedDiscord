@@ -155,6 +155,7 @@
 }
 [style="width: 71.9943px; display: flex;"] {
   padding-right: 15px;
+  margin-left: -5px;
 }
 .vc-bf-folder-sidebar [class*="expandedFolderBackground-"] {
   background: unset !important;
