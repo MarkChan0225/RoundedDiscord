@@ -1,24 +1,24 @@
-.container__590e2,
-.privateChannels__93473 {
+.container__7e23c,
+.privateChannels__9b518 {
   border-radius: var(--radius);
   margin-bottom: 5px;
 }
-.sidebar_ded4b5 {
+.sidebar_e031be {
   background: unset;
 }
 .panels__58331var {
   background: var(--bg-overlay-1, var(--background-secondary-alt));
 }
-.custom-theme-background .scroller__3d071 {
+.custom-theme-background .scroller_de945b {
   background: var(--bg-overlay-3, var(--background-secondary));
 }
-.theme-dark.custom-theme-background .channelTextArea__2e60f {
+.theme-dark.custom-theme-background .channelTextArea_c2094b {
   background: var(--bg-overlay-1, var(--background-secondary)) !important;
 }
-.theme-light.custom-theme-background .channelTextArea__2e60f {
+.theme-light.custom-theme-background .channelTextArea_c2094b {
   background: var(--bg-overlay-2, var(--background-secondary)) !important;
 }
-.channelTextArea__2e60f {
+.channelTextArea_c2094b {
   background: var(--background-secondary) !important;
 }
 .theme-light.custom-theme-background .panels__58331 {
