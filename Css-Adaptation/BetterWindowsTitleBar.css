@@ -1,5 +1,5 @@
 /* BetterWindowsTitleBar by @coolesding (406084422308331522) */
-.platform-win .typeWindows__5fa63 {
+.platform-win .typeWindows_e41dab {
   height: 0px;
   margin-top: 0;
   position: absolute;
@@ -8,22 +8,22 @@
   width: 9%;
   background: rgba(254, 254, 254, 0);
 }
-.platform-win .winButtonClose__73489 {
+.platform-win .winButtonClose__6396d {
   border-top-right-radius: var(--radius);
 }
-.platform-win .winButton__88672 {
+.platform-win .winButton_f17fb6 {
   position: relative;
   top: -32px;
   right: 0px;
   height: 46px;
   width: 40px;
 }
-.platform-win .winButton__88672:not(.winButtonClose__73489):hover {
+.platform-win .winButton_f17fb6:not(.winButtonClose__6396d):hover {
   background-color: rgba(255, 255, 255, 0.1);
 }
-.platform-win .container__11d72 {
+.platform-win .container__26baa {
   padding-right: 125px;
 }
-.platform-win .wordmarkWindows__05c46 {
+.platform-win .wordmarkWindows_ffbc5e {
   display: none;
 }

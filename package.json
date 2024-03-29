@@ -17,10 +17,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^18.19.6",
-    "prettier": "^3.2.1"
+    "@types/node": "^18.19.26",
+    "prettier": "^3.2.5"
   },
   "dependencies": {
-    "replugged": "^4.7.7"
+    "replugged": "^4.7.9"
   }
 }
