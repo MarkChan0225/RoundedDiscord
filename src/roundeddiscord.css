@@ -52,6 +52,21 @@
   margin-right: -5px;
   margin-left: 5px;
 }
+.container__0bd59 {
+    border-radius: var(--radius);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    margin-left: 10px;
+}
+.answerInner_b97752{
+    border-radius: var(--radius);
+    margin-right: 5px;
+    margin-left: 10px;
+}
+.votePercentageBar_ba9103{
+    border-radius: var(--radius);
+}
 
 /* User Panel (Optional) */
 .container__7e23c,
@@ -307,6 +322,7 @@
 .audioControls_da7066 {
   border-radius: var(--radius) !important;
 }
+
 
 /* Setting */
 .app_de4237 button,
@@ -620,6 +636,7 @@
   background-color: unset;
 }
 
+
 /* Slash Command */
 .outerWrapper__99794,
 .base__87e58,
@@ -637,3 +654,4 @@
 .footer_e0b400 {
   border-radius: 0px 0px var(--radius) var(--radius);
 }
+
