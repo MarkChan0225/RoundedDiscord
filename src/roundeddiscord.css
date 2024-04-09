@@ -52,6 +52,21 @@
   margin-right: -5px;
   margin-left: 5px;
 }
+.container__0bd59 {
+  border-radius: var(--radius);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  margin-left: 10px;
+}
+.answerInner_b97752 {
+  border-radius: var(--radius);
+  margin-right: 5px;
+  margin-left: 10px;
+}
+.votePercentageBar_ba9103 {
+  border-radius: var(--radius);
+}
 
 /* User Panel (Optional) */
 .container__7e23c,
