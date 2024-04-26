@@ -305,7 +305,8 @@
 .attachment__06ca3.newMosaicStyle_b4aa24,
 .languageSelector__4840c,
 .wrapperAudio__178e9.newMosaicStyle__78072,
-.attachment__06ca3 {
+.attachment__06ca3,
+.executedCommand__4fb1a .appLauncherOnboardingCommandName_bf880c {
   border-radius: var(--radius);
 }
 .newMosaicStyle_ed53d8 .footer__90194,
