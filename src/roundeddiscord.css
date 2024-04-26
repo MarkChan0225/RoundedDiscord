@@ -295,7 +295,7 @@
 .reaction_ef7e09,
 .reaction__4a43f,
 .mention,
-.wrapper_f5f4c9,
+.wrapper__4ef2e,
 .wrapper__8a5dd,
 .wrapper__53064,
 .wrapper__4e6b6,
@@ -347,7 +347,7 @@
 .expandedInfo_efc786,
 .inner__51a43,
 .container_d5dec4,
-.container__7d3e2,
+.container_db1b74,
 .container__5a2c3,
 .row__9455d,
 .box__6431e {
@@ -431,14 +431,14 @@
 }
 .role_d81130,
 .button_c15687,
-.overlayBackground__2666e,
+.overlayBackground__345c9,
 .messageInputContainer_a93946,
 .listRow__50619,
 .accountProfileCard__744d8,
 .background__4e802,
-.userPopoutInner_e90432:before,
-.userProfileOuter__4ac83,
-.userProfileModalInner__99b1e:before,
+.userPopoutInner_ac0960:before,
+.userProfileOuter__35e59,
+.userProfileModalInner__84e47:before,
 .connectedAccountContainer__5972d {
   border-radius: var(--radius);
 }
@@ -548,7 +548,7 @@
 .simpleItemWrapper_c23fd0,
 .container__84c26,
 .mainCard__0ec2c,
-.userCardInner__4fd8f,
+.userCardInner_e36852,
 .action__94060,
 .row__4f559,
 .container__7abe8,
@@ -569,7 +569,13 @@
 .button_ef08e7,
 .streamPreview__965fa,
 .previewChannelRowContent__9054b,
-.inviteContainer__4d80b {
+.inviteContainer__4d80b,
+.container__0018d,
+.previewNotice__54645,
+.productCard_ecfe85,
+.container__2fb79,
+.learnMoreTipContainer_c18bec,
+.tab_cc2f20 {
   border-radius: var(--radius);
 }
 .layout_bb8e67 {
