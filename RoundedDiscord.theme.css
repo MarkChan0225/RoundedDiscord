@@ -8,8 +8,8 @@
  * @source https://github.com/MarkChan0225/RoundedDiscord
 */
 
-@import url(https://raw.githubusercontent.com/ahoyarou/RoundedDiscord/main/src/roundeddiscord.css);
 @import url(https://raw.githubusercontent.com/ahoyarou/RoundedDiscord/main/src/experimental.css);
+@import url(https://raw.githubusercontent.com/ahoyarou/RoundedDiscord/main/src/roundeddiscord.css);
 
 :root {
   --radius: 15px;
