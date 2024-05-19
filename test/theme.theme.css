@@ -1,0 +1,68 @@
+.background__3baa0 {
+    background-color: var(--background-primary) !important;
+}
+.popoutBanner__3fbe8, modalBanner_e4ade4 {
+    background-color: var(--background-primary-alt) !important;
+}
+
+:root {
+	/* animations */
+	/* ALL ANIMATIONS CAN BE DISABLED WITH REDUCED MOTION IN DISCORD SETTINGS */
+	--list-item-transition: 0.2s ease; /* channels/members/settings hover transition */
+	--unread-bar-transition: 0.2s ease; /* unread bar moving into view transition */
+	--moon-spin-transition: 0.4s ease; /* moon icon spin */
+	--icon-spin-transition: 1s ease; /* round icon button spin (settings, emoji, etc.) */
+}
+
+/* list hover animations */
+.wrapper__612a5 .link_ddbb36 /* channels */,
+.container_a48b21 /* members */,
+.channel__0aef5 /* dms */,
+.side_b4b3f6 .item__48dda /* settings */ {
+	transition: margin-left var(--list-item-transition);
+}
+.wrapper__612a5:hover .link_ddbb36,
+.side_b4b3f6 .item__48dda:hover {
+	margin-left: 10px;
+}
+.container_a48b21:hover,
+.channel__0aef5:hover {
+	margin-left: 18px;
+}
+
+/**
+* @name Private Channel recolor
+* @author krystalskullofficial
+* @version 3.0
+* @changelog:
+*   1.0- Making of the CSS code
+*   2.0- discord icon changes
+*   3.0- bug fix for lock stages (because for some reason they differnt numbers)
+* @description recolors the icon for Private channels so they are easier to see/notice
+*/
+
+/*---Lock Icon Recolor---*/
+.icon__67ab4:has(path[d^="M16 4h.5v"]) path[d^="M16 4h.5v"] {
+    fill: #fffaa0 !important;
+    border: 1px solid rebeccapurple !important; }
+
+/*---for stages(since they use a differnt lock for some reason)----*/
+.icon__67ab4:has(path[d^="M16.5 18H16a1"]) path[d^="M16.5 18H16a1"] {
+    fill : #fffaa0 !important;
+    border: 1px solid rebeccapurple !important;
+}
+
+/**
+* @name NSFW icon recolor
+* @author krystalskullofficial
+* @version 2.0
+* @description recolors the icon for 'NFSW' channels so they are easier to see/notice
+*/
+
+
+/*---'NSFW' Icon Recolor---*/
+
+.icon__67ab4:has(path[d^="M18.09 1.63"]) path[d^="M18.09 1.63"] {
+    fill: var(--text-danger) !important;
+    border: 1px solid rebeccapurple !important;
+}
