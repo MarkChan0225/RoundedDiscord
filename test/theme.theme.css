@@ -5,6 +5,10 @@
     background-color: var(--background-primary-alt) !important;
 }
 
+.container_e1958d {
+	display: none
+}
+
 :root {
 	/* animations */
 	/* ALL ANIMATIONS CAN BE DISABLED WITH REDUCED MOTION IN DISCORD SETTINGS */
