@@ -17,7 +17,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^18.19.31",
+    "@types/node": "^18.19.33",
     "prettier": "^3.2.5"
   },
   "dependencies": {
