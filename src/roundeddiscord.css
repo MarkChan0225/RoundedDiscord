@@ -14,7 +14,9 @@
 .applicationStore__444b9,
 .containerSidenav_c2b517,
 .shop_b31ed2,
-.container_cfe93d {
+.container_cfe93d,
+.chat__52833,
+.container__694a1 {
   border-radius: var(--radius);
   margin-top: 10px;
   margin-bottom: 10px;
@@ -22,7 +24,6 @@
   margin-left: 5px;
 }
 .sidebar_e031be,
-.chat__52833,
 .container__694a1 {
   border-radius: var(--radius) !important; /* Fix sidebar not rounded on windows platform */
   margin-top: 10px;
@@ -37,13 +38,6 @@
   margin-right: 5px;
   margin-left: 10px;
   background-color: var(--background-secondary);
-}
-.container__694a1 {
-  border-radius: var(--radius);
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 5px;
 }
 .channelChatWrapper__43f43 {
   border-radius: var(--radius);
