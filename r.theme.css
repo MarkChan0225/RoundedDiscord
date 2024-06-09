@@ -14,3 +14,15 @@
 :root {
   --radius: 15px;
 }
+
+.background__3baa0 {
+  background-color: var(--background-primary) !important;
+}
+
+.background__3baa0 {
+  background-color: var(--background-primary) !important;
+}
+
+.banner__6d414 {
+  background-color: var(--background-primary-alt) !important;
+}
