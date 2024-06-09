@@ -2,6 +2,10 @@
 .tutorialContainer_b06ae6 {
   margin-top: 6px;
 }
+.panels__58331 {
+  border-radius: var(--radius);
+}
+
 .resizeHandle_cc9d34 {
   width: 0px;
 }
