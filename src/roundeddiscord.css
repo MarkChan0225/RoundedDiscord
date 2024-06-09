@@ -14,7 +14,9 @@
 .applicationStore__444b9,
 .containerSidenav_c2b517,
 .shop_b31ed2,
-.container_cfe93d {
+.container_cfe93d,
+.chat__52833,
+.container__694a1 {
   border-radius: var(--radius);
   margin-top: 10px;
   margin-bottom: 10px;
@@ -22,7 +24,6 @@
   margin-left: 5px;
 }
 .sidebar_e031be,
-.chat__52833,
 .container__694a1 {
   border-radius: var(--radius) !important; /* Fix sidebar not rounded on windows platform */
   margin-top: 10px;
@@ -37,13 +38,6 @@
   margin-right: 5px;
   margin-left: 10px;
   background-color: var(--background-secondary);
-}
-.container__694a1 {
-  border-radius: var(--radius);
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-right: 10px;
-  margin-left: 5px;
 }
 .channelChatWrapper__43f43 {
   border-radius: var(--radius);
@@ -437,13 +431,21 @@
 .listRow__50619,
 .accountProfileCard__744d8,
 .background__4e802,
+.userPopoutInner_ac0960,
 .userPopoutInner_ac0960:before,
 .userProfileOuter__35e59,
+.userProfileOuterThemed_a425f3,
 .userProfileModalInner__84e47:before,
-.connectedAccountContainer__5972d {
+.connectedAccountContainer__5972d,
+.userPopoutOverlayBackground__3e7e6 {
   border-radius: var(--radius);
 }
-.roundedBanner__16aa6 {
+.userProfileOuterUnthemed__9741c {
+  background: none;
+  border-radius: var(--radius);
+}
+.roundedBanner__16aa6,
+.bannerSVGWrapper__8a38c:not(:has([style*="image"])) [style*="background-color"] {
   border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .content_b28aab.body__1451f.thin_b1c063.scrollerBase_f742b2 {
@@ -576,7 +578,8 @@
 .productCard_ecfe85,
 .container__2fb79,
 .learnMoreTipContainer_c18bec,
-.tab_cc2f20 {
+.tab_cc2f20,
+.chipletContainerInner_bfcb1e {
   border-radius: var(--radius);
 }
 .layout_bb8e67 {
