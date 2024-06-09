@@ -433,11 +433,18 @@
 .background__4e802,
 .userPopoutInner_ac0960:before,
 .userProfileOuter__35e59,
+.userProfileOuterThemed_a425f3,
 .userProfileModalInner__84e47:before,
-.connectedAccountContainer__5972d {
+.connectedAccountContainer__5972d,
+.userPopoutOverlayBackground__3e7e6 {
   border-radius: var(--radius);
 }
-.roundedBanner__16aa6 {
+.userProfileOuterUnthemed__9741c {
+  background: none;
+  border-radius: var(--radius);
+}
+.roundedBanner__16aa6,
+.bannerSVGWrapper__8a38c:not(:has([style*=image])) [style*=background-color] {
   border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .content_b28aab.body__1451f.thin_b1c063.scrollerBase_f742b2 {
