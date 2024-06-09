@@ -19,8 +19,8 @@
   background-color: var(--background-primary) !important;
 }
 
-.background__3baa0 {
-  background-color: var(--background-primary) !important;
+[class*=userPopoutOverlayBackground] {
+  max-height: 60vh;
 }
 
 .banner__6d414 {
