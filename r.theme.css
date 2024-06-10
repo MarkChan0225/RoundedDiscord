@@ -26,3 +26,7 @@
 .banner__6d414 {
   background-color: var(--background-primary-alt) !important;
 }
+
+[class^='avatarDecoration_'], [class^='profileEffects_'] {
+    display: none;
+}
