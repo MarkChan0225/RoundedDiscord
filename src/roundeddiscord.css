@@ -301,7 +301,8 @@
 .languageSelector__4840c,
 .wrapperAudio__178e9.newMosaicStyle__78072,
 .attachment__06ca3,
-.executedCommand__4fb1a .appLauncherOnboardingCommandName_bf880c {
+.executedCommand__4fb1a .appLauncherOnboardingCommandName_bf880c,
+.hoverButtonGroup__745e4 {
   border-radius: var(--radius);
 }
 .newMosaicStyle_ed53d8 .footer__90194,
@@ -580,7 +581,10 @@
 .container__2fb79,
 .learnMoreTipContainer_c18bec,
 .tab_cc2f20,
-.chipletContainerInner_bfcb1e {
+.chipletContainerInner_bfcb1e,
+.topicsDropdownBase_d24a28,
+.container_df5675,
+.loadingPopout__5e2fa {
   border-radius: var(--radius);
 }
 .layout_bb8e67 {
@@ -601,7 +605,8 @@
 .modal_b38209,
 .jumpToPresentBar__69174,
 .disabledButtonWrapper_b04230,
-.banner_f13f1e {
+.banner_f13f1e,
+.topicsDropdownHeading__6fa9b {
   border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .footer_e0b400,
@@ -613,7 +618,10 @@
 .lastChannel__0a967,
 .threadSuggestionBar__717a3,
 .uploadModal__6eb75 .footer_f06dbb,
-.tooltipPremiumFooterContainer__0816a {
+.tooltipPremiumFooterContainer__0816a,
+.topicsPillContainer__2c107,
+.newTopicsBarContainer__8c1e3,
+.topicsScroller__64e73 {
   border-radius: 0px 0px var(--radius) var(--radius);
 }
 .headerClickable__334f7,
