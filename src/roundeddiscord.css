@@ -60,7 +60,7 @@
 .votePercentageBar_ba9103 {
   border-radius: var(--radius);
 }
-.chat__52833.threadSidebarOpen__62c31 {
+.chat__52833 .threadSidebarOpen__62c31 {
   border-radius: var(--radius);
   margin-right: 5px;
 }
@@ -321,8 +321,11 @@
 .audioControls_da7066 {
   border-radius: var(--radius) !important;
 }
-.cozy_f5c119.hasThread__44ae4:after {
+.cozy_f5c119 .hasThread__44ae4:after {
   border-bottom-left-radius: var(--radius);
+}
+.cozy_f5c119 .repliedMessage__636d2:before {
+  border-bottom-right-radius: var(--radius);
 }
 
 /* Setting */
