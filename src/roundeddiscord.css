@@ -15,7 +15,6 @@
 .containerSidenav_c2b517,
 .shop_b31ed2,
 .container_cfe93d,
-.chat__52833,
 .container__694a1 {
   border-radius: var(--radius);
   margin-top: 10px;
@@ -62,8 +61,8 @@
   border-radius: var(--radius);
 }
 .chat__52833 .threadSidebarOpen__62c31 {
-  border-radius: var(--radius);
-  margin-right: 5px;
+  border-radius: var(--radius) !important;
+  margin-right: 5px !important;
 }
 
 /* User Panel (Optional) */
@@ -672,5 +671,13 @@
   border-radius: var(--radius) 0px 0px var(--radius);
 }
 .footer_e0b400 {
+  border-radius: 0px 0px var(--radius) var(--radius);
+}
+
+/* OAuth */
+.oauth2Wrapper__5c685 {
+  border-radius: var(--radius);
+}
+.footer_b96583 {
   border-radius: 0px 0px var(--radius) var(--radius);
 }
