@@ -304,7 +304,7 @@
 .wrapperAudio__178e9.newMosaicStyle__78072,
 .attachment__06ca3,
 .executedCommand__4fb1a .appLauncherOnboardingCommandName_bf880c,
-.hoverButtonGroup__745e4 {
+.hoverButtonGroup__745e4, {
   border-radius: var(--radius);
 }
 .newMosaicStyle_ed53d8 .footer__90194,
@@ -320,6 +320,9 @@
 }
 .audioControls_da7066 {
   border-radius: var(--radius) !important;
+}
+.cozy_f5c119.hasThread__44ae4:after {
+  border-bottom-left-radius: var(--radius);
 }
 
 /* Setting */
