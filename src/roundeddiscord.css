@@ -321,10 +321,10 @@
 .audioControls_da7066 {
   border-radius: var(--radius) !important;
 }
-.cozy_f5c119 .hasThread__44ae4:after {
+.cozy_f5c119.hasThread__44ae4:after {
   border-bottom-left-radius: var(--radius);
 }
-.cozy_f5c119 .repliedMessage__636d2:before {
+.cozy_f5c119.repliedMessage__636d2:before {
   border-top-left-radius: var(--radius);
 }
 
