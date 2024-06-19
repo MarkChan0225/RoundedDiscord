@@ -60,7 +60,7 @@
 .votePercentageBar_cf2c85 {
   border-radius: var(--radius);
 }
-.chat_a7d72e .threadSidebarOpen_a7d72e {
+.chat_a7d72e.threadSidebarOpen_a7d72e {
   border-radius: var(--radius);
   margin-right: 5px;
 }
