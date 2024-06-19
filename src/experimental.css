@@ -1,36 +1,36 @@
-.container__7e23c,
-.privateChannels__9b518 {
+.container_ee69e0,
+.privateChannels_f0963d {
   border-radius: var(--radius);
   margin-bottom: 5px;
 }
-.sidebar_e031be {
+.sidebar_a4d4d9 {
   background: unset;
 }
-.panels__58331var {
+.panels_a4d4d9var {
   background: var(--bg-overlay-1, var(--background-secondary-alt));
 }
-.custom-theme-background .scroller_de945b {
+.custom-theme-background .scroller_fea3ef {
   background: var(--bg-overlay-3, var(--background-secondary));
 }
-.theme-dark.custom-theme-background .channelTextArea_c2094b {
+.theme-dark.custom-theme-background .channelTextArea_a7d72e {
   background: var(--bg-overlay-1, var(--background-secondary)) !important;
 }
-.theme-light.custom-theme-background .channelTextArea_c2094b {
+.theme-light.custom-theme-background .channelTextArea_a7d72e {
   background: var(--bg-overlay-2, var(--background-secondary)) !important;
 }
-.channelTextArea_c2094b {
+.channelTextArea_a7d72e {
   background: var(--background-secondary) !important;
 }
-.theme-light.custom-theme-background .panels__58331 {
+.theme-light.custom-theme-background .panels_a4d4d9 {
   background: var(--bg-overlay-3);
 }
-.theme-dark.custom-theme-background .panels__58331 {
+.theme-dark.custom-theme-background .panels_a4d4d9 {
   background: var(--bg-overlay-1);
 }
-.panels__58331 {
+.panels_a4d4d9 {
   background: var(--background-secondary-alt);
 }
 /* BetterDiscord */
-.content_Pph8t6:not(.hidden__7c832) {
+.content_Pph8t6:not(.hidden_fea3ef) {
   margin-left: 5px;
 }
