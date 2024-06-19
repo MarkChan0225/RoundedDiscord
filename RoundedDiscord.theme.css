@@ -2,14 +2,13 @@
  * @name Rounded Discord
  * @author MarkChan0225
  * @description A theme which make your Discord becomes rounded
- * @version 1.1.0
+ * @version 1.1.1
  * @invite 98gAY7v6y7
  * @authorId 608821416212692993
  * @source https://github.com/MarkChan0225/RoundedDiscord
 */
 
 @import url(https://MarkChan0225.github.io/RoundedDiscord/src/roundeddiscord.css);
-@import url(https://MarkChan0225.github.io/RoundedDiscord/src/experimental.css);
 
 :root {
   --radius: 16px;
