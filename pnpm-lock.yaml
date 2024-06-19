@@ -6,21 +6,21 @@ settings:
 
 dependencies:
   replugged:
-    specifier: ^4.7.10
-    version: 4.7.10(@codemirror/view@6.28.1)(@lezer/common@1.2.1)
+    specifier: ^4.7.13
+    version: 4.7.13(@codemirror/view@6.28.1)(@lezer/common@1.2.1)
 
 devDependencies:
   '@types/node':
-    specifier: ^18.19.34
-    version: 18.19.34
+    specifier: ^18.19.36
+    version: 18.19.36
   prettier:
     specifier: ^3.3.2
     version: 3.3.2
 
 packages:
 
-  /@codemirror/autocomplete@6.16.2(@codemirror/language@6.10.2)(@codemirror/state@6.4.1)(@codemirror/view@6.28.1)(@lezer/common@1.2.1):
-    resolution: {integrity: sha512-MjfDrHy0gHKlPWsvSsikhO1+BOh+eBHNgfH1OXs1+DAf30IonQldgMM3kxLDTG9ktE7kDLaA1j/l7KMPA4KNfw==}
+  /@codemirror/autocomplete@6.16.3(@codemirror/language@6.10.2)(@codemirror/state@6.4.1)(@codemirror/view@6.28.1)(@lezer/common@1.2.1):
+    resolution: {integrity: sha512-Vl/tIeRVVUCRDuOG48lttBasNQu8usGgXQawBXI7WJAiUDSFOfzflmEsZFZo48mAvAaa4FZ/4/yLLxFtdJaKYA==}
     peerDependencies:
       '@codemirror/language': ^6.0.0
       '@codemirror/state': ^6.0.0
@@ -45,7 +45,7 @@ packages:
   /@codemirror/lang-css@6.2.1(@codemirror/view@6.28.1):
     resolution: {integrity: sha512-/UNWDNV5Viwi/1lpr/dIXJNWiwDxpw13I4pTUAsNxZdg6E0mI2kTQb0P2iHczg1Tu+H4EBgJR+hYhKiHKko7qg==}
     dependencies:
-      '@codemirror/autocomplete': 6.16.2(@codemirror/language@6.10.2)(@codemirror/state@6.4.1)(@codemirror/view@6.28.1)(@lezer/common@1.2.1)
+      '@codemirror/autocomplete': 6.16.3(@codemirror/language@6.10.2)(@codemirror/state@6.4.1)(@codemirror/view@6.28.1)(@lezer/common@1.2.1)
       '@codemirror/language': 6.10.2
       '@codemirror/state': 6.4.1
       '@lezer/common': 1.2.1
@@ -65,8 +65,8 @@ packages:
       style-mod: 4.1.2
     dev: false
 
-  /@codemirror/lint@6.8.0:
-    resolution: {integrity: sha512-lsFofvaw0lnPRJlQylNsC4IRt/1lI4OD/yYslrSGVndOJfStc58v+8p9dgGiD90ktOfL7OhBWns1ZETYgz0EJA==}
+  /@codemirror/lint@6.8.1:
+    resolution: {integrity: sha512-IZ0Y7S4/bpaunwggW2jYqwLuHj0QtESf5xcROewY6+lDNwZ/NzvR4t+vpYgg9m7V8UXLPYqG+lu3DF470E5Oxg==}
     dependencies:
       '@codemirror/state': 6.4.1
       '@codemirror/view': 6.28.1
@@ -690,8 +690,8 @@ packages:
     resolution: {integrity: sha512-1m0bIFVc7eJWyve9S0RnuRgcQqF/Xd5QsUZAZeQFr1Q3/p9JWoQQEqmVy+DPTNpGXwhgIetAoYF8JSc33q29QA==}
     dev: false
 
-  /@types/node@18.19.34:
-    resolution: {integrity: sha512-eXF4pfBNV5DAMKGbI02NnDtWrQ40hAN558/2vvS4gMpMIxaf6JmD7YjnZbq0Q9TDSSkKBamime8ewRoomHdt4g==}
+  /@types/node@18.19.36:
+    resolution: {integrity: sha512-tX1BNmYSWEvViftB26VLNxT6mEr37M7+ldUtq7rlKnv4/2fKYsJIOmqJAjT6h1DNuwQjIKgw3VJ/Dtw3yiTIQw==}
     dependencies:
       undici-types: 5.26.5
 
@@ -842,10 +842,10 @@ packages:
   /codemirror@6.0.1(@lezer/common@1.2.1):
     resolution: {integrity: sha512-J8j+nZ+CdWmIeFIGXEFbFPtpiYacFMDR8GlHK3IyHQJMCaVRfGx9NT+Hxivv1ckLWPvNdZqndbr/7lVhrf/Svg==}
     dependencies:
-      '@codemirror/autocomplete': 6.16.2(@codemirror/language@6.10.2)(@codemirror/state@6.4.1)(@codemirror/view@6.28.1)(@lezer/common@1.2.1)
+      '@codemirror/autocomplete': 6.16.3(@codemirror/language@6.10.2)(@codemirror/state@6.4.1)(@codemirror/view@6.28.1)(@lezer/common@1.2.1)
       '@codemirror/commands': 6.6.0
       '@codemirror/language': 6.10.2
-      '@codemirror/lint': 6.8.0
+      '@codemirror/lint': 6.8.1
       '@codemirror/search': 6.5.6
       '@codemirror/state': 6.4.1
       '@codemirror/view': 6.28.1
@@ -954,7 +954,7 @@ packages:
     dependencies:
       esbuild: 0.19.12
       resolve: 1.22.8
-      sass: 1.77.5
+      sass: 1.77.6
     dev: false
 
   /esbuild@0.19.12:
@@ -1444,8 +1444,8 @@ packages:
       rc: 1.2.8
     dev: false
 
-  /replugged@4.7.10(@codemirror/view@6.28.1)(@lezer/common@1.2.1):
-    resolution: {integrity: sha512-SPJwKWUZ6DCrdb7XBsbrhXSQmajOLVVxVB0LNAwHIR2tv3C+3pV8fbl8MaRLXU737BxJT+bnvRyaZwiY0EkOqw==}
+  /replugged@4.7.13(@codemirror/view@6.28.1)(@lezer/common@1.2.1):
+    resolution: {integrity: sha512-SZn3N5hNX19dzCHpOFUqyXnZoAyZoOYlq8zlY4b5Iq0xy+t+QKPM1TMO4gN1Tb/8l8IS7zb8pDrE1A561PYeLQ==}
     engines: {node: '>=21.0.0', pnpm: '>=9.0.0'}
     hasBin: true
     requiresBuild: true
@@ -1467,9 +1467,9 @@ packages:
       prompts: 2.4.2
       semver: 7.6.2
       standalone-electron-types: 1.0.0
-      tsx: 4.15.4
+      tsx: 4.15.6
       update-notifier: 6.0.2
-      ws: 8.17.0
+      ws: 8.17.1
       yargs: 17.7.2
       zod: 3.23.8
     transitivePeerDependencies:
@@ -1508,8 +1508,8 @@ packages:
       lowercase-keys: 3.0.0
     dev: false
 
-  /sass@1.77.5:
-    resolution: {integrity: sha512-oDfX1mukIlxacPdQqNb6mV2tVCrnE+P3nVYioy72V5tlk56CPNcO4TCuFcaCRKKfJ1M3lH95CleRS+dVKL2qMg==}
+  /sass@1.77.6:
+    resolution: {integrity: sha512-ByXE1oLD79GVq9Ht1PeHWCPMPB8XHpBuz1r85oByKHjZY6qV6rWnQovQzXJXuQ/XyE1Oj3iPk3lo28uzaRA2/Q==}
     engines: {node: '>=14.0.0'}
     hasBin: true
     dependencies:
@@ -1547,7 +1547,7 @@ packages:
   /standalone-electron-types@1.0.0:
     resolution: {integrity: sha512-0HOi/tlTz3mjWhsAz4uRbpQcHMZ+ifj1JzWW9nugykOHClBBG77ps8QinrzX1eow4Iw2pnC+RFaSYRgufF4BOg==}
     dependencies:
-      '@types/node': 18.19.34
+      '@types/node': 18.19.36
     dev: false
 
   /string-width@4.2.3:
@@ -1603,8 +1603,8 @@ packages:
       is-number: 7.0.0
     dev: false
 
-  /tsx@4.15.4:
-    resolution: {integrity: sha512-d++FLCwJLrXaBFtRcqdPBzu6FiVOJ2j+UsvUZPtoTrnYtCGU5CEW7iHXtNZfA2fcRTvJFWPqA6SWBuB0GSva9w==}
+  /tsx@4.15.6:
+    resolution: {integrity: sha512-is0VQQlfNZRHEuSSTKA6m4xw74IU4AizmuB6lAYLRt9XtuyeQnyJYexhNZOPCB59SqC4JzmSzPnHGBXxf3k0hA==}
     engines: {node: '>=18.0.0'}
     hasBin: true
     dependencies:
@@ -1711,8 +1711,8 @@ packages:
       typedarray-to-buffer: 3.1.5
     dev: false
 
-  /ws@8.17.0:
-    resolution: {integrity: sha512-uJq6108EgZMAl20KagGkzCKfMEjxmKvZHG7Tlq0Z6nOky7YF7aq4mOx6xK8TJ/i1LeK4Qus7INktacctDgY8Ow==}
+  /ws@8.17.1:
+    resolution: {integrity: sha512-6XQFvXTkbfUOZOKKILFG1PDK2NDQs4azKQl26T0YS5CxqWLgXajbPZ+h4gZekJyRqFU8pvnbAbbs/3TgRPy+GQ==}
     engines: {node: '>=10.0.0'}
     peerDependencies:
       bufferutil: ^4.0.1
