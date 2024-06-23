@@ -1,0 +1,138 @@
+/* UserReimagined by @gibbu (174868361040232448) */
+.panels_a4d4d9 .avatar_b2ca13 {
+  border: 3px solid var(--background-tertiary);
+  margin-top: -15px;
+  transform: translateY(-2.5px);
+  background-color: var(--background-tertiary);
+}
+.container_b2ca13 {
+  flex-direction: column;
+  padding: 0;
+  height: fit-content;
+  background: var(
+    --bg-overlay-app-frame,
+    var(--background-tertiary)
+  ) !important;
+  margin-bottom: 0;
+}
+.panels_a4d4d9 .avatarWrapper_b2ca13 {
+  width: 100%;
+  margin: 0 !important;
+  padding: 4px;
+  box-sizing: border-box;
+  border-radius: 0;
+  cursor: pointer;
+}
+.panels_a4d4d9 .avatarWrapper_b2ca13:hover {
+  background: var(--bg-overlay-hover, var(--background-modifier-hover));
+}
+.panels_a4d4d9 .avatarWrapper_b2ca13:hover .avatar_b2ca13 {
+  border-color: var(--background-accent);
+  background-color: var(--background-accent);
+}
+.panels_a4d4d9 .avatarWrapper_b2ca13 .nameTag_b2ca13 {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  cursor: pointer;
+}
+.container_b2ca13 > .flex_bba380 {
+  width: 100%;
+  gap: 6px;
+  padding: 6px;
+  box-sizing: border-box;
+}
+.container_b2ca13 > .flex_bba380 > button {
+  border-radius: 50px;
+  width: 100%;
+  padding: 6px 0;
+  height: fit-content;
+  --inversed-overlay: rgb(
+    var(--bg-overlay-color-inverse) / var(--bg-overlay-opacity-6)
+  );
+  background: var(--inversed-overlay, var(--background-primary));
+  transition:
+    color 0.15s ease-out,
+    background-color 0.15s ease-out;
+}
+.wrapper_adcaac {
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--background-modifier-accent);
+  background: var(
+    --bg-overlay-app-frame,
+    var(--background-tertiary)
+  ) !important;
+}
+.container_adcaac {
+  border-bottom: none;
+  background: var(--bg-overlay-app-frame, var(--background-tertiary));
+}
+.wrapper_adcaac:empty {
+  display: none;
+}
+.actionButtons_adcaac > button,
+.actionButtons_adcaac > div > button,
+.actionButtons_adcaac > div > span > button {
+  border-radius: 50px;
+  width: 100%;
+  padding: 6px 0;
+  height: fit-content;
+  --inversed-overlay: rgb(
+    var(--bg-overlay-color-inverse) / var(--bg-overlay-opacity-6)
+  );
+  background: var(--inversed-overlay, var(--background-primary)) !important;
+  transition:
+    color 0.15s ease-out,
+    background-color 0.15s ease-out;
+  max-height: 32px;
+}
+.actionButtons_adcaac button:hover {
+  background: var(
+    --bg-overlay-hover,
+    var(--background-modifier-hover)
+  ) !important;
+}
+.actionButtons_adcaac button:active {
+  background: var(
+    --bg-overlay-active,
+    var(--background-modifier-active)
+  ) !important;
+}
+.actionButtons_adcaac > div {
+  display: flex;
+  width: 100%;
+}
+.actionButtons_adcaac > div > span > span {
+  display: none;
+}
+.actionButtons_adcaac > div > span {
+  background-color: transparent !important;
+}
+.actionButtons_adcaac {
+  width: 100%;
+  gap: 6px;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+}
+.subtext_e06aad,
+.panelSubtextContainer_b2ca13 {
+  max-width: unset;
+  display: flex;
+  width: 100%;
+}
+.hoverRoll_c0d6c6 {
+  width: calc(100% - 32px);
+}
+:is(.wrapper_adcaac:not(:empty), #vc-spotify-player)
+  + .container_b2ca13
+  .avatar_b2ca13 {
+  margin-top: 0;
+  transform: none;
+}
+.wrapper_adcaac:not(:empty) {
+  padding: 0 !important;
+  background: none !important;
+  border-bottom: none !important;
+}
