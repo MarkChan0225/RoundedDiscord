@@ -305,7 +305,8 @@
 .wrapperAudio_f316dd.newMosaicStyle_f316dd,
 .attachment_a4623d,
 .executedCommand_ec86aa .appLauncherOnboardingCommandName_ec86aa,
-.hoverButtonGroup_ab8b23 {
+.hoverButtonGroup_ab8b23,
+.wrapper_bf1b19 {
   border-radius: var(--radius);
 }
 .newMosaicStyle_ad9cbd .footer_ad9cbd,
@@ -590,7 +591,10 @@
 .chipletContainerInner_d5cb59,
 .topicsDropdownBase_cf58b5,
 .container_b1a27b,
-.loadingPopout_a8c724 {
+.loadingPopout_a8c724,
+.container_dce733,
+.premiumMemberCountSwitchContainer_abfcad,
+.settingCard_dd864e {
   border-radius: var(--radius);
 }
 .layout_e9f61e {
@@ -693,8 +697,9 @@
 .panels_a4d4d9var {
   background: var(--bg-overlay-1, var(--background-secondary-alt));
 }
-.custom-theme-background .scroller_fea3ef {
-  background: var(--bg-overlay-3, var(--background-secondary));
+.custom-theme-background .scroller_fea3ef,
+.expandedFolderBackground_bc7085 {
+  background: var(--bg-overlay-3, var(--background-secondary)) !important;
 }
 .theme-dark.custom-theme-background .channelTextArea_a7d72e {
   background: var(--bg-overlay-1, var(--background-secondary)) !important;
