@@ -33,5 +33,5 @@ jobs:
 
       - uses: ncipollo/release-action@v1
         with:
-          artifacts: "bundle/*, RoundedDiscord.theme.css"
+          artifacts: "RoundedDiscord.theme.css, bundle/*"
           makeLatest: true
