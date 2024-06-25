@@ -428,11 +428,6 @@
 }
 
 /* Profile */
-.profileBadges_f89da9,
-.badgeList_ab525a,
-.badgeList-2aoHPw {
-  background-color: transparent;
-}
 .role_e4010c,
 .button_f23d00,
 .overlayBackground_c69a7b,
@@ -447,7 +442,9 @@
 .userProfileModalInner_c69a7b:before,
 .connectedAccountContainer_f3eb60,
 .userPopoutOverlayBackground_c69a7b,
-.pill_f9575e {
+.pill_f9575e,
+.pill_c83b44,
+.container_e5a42d {
   border-radius: var(--radius);
 }
 .userProfileOuterUnthemed_c69a7b {
