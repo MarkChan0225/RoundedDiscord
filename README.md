@@ -10,7 +10,7 @@
 
 | Dark Theme                                                                     | Nitro Theme                                                                         |
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| ![preview](https://markchan0225.github.io/RoundedDiscord/src/preview_dark.png) | ![preview_win](https://markchan0225.github.io/RoundedDiscord/src/preview_nitro.png) |
+| ![preview](./src/preview_dark.png) | ![preview_win](./src/preview_nitro.png) |
 
 </div><br/>
 
@@ -19,7 +19,6 @@
 1. No colour changed, can be used with your nitro theme or day theme.
 2. Fully rounded UI, a work of art.
 3. Lifetime support and maintenance.
-4. Always fix the bug at the first time.
 
 ## Preview:
 
@@ -47,9 +46,10 @@ Download the latest `RoundedDiscord.theme.css` file in
 
 ## Css Adaptation
 
-- [BetterWindowsTitleBar](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/BetterWindowsTitleBar.css) -
+- [BetterWindowsTitleBar (By @coolesding)](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/BetterWindowsTitleBar.css) -
   Let the title bar become better and suitable
-- [BetterUserPanel](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/BetterUserPanel.css) -
+- [BetterUserPanel (By @dablulite)](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/BetterUserPanel.css) -
   Let user panel auto collapse
-- [BetterBotTag](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/BetterBotTag.css) -
-  Let bot tag color become better
+- [BetterBotTag (By @blade04208)](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/BetterBotTag.css) -
+  Let bot tag color become better 
+- [UserReimagined (By @gibbu)](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/UserReimagined.css) - User Panel redesigned
