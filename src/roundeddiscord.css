@@ -446,7 +446,8 @@
 .userProfileOuterThemed_c69a7b,
 .userProfileModalInner_c69a7b:before,
 .connectedAccountContainer_f3eb60,
-.userPopoutOverlayBackground_c69a7b {
+.userPopoutOverlayBackground_c69a7b,
+.pill_f9575e {
   border-radius: var(--radius);
 }
 .userProfileOuterUnthemed_c69a7b {
