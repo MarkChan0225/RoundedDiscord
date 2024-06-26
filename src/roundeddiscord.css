@@ -15,7 +15,8 @@
 .containerSidenav_d576e9,
 .shop_e77fa3,
 .container_cac32e,
-.container_d1c246 {
+.container_d1c246,
+.sidebarContianer_d2194f {
   border-radius: var(--radius);
   margin-top: 10px;
   margin-bottom: 10px;
@@ -63,6 +64,10 @@
 .chat_a7d72e.threadSidebarOpen_a7d72e {
   border-radius: var(--radius);
   margin-right: 5px;
+}
+div.profileThemedContainer_d2194f {
+  border-radius: var(--radius);
+  margin-bottom: 20px;
 }
 
 /* User Panel (Optional) */
@@ -594,7 +599,13 @@
 .premiumMemberCountSwitchContainer_abfcad,
 .settingCard_dd864e,
 .container_c18ec9,
-.voiceChannelsButton_a08117 {
+.voiceChannelsButton_a08117,
+.container_d936aa,
+.container_f51af4,
+.permissionChiplet_a507b4,
+.modInfoItemContainer_ce9fb9,
+.permissionItemContainer_f38b88,
+.roleChiplet_f38b88 {
   border-radius: var(--radius);
 }
 .layout_e9f61e {
