@@ -359,7 +359,13 @@ div.profileThemedContainer_d2194f {
 .container_d00e26,
 .container_a2e886,
 .row_e677b7,
-.box_f70f48 {
+.box_f70f48,
+.recommendedServerCard_ebbdfd,
+.wrapper_d4ec61,
+.wrapper_d1fdce,
+.wrapper_e55051,
+.questsCard_c366aa,
+.cardInput_c04e45 {
   border-radius: var(--radius);
 }
 .suggestedColor__713b5 {
@@ -369,7 +375,8 @@ div.profileThemedContainer_d2194f {
 .selectPositionTop_f6639d.open_f6639d {
   border-radius: 0px 0px var(--radius) var(--radius);
 }
-.connectionHeader_e2a436 {
+.connectionHeader_e2a436,
+.gradient_e74e54 {
   border-radius: var(--radius) var(--radius) 0px 0px;
 }
 
@@ -449,7 +456,8 @@ div.profileThemedContainer_d2194f {
 .userPopoutOverlayBackground_c69a7b,
 .pill_f9575e,
 .pill_c83b44,
-.container_e5a42d {
+.container_e5a42d,
+.profileBadges_f89da9 {
   border-radius: var(--radius);
 }
 .userProfileOuterUnthemed_c69a7b {
@@ -605,7 +613,8 @@ div.profileThemedContainer_d2194f {
 .permissionChiplet_a507b4,
 .modInfoItemContainer_ce9fb9,
 .permissionItemContainer_f38b88,
-.roleChiplet_f38b88 {
+.roleChiplet_f38b88,
+.profileBadges_f89da9 {
   border-radius: var(--radius);
 }
 .layout_e9f61e {
