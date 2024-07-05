@@ -390,7 +390,7 @@ div.profileThemedContainer_d2194f {
 }
 .animatedContainer_fd6364,
 .selectPositionTop_f6639d.open_f6639d,
-.root_b93e3f>:last-child {
+.root_b93e3f > :last-child {
   border-radius: 0px 0px var(--radius) var(--radius);
 }
 .connectionHeader_e2a436,
