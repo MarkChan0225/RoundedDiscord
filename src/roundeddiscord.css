@@ -269,7 +269,8 @@ div.profileThemedContainer_d2194f {
 .result_bad108:after,
 .popoutContainer_cf58b5,
 .result_bad108,
-.reactionTooltip_fba897 {
+.reactionTooltip_fba897,
+.wrapper_c43059 {
   border-radius: var(--radius);
 }
 .scroller_f2bfbb {
@@ -389,7 +390,8 @@ div.profileThemedContainer_d2194f {
 /* Rounded Menu */
 .header_fd6364,
 .panels_a4d4d9,
-.container_b2ca13 {
+.container_b2ca13,
+.list_f20a46 {
   border-radius: var(--radius);
 }
 
@@ -425,17 +427,20 @@ div.profileThemedContainer_d2194f {
 .root_cbf230,
 .toolbar_de3e42,
 .option_b0286e,
-.body_cd82a7 {
+.body_cd82a7,
+.innerWrapper_c511e4 {
   border-radius: var(--radius);
 }
 .avatarWrapper_b2ca13 {
   border-radius: var(--radius) !important;
 }
-.card-14SgW5 {
+.card-14SgW5,
+.card_fe1b7e {
   border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .navRow-dG-XX8,
-.root-2x5M19 > :last-child {
+.root-2x5M19 > :last-child,
+.navRow_be9398 {
   border-radius: 0px 0px var(--radius) var(--radius);
 }
 
