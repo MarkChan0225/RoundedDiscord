@@ -69,6 +69,12 @@ div.profileThemedContainer_d2194f {
   border-radius: var(--radius);
   margin-bottom: 20px;
 }
+.notice_be03aa {
+  border-radius: var(--radius);
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-left: 5px;
+}
 
 /* User Panel (Optional) */
 .container_ee69e0,
@@ -270,7 +276,8 @@ div.profileThemedContainer_d2194f {
 .popoutContainer_cf58b5,
 .result_bad108,
 .reactionTooltip_fba897,
-.wrapper_c43059 {
+.wrapper_c43059,
+.wrapper_c6ee36.isBurstReactionPicker_c6ee36 {
   border-radius: var(--radius);
 }
 .scroller_f2bfbb {
@@ -281,6 +288,9 @@ div.profileThemedContainer_d2194f {
 }
 .emojiPicker_c6ee36 {
   border-radius: 0px 0px var(--radius) var(--radius);
+}
+.categoryList_c6ee36 {
+  border-bottom-left-radius: var(--radius);
 }
 
 /* Search */
@@ -366,14 +376,21 @@ div.profileThemedContainer_d2194f {
 .wrapper_d1fdce,
 .wrapper_e55051,
 .questsCard_c366aa,
-.cardInput_c04e45 {
+.cardInput_c04e45,
+.container_da1432,
+.promotionCard_e8af36,
+.optionBox_f2f431,
+.previewContainer_b74403,
+.effectGridItem_c80296,
+.presetEffectImg_c80296 {
   border-radius: var(--radius);
 }
 .suggestedColor__713b5 {
   border-radius: 10px;
 }
 .animatedContainer_fd6364,
-.selectPositionTop_f6639d.open_f6639d {
+.selectPositionTop_f6639d.open_f6639d,
+.root_b93e3f>:last-child {
   border-radius: 0px 0px var(--radius) var(--radius);
 }
 .connectionHeader_e2a436,
@@ -662,12 +679,6 @@ div.profileThemedContainer_d2194f {
 .headerClickable_eebd33,
 .callContainer_d880dc {
   border-radius: var(--radius) !important; /* Fix server log not rounded */
-}
-.notice__5fd4c {
-  border-radius: var(--radius);
-  margin-top: 10px;
-  margin-right: 10px;
-  margin-left: 5px;
 }
 .guildSidebar_a74b6f,
 .roundedRow_a39fe9 td:first-child {
