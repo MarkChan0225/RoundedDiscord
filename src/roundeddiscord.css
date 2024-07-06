@@ -404,7 +404,26 @@ div.profileThemedContainer_d2194f {
 .uploadButton_f8e959,
 .datePicker_b71016,
 .selectionBox_bd3462,
-.section_ad57ee {
+.section_ad57ee,
+.backgroundOptionRing_ad7d79,
+.backgroundOptionInner_ad7d79,
+.avatarUploaderInnerSquare_e9b3be,
+.progressBarImage_f0a9ff,
+.warningContainer_d02bd8,
+.banner_ad4cb5,
+.requiredPermissionsBanner_f575ef,
+.group_b05c08,
+.container_a11d84,
+.backgroundModifierContainer_e5c5d5,
+.clickableContainer_e5c5d5,
+.container_e5c5d5,
+.addAnotherRuleCardContainer_a57b58,
+.groupCollapsedContainer_f573e6,
+.mentionLimitContainer_fa2661,
+.stepper_fa2661,
+.stepperContainer_fa2661,
+.bannedUser_c90ddb,
+.enableSwitch_abfcad {
   border-radius: var(--radius);
 }
 .suggestedColor__713b5 {
@@ -416,7 +435,8 @@ div.profileThemedContainer_d2194f {
   border-radius: 0px 0px var(--radius) var(--radius);
 }
 .connectionHeader_e2a436,
-.gradient_e74e54 {
+.gradient_e74e54,
+.headerImage_fe5d81 {
   border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .root_b93e3f .body_bf926b {
@@ -569,7 +589,6 @@ div.profileThemedContainer_d2194f {
 .developerPortalCtaWrapper_cfaf72,
 .container_bd2368,
 .featureCard_b1a8d5,
-.tierHeaderUnlocked_da77bd,
 .settingCard-xZSDjS,
 .prompt_c6b11b,
 .messagesPopoutWrap_ac90a2,
@@ -694,12 +713,13 @@ div.profileThemedContainer_d2194f {
 .jumpToPresentBar_cf58b5,
 .disabledButtonWrapper_dd4f85,
 .banner_d29eee,
-.topicsDropdownHeading_cf58b5 {
+.topicsDropdownHeading_cf58b5,
+.tierHeaderUnlocked_da77bd {
   border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .changeDetails_eebd33,
 .lastChannel-21yyB,
-.tierBody_da77bdC,
+.tierBody_da77bd,
 .upsellFooter_d0de76,
 .scroller_fca846,
 .lastChannel_f04d06,
@@ -717,11 +737,13 @@ div.profileThemedContainer_d2194f {
 }
 .guildSidebar_a74b6f,
 .roundedRow_a39fe9 td:first-child,
-.deny_e3c4bb {
+.deny_e3c4bb,
+.deny_b05c08 {
   border-radius: var(--radius) 0px 0px var(--radius);
 }
 .roundedRow_a39fe9 td:last-child,
-.allow_e3c4bb {
+.allow_e3c4bb,
+.allow_b05c08 {
   border-radius: 0px var(--radius) var(--radius) 0px;
 }
 .newMessagesBar_cf58b5 {
