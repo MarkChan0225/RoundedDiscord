@@ -716,7 +716,7 @@ div.profileThemedContainer_d2194f {
 .deny_e3c4bb {
   border-radius: var(--radius) 0px 0px var(--radius);
 }
-.roundedRow_a39fe9 td:last-child ,
+.roundedRow_a39fe9 td:last-child,
 .allow_e3c4bb {
   border-radius: 0px var(--radius) var(--radius) 0px;
 }
