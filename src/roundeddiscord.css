@@ -217,11 +217,11 @@ div.profileThemedContainer_d2194f {
 }
 
 /* Discover */
-.searchBox__56feb,
+.searchBox_d83b4d
 .card_eb1ca6,
 .container_f11cbf,
 .headerImage_a39aa3,
-.headerImage-2D5D-v,
+.headerImage_a3a4ce
 .categoryPill-1zjNrr,
 .splashContainer_e825f6,
 .popout_f6639d,
@@ -278,7 +278,8 @@ div.profileThemedContainer_d2194f {
 .reactionTooltip_fba897,
 .wrapper_c43059,
 .wrapper_c6ee36.isBurstReactionPicker_c6ee36,
-.wrapper_c6ee36.isBurstReactionPicker_c6ee36:before {
+.wrapper_c6ee36.isBurstReactionPicker_c6ee36:before,
+.wrapper_c6ee36 {
   border-radius: var(--radius);
 }
 .scroller_f2bfbb {
@@ -356,7 +357,7 @@ div.profileThemedContainer_d2194f {
 .background_ae3c77,
 .notDetected_fd966d,
 .nowPlaying_fd966d,
-.membershipDialog-2wAdpQ,
+.membershipDialog_dc8e43,
 .swatch_c66781,
 .saturation_a50813 > div,
 .saturation_a50813 > div > div,
@@ -390,7 +391,17 @@ div.profileThemedContainer_d2194f {
 .banner_b12c98,
 .paymentBanner_a206c7,
 .detailsBlock_a206c7,
-.table_df16c1 {
+.table_df16c1,
+.credentialList_eaef52,
+.metadataContainer_e2a436,
+.soundButtonSettingContainer_c801bb,
+.cameraWrapper_ff1ac9,
+.container_c67e31,
+.key_c90023,
+.container_d7c696,
+.container_a47d49,
+.overridePlaceholder_cacc4c,
+.featureBorder_c6d722 {
   border-radius: var(--radius);
 }
 .suggestedColor__713b5 {
@@ -457,7 +468,10 @@ div.profileThemedContainer_d2194f {
 .option_b0286e,
 .body_cd82a7,
 .innerWrapper_c511e4,
-.container_f8a938 {
+.container_f8a938,
+.calloutContainer_fd8ff1,
+.messages_c06487,
+.messages_c06487 {
   border-radius: var(--radius);
 }
 .avatarWrapper_b2ca13 {
@@ -648,7 +662,10 @@ div.profileThemedContainer_d2194f {
 .modInfoItemContainer_ce9fb9,
 .permissionItemContainer_f38b88,
 .roleChiplet_f38b88,
-.profileBadges_f89da9 {
+.profileBadges_f89da9,
+.defaultTextInputWrapper_d274ca,
+.addAnswerButton_f24a96,
+.perks_fcea2f {
   border-radius: var(--radius);
 }
 .layout_e9f61e {
@@ -765,4 +782,11 @@ div.profileThemedContainer_d2194f {
 }
 .panels_a4d4d9 {
   background: var(--background-secondary-alt);
+}
+.profileCustomizationSection_bad983 .biteSizeBannerPremium_c3e427 {
+  max-width: 292px;
+}
+.profileCustomizationSection_bad983 .clickable_eebaf6:hover {
+  border-radius: var(--radius) var(--radius) 0 0;
+  max-width: 292px;
 }
