@@ -396,7 +396,11 @@ div.profileThemedContainer_d2194f {
 .container_d7c696,
 .container_a47d49,
 .overridePlaceholder_cacc4c,
-.featureBorder_c6d722 {
+.featureBorder_c6d722,
+.wrapper_d2da9c,
+.option_d2da9c,
+.addGamePopout_fd966d,
+.linkCalloutContainer_dd48c5 {
   border-radius: var(--radius);
 }
 .suggestedColor__713b5 {
