@@ -667,7 +667,8 @@ div.profileThemedContainer_d2194f {
 .defaultTextInputWrapper_d274ca,
 .addAnswerButton_f24a96,
 .perks_fcea2f,
-.card_f9902b {
+.card_f9902b,
+.group_e3c4bb {
   border-radius: var(--radius);
 }
 .layout_e9f61e {
@@ -711,10 +712,12 @@ div.profileThemedContainer_d2194f {
   border-radius: var(--radius) !important; /* Fix server log not rounded */
 }
 .guildSidebar_a74b6f,
-.roundedRow_a39fe9 td:first-child {
+.roundedRow_a39fe9 td:first-child,
+.deny_e3c4bb {
   border-radius: var(--radius) 0px 0px var(--radius);
 }
-.roundedRow_a39fe9 td:last-child {
+.roundedRow_a39fe9 td:last-child ,
+.allow_e3c4bb {
   border-radius: 0px var(--radius) var(--radius) 0px;
 }
 .newMessagesBar_cf58b5 {
