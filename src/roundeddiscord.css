@@ -198,11 +198,6 @@ div.profileThemedContainer_d2194f {
   border-radius: var(--radius) 0px 0px var(--radius);
 }
 
-/* Create Server */
-.container-x8Y1ix {
-  border-radius: var(--radius);
-}
-
 /* SoundBoard */
 .picker_cd703d,
 .soundButton_f40049 {
@@ -665,7 +660,8 @@ div.profileThemedContainer_d2194f {
 .profileBadges_f89da9,
 .defaultTextInputWrapper_d274ca,
 .addAnswerButton_f24a96,
-.perks_fcea2f {
+.perks_fcea2f,
+.card_f9902b {
   border-radius: var(--radius);
 }
 .layout_e9f61e {
