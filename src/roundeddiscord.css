@@ -400,7 +400,11 @@ div.profileThemedContainer_d2194f {
 .wrapper_d2da9c,
 .option_d2da9c,
 .addGamePopout_fd966d,
-.linkCalloutContainer_dd48c5 {
+.linkCalloutContainer_dd48c5,
+.uploadButton_f8e959,
+.datePicker_b71016,
+.selectionBox_bd3462,
+.section_ad57ee {
   border-radius: var(--radius);
 }
 .suggestedColor__713b5 {
