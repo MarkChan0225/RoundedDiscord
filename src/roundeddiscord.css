@@ -161,7 +161,8 @@ div.profileThemedContainer_d2194f {
 .memberListItem_db70f7,
 .vc-permviewer-perms-list-item,
 .shiki-root,
-.markup_d6076c pre {
+.markup_d6076c pre,
+:is(.vc-settings-theme-grid, .vc-plugins-grid) .vc-addon-card .vc-addon-note {
   border-radius: var(--radius);
 }
 .vc-addon-card,
