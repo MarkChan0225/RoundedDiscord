@@ -151,6 +151,7 @@ div.profileThemedContainer_d2194f {
   margin-right: 15px;
 }
 .shiki-btn:last-child {
+  border-radius: var(--radius);
   margin-right: 5px;
   margin-bottom: 5px;
 }
@@ -160,8 +161,7 @@ div.profileThemedContainer_d2194f {
 .memberListItem_db70f7,
 .vc-permviewer-perms-list-item,
 .shiki-root,
-.markup_d6076c pre,
-.shiki-btn:last-child {
+.markup_d6076c pre {
   border-radius: var(--radius);
 }
 .vc-addon-card,
