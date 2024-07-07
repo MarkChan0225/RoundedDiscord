@@ -692,7 +692,10 @@ div.profileThemedContainer_d2194f {
 .addAnswerButton_f24a96,
 .perks_fcea2f,
 .card_f9902b,
-.group_e3c4bb {
+.group_e3c4bb,
+.activityItem_d46b95,
+.activityTag_d46b95,
+.container_a3d172 {
   border-radius: var(--radius);
 }
 .layout_e9f61e {
