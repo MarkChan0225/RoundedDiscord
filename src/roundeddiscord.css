@@ -303,7 +303,9 @@ div.profileThemedContainer_d2194f {
 .wrapper_c43059,
 .wrapper_c6ee36.isBurstReactionPicker_c6ee36,
 .wrapper_c6ee36.isBurstReactionPicker_c6ee36:before,
-.wrapper_c6ee36 {
+.wrapper_c6ee36,
+.diversitySelectorOptions_cce80d,
+.diversityEmojiItem_cce80d {
   border-radius: var(--radius);
 }
 .scroller_f2bfbb {
