@@ -123,7 +123,13 @@ div.profileThemedContainer_d2194f {
 .qwert-toast,
 .toast-g4bfgI,
 .card-x5zW6z,
-.coverBadge-I41ZIY {
+.coverBadge-I41ZIY,
+.bd-modal-root,
+#floating-editor-window,
+.bd-button,
+.card_x5zW6z,
+.coverBadge_I41ZIY,
+.bd-toast {
   border-radius: var(--radius);
 }
 .bd-notice {
@@ -134,11 +140,9 @@ div.profileThemedContainer_d2194f {
 #bd-editor-controls {
   border-radius: var(--radius) var(--radius) 0px 0px;
 }
-.monaco-editor {
+.monaco-editor,
+.bd-modal-footer {
   border-radius: 0px 0px var(--radius) var(--radius);
-}
-#floating-editor-window {
-  border-radius: var(--radius);
 }
 .floating-window #bd-editor-controls,
 .floating-window .monaco-editor {
@@ -147,7 +151,12 @@ div.profileThemedContainer_d2194f {
 .content-Pph8t6:not(.hidden_fea3ef) {
   margin-left: 5px;
 }
-
+.bd-controls>.bd-addon-button:first-of-type {
+  border-radius: var(--radius) 0px 0px var(--radius);
+}
+.bd-controls>.bd-addon-button:last-of-type {
+  border-radius: 0px var(--radius) var(--radius) 0px;
+}
 .platform-osx .content-Pph8t6:not(.hidden_fea3ef) {
   margin-top: 10px;
 }
