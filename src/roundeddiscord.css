@@ -75,6 +75,14 @@ div.profileThemedContainer_d2194f {
   margin-right: 10px;
   margin-left: 5px;
 }
+.editor_bcfa1e {
+  border-radius: var(--radius);
+  height: auto !important;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border-left: 0 !important;
+}
 
 /* User Panel (Optional) */
 .container_ee69e0,
@@ -321,7 +329,8 @@ div.profileThemedContainer_d2194f {
 .attachment_a4623d,
 .executedCommand_ec86aa .appLauncherOnboardingCommandName_ec86aa,
 .hoverButtonGroup_ab8b23,
-.wrapper_bf1b19 {
+.wrapper_bf1b19,
+.invite_cdcad9 {
   border-radius: var(--radius);
 }
 .newMosaicStyle_ad9cbd .footer_ad9cbd,
