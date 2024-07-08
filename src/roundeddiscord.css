@@ -129,7 +129,9 @@ div.profileThemedContainer_d2194f {
 .bd-button,
 .card_x5zW6z,
 .coverBadge_I41ZIY,
-.bd-toast {
+.bd-toast,
+.toast_g4bfgI,
+.bd-description-wrap .banner {
   border-radius: var(--radius);
 }
 .bd-notice {
@@ -137,7 +139,8 @@ div.profileThemedContainer_d2194f {
   margin-top: 5px;
   margin-right: 5px;
 }
-#bd-editor-controls {
+#bd-editor-controls,
+.bd-modal-header {
   border-radius: var(--radius) var(--radius) 0px 0px;
 }
 .monaco-editor,
@@ -148,7 +151,7 @@ div.profileThemedContainer_d2194f {
 .floating-window .monaco-editor {
   border-radius: 0px;
 }
-.content-Pph8t6:not(.hidden_fea3ef) {
+.wrapper_fea3ef.guilds_a4d4d9.content_Pph8t6 {
   margin-left: 5px;
 }
 .bd-controls>.bd-addon-button:first-of-type {
@@ -160,8 +163,11 @@ div.profileThemedContainer_d2194f {
 .platform-osx .content-Pph8t6:not(.hidden_fea3ef) {
   margin-top: 10px;
 }
-.content-Pph8t6.closed-j55_T- {
+.content_Pph8t6.closed_j55_T- {
   display: none;
+}
+.bd-modal-content {
+  margin-right: 16px;
 }
 
 /* Vencord */
