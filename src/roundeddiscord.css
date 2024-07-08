@@ -75,7 +75,8 @@ div.profileThemedContainer_d2194f {
   margin-right: 10px;
   margin-left: 5px;
 }
-.editor_bcfa1e {
+.editor_bcfa1e,
+.themeEditor_c9dda6 {
   border-radius: var(--radius);
   height: auto !important;
   margin-right: 10px;
