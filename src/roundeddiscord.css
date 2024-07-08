@@ -132,7 +132,8 @@ div.profileThemedContainer_d2194f {
 .bd-toast,
 .toast_g4bfgI,
 .bd-description-wrap .banner,
-#bd-editor-controls button {
+#bd-editor-controls button,
+.bd-notice-button {
   border-radius: var(--radius);
 }
 .bd-notice {
@@ -218,11 +219,17 @@ div.profileThemedContainer_d2194f {
 /* Replugged */
 .replugged-addon-card,
 .replugged-updater-item,
-#replugged-quickcss-wrapper .cm-editor {
+#replugged-quickcss-wrapper .cm-editor,
+.ͼ1 .cm-scroller,
+.better-codeblocks {
   border-radius: var(--radius);
 }
 #replugged-quickcss-wrapper .cm-gutters {
   border-radius: var(--radius) 0px 0px var(--radius);
+}
+.better-codeblocks-btn:last-child {
+  border-radius: var(--radius);
+  margin: 5px;
 }
 
 /* SoundBoard */
