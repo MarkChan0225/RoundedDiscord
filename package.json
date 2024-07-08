@@ -21,6 +21,6 @@
     "prettier": "^3.3.2"
   },
   "dependencies": {
-    "replugged": "^4.8.0"
+    "replugged": "^4.8.1"
   }
 }

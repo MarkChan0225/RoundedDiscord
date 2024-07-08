@@ -136,7 +136,7 @@ div.profileThemedContainer_d2194f {
 .bd-notice-button,
 .channelTabs-tab,
 .channelTabs-fav,
-.channelTabs-tabNav>div,
+.channelTabs-tabNav > div,
 .channelTabs-closeTab {
   border-radius: var(--radius);
 }
@@ -193,7 +193,8 @@ div.profileThemedContainer_d2194f {
 .vc-permviewer-perms-list-item,
 .shiki-root,
 .markup_d6076c pre,
-:is(.vc-settings-theme-grid, .vc-plugins-grid) .vc-addon-card .vc-addon-note {
+:is(.vc-settings-theme-grid, .vc-plugins-grid) .vc-addon-card .vc-addon-note,
+.markup_f8f345 pre {
   border-radius: var(--radius);
 }
 .vc-addon-card,
