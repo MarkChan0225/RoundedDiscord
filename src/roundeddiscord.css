@@ -133,7 +133,10 @@ div.profileThemedContainer_d2194f {
 .toast_g4bfgI,
 .bd-description-wrap .banner,
 #bd-editor-controls button,
-.bd-notice-button {
+.bd-notice-button,
+.channelTabs-tab,
+.channelTabs-fav,
+.channelTabs-tabNav>div {
   border-radius: var(--radius);
 }
 .bd-notice {
