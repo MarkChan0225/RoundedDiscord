@@ -1,9 +1,10 @@
 /* Chat UI */
-.tutorialContainer_f9623d {
-  margin-top: 6px;
+.tutorialContainer_f9623d,
+.wrapper_bc7085 {
+  margin-top: 8px;
 }
 .resizeHandle_d1c246 {
-  width: 0px;
+  width: 0;
 }
 .container_c2739c,
 .container-36u7Lw,
