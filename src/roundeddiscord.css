@@ -173,7 +173,7 @@ div.profileThemedContainer_d2194f {
 }
 
 /* Vencord */
-[style="width: 72px; display: flex;"]:has(.wrapper_fea3ef.guilds_a4d4d9) {
+[style*="display: flex;"]:has(.wrapper_fea3ef.guilds_a4d4d9) {
   margin-left: -5px;
   margin-right: 15px;
 }
