@@ -231,6 +231,11 @@ div.profileThemedContainer_d2194f {
   border-radius: var(--radius);
   margin: 5px;
 }
+.foldersRedesigned-sidebar {
+  padding-left: 5px !important;
+  margin-left: 0 !important;
+  margin-right: 10px;
+}
 
 /* SoundBoard */
 .picker_cd703d,
