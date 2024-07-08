@@ -155,10 +155,10 @@ div.profileThemedContainer_d2194f {
 .wrapper_fea3ef.guilds_a4d4d9.content_Pph8t6 {
   margin-left: 5px;
 }
-.bd-controls>.bd-addon-button:first-of-type {
+.bd-controls > .bd-addon-button:first-of-type {
   border-radius: var(--radius) 0px 0px var(--radius);
 }
-.bd-controls>.bd-addon-button:last-of-type {
+.bd-controls > .bd-addon-button:last-of-type {
   border-radius: 0px var(--radius) var(--radius) 0px;
 }
 .platform-osx .content-Pph8t6:not(.hidden_fea3ef) {
