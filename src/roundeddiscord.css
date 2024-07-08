@@ -131,13 +131,14 @@ div.profileThemedContainer_d2194f {
 .coverBadge_I41ZIY,
 .bd-toast,
 .toast_g4bfgI,
-.bd-description-wrap .banner {
+.bd-description-wrap .banner,
+#bd-editor-controls button {
   border-radius: var(--radius);
 }
 .bd-notice {
   margin-left: 5px;
-  margin-top: 5px;
-  margin-right: 5px;
+  margin-top: 10px;
+  margin-right: 10px;
 }
 #bd-editor-controls,
 .bd-modal-header {
