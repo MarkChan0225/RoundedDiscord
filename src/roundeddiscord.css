@@ -98,7 +98,7 @@ div.profileThemedContainer_d2194f {
 .activityPanel_a4d4d9 ~ .wrapper_adcaac .container_adcaac {
   border-radius: 0 !important;
 }
-.wrapper_adcaac ~ .container_b2ca13 {
+.wrapper_adcaac:has(.container_adcaac) ~ .container_b2ca13 {
   border-radius: 0 0 var(--radius) var(--radius) !important;
 }
 
