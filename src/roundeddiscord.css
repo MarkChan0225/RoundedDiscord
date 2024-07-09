@@ -95,6 +95,13 @@ div.profileThemedContainer_d2194f {
 .sidebar_a4d4d9 {
   background: unset;
 }
+.activityPanel_a4d4d9 ~ .wrapper_adcaac .container_adcaac {
+  border-radius: 0 !important;
+}
+.wrapper_adcaac ~ .container_b2ca13 {
+  border-radius: 0 0 var(--radius) var(--radius) !important;
+
+}
 
 /* BetterDiscord */
 .bd-select,
@@ -305,7 +312,8 @@ div.profileThemedContainer_d2194f {
 .wrapper_c6ee36.isBurstReactionPicker_c6ee36:before,
 .wrapper_c6ee36,
 .diversitySelectorOptions_cce80d,
-.diversityEmojiItem_cce80d {
+.diversityEmojiItem_cce80d,
+.container_bdea70 {
   border-radius: var(--radius);
 }
 .scroller_f2bfbb {
@@ -727,7 +735,15 @@ div.profileThemedContainer_d2194f {
 .activityItem_d46b95,
 .activityTag_d46b95,
 .container_a3d172,
-.tile_dc5fc4 {
+.tile_dc5fc4,
+.container_e88961,
+.applicationLargeImage_f866f2,
+.cameraPreview_e5da2b,
+.popout_a9414b,
+.iconWidget_a9414b,
+.optionButton_a9414b,
+.setCustomButton_a9414b,
+.scroller_bc9592 {
   border-radius: var(--radius);
 }
 .layout_e9f61e {
@@ -764,7 +780,8 @@ div.profileThemedContainer_d2194f {
 .tooltipPremiumFooterContainer_eeaea3,
 .topicsPillContainer_cf58b5,
 .newTopicsBarContainer_cf58b5,
-.topicsScroller_cf58b5 {
+.topicsScroller_cf58b5,
+.temporaryMembershipContainerBackground_cedfaf {
   border-radius: 0 0 var(--radius) var(--radius);
 }
 .headerClickable_eebd33,
@@ -797,6 +814,13 @@ div.profileThemedContainer_d2194f {
 }
 .channelTextArea_a7d72e {
   background-color: unset;
+}
+.inviteRow_cedfaf {
+  border-radius: var(--radius);
+  margin-right: 0 !important;
+}
+.inviteRowButton_cedfaf {
+  margin-right: -5px !important;
 }
 
 /* Slash Command */
@@ -873,4 +897,7 @@ div.profileThemedContainer_d2194f {
 }
 .channelTextArea_a7d72e {
   background: var(--background-secondary) !important;
+}
+.actionButtons_adcaac > div > span {
+  background: transparent !important;
 }
