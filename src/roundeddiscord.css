@@ -742,7 +742,9 @@ div.profileThemedContainer_d2194f {
 .iconWidget_a9414b,
 .optionButton_a9414b,
 .setCustomButton_a9414b,
-.scroller_bc9592 {
+.scroller_bc9592,
+.childButton_f45bfc,
+.messagePreviewContainer_b06e1c {
   border-radius: var(--radius);
 }
 .layout_e9f61e {
