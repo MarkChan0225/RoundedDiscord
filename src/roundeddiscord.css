@@ -744,7 +744,9 @@ div.profileThemedContainer_d2194f {
 .setCustomButton_a9414b,
 .scroller_bc9592,
 .childButton_f45bfc,
-.messagePreviewContainer_b06e1c {
+.messagePreviewContainer_b06e1c,
+.container_f91bb7,
+.wrapper_c01868 {
   border-radius: var(--radius);
 }
 .layout_e9f61e {
