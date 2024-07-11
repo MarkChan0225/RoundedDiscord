@@ -17,7 +17,8 @@
 .shop_e77fa3,
 .container_cac32e,
 .container_d1c246,
-.sidebarContianer_d2194f {
+.sidebarContianer_d2194f,
+.shopScroll_e77fa3 {
   border-radius: var(--radius);
   margin-top: 10px;
   margin-bottom: 10px;
@@ -84,6 +85,9 @@ div.profileThemedContainer_d2194f {
   margin-bottom: 10px;
   margin-top: 10px;
   border-left: 0 !important;
+}
+.shop_e77fa3 {
+  height: 770px !important;
 }
 
 /* User Panel (Optional) */
