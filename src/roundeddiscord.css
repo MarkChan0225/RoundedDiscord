@@ -917,15 +917,6 @@ div.profileThemedContainer_d2194f {
   border-radius: var(--radius) var(--radius) 0 0;
   max-width: 292px;
 }
-.theme-dark.custom-theme-background .channelTextArea_a7d72e {
-  background: var(--bg-overlay-1, var(--background-secondary)) !important;
-}
-.theme-light.custom-theme-background .channelTextArea_a7d72e {
-  background: var(--bg-overlay-2, var(--background-secondary)) !important;
-}
-.channelTextArea_a7d72e {
-  background: var(--background-secondary) !important;
-}
 .actionButtons_adcaac > div > span {
   background: transparent !important;
 }
