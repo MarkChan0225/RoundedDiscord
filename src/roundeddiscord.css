@@ -18,15 +18,15 @@
 .container_cac32e,
 .container_d1c246,
 .sidebarContianer_d2194f,
-.shopScroll_e77fa3 {
+.shopScroll_e77fa3,
+.container_d1c246 {
   border-radius: var(--radius);
   margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 10px;
   margin-left: 5px;
 }
-.sidebar_a4d4d9,
-.container_d1c246 {
+.sidebar_a4d4d9 {
   border-radius: var(--radius) !important; /* Fix sidebar not rounded on windows platform */
   margin-top: 10px;
   margin-bottom: 10px;
@@ -767,7 +767,9 @@ div.profileThemedContainer_d2194f {
 .overlayTitle_ba4b17,
 .achievementContainer_a26362,
 .container_c46051,
-.container_e48555 {
+.container_e48555,
+.contentPreview_a57509,
+.bodyMedia_a57509 {
   border-radius: var(--radius);
 }
 .layout_e9f61e {
