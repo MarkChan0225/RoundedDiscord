@@ -191,23 +191,18 @@ div.profileThemedContainer_d2194f {
 .memberListItem_db70f7,
 .vc-permviewer-perms-list-item,
 .shiki-root,
-.markup_f8f345 pre,
-:is(.vc-settings-theme-grid, .vc-plugins-grid) .vc-addon-card .vc-addon-note,
 .markup_f8f345 pre {
   border-radius: var(--radius);
 }
 .vc-addon-card,
 .vc-notification-root,
-.vc-st-modal-content input {
+.vc-st-modal-content input,
+:is(.vc-settings-theme-grid, .vc-plugins-grid) .vc-addon-card .vc-addon-note {
   border-radius: var(--radius) !important;
 }
 #vc-spotify-player,
 .vc-gp-banner {
   border-radius: var(--radius) var(--radius) 0 0;
-}
-[id^="folder-items-"] {
-  margin-top: 6px;
-  margin-bottom: 6px;
 }
 .vc-bf-folder-sidebar [class*="expandedFolderBackground-"] {
   background: unset !important;
