@@ -7,7 +7,6 @@
   width: 0;
 }
 .container_c2739c,
-.container-36u7Lw,
 .chat_a7d72e,
 .pageWrapper_a3a4ce,
 .container_fca846,
@@ -16,7 +15,6 @@
 .containerSidenav_d576e9,
 .shop_e77fa3,
 .container_cac32e,
-.container_d1c246,
 .sidebarContianer_d2194f,
 .shopScroll_e77fa3,
 .container_d1c246 {
@@ -95,9 +93,6 @@ div.profileThemedContainer_d2194f {
 .privateChannels_f0963d {
   border-radius: var(--radius);
   margin-bottom: 5px;
-}
-.sidebar_a4d4d9 {
-  background: unset;
 }
 .activityPanel_a4d4d9 ~ .wrapper_adcaac .container_adcaac {
   border-radius: 0 !important;
