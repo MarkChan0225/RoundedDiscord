@@ -8,7 +8,7 @@
  * @source https://github.com/MarkChan0225/RoundedDiscord
 */
 
-@import url(https://MarkChan0225.github.io/RoundedDiscord/src/roundeddiscord.css);
+@import url(https://raw.githubusercontent.com/MarkChan0225/RoundedDiscord/Dev/src/roundeddiscord.css);
 
 :root {
   --radius: 16px;

@@ -428,8 +428,7 @@
 #vc-spotify-player,
 .activityPanel_a4d4d9,
 .banner_d29eee,
-.bannerSVGWrapper_b32cc2:not(:has([style*="image"]))
-  [style*="background-color"],
+.bannerSVGWrapper_b32cc2:not(:has([style*="image"])) [style*="background-color"],
 .bd-modal-header,
 .card_fe1b7e,
 .cardHeader_dedfd1,
