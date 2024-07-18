@@ -84,8 +84,9 @@ div.profileThemedContainer_d2194f {
   margin-top: 10px;
   border-left: 0 !important;
 }
-.shop_e77fa3 {
-  height: 770px !important;
+.shop_e77fa3, 
+.shopScroll_e77fa3 {
+  height: 97.7% !important;
 }
 
 /* User Panel (Optional) */
