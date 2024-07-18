@@ -276,6 +276,7 @@
 .popout_f6639d,
 .popout_f6639d.popoutPositionTop_f6639d,
 .popoutContainer_cf58b5,
+.popoutList_da8701,
 .premiumMemberCountSwitchContainer_abfcad,
 .presetEffectImg_c80296,
 .previewChannelRowContent_c5d9bc,
@@ -333,6 +334,7 @@
 .section_ad57ee,
 .section_cd82a7:only-child,
 .select_f6639d,
+.selectableItem_d40acf,
 .selectGuildPseudoCta_ac4952,
 .selectionBox_bd3462,
 .selectPositionTop_f6639d.open_f6639d,
@@ -406,7 +408,8 @@
 .wrapper_e55051,
 .wrapper_ef319f,
 .wrapper_faf5ab,
-.wrapperAudio_f316dd.newMosaicStyle_f316dd {
+.wrapperAudio_f316dd.newMosaicStyle_f316dd,
+div#anchor {
   border-radius: var(--radius);
 }
 #replugged-quickcss-wrapper .cm-editor,
@@ -602,7 +605,7 @@ div.profileThemedContainer_d2194f {
 .shop_e77fa3 {
   height: 97.5% !important;
 }
-.shopScroll_e77fa3{
+.shopScroll_e77fa3 {
   border-radius: var(--radius);
   height: 100% !important;
   margin-bottom: 10px;
