@@ -2,14 +2,15 @@
   "name": "RoundedDiscord",
   "version": "1.1.1",
   "description": "A theme which make your discord round.",
-  "engines": {
-    "node": ">=18.0.0",
-    "pnpm": ">=8.0.0"
+"engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=9.0.0"
   },
   "scripts": {
     "build": "replugged build theme",
     "watch": "replugged build theme --watch",
     "bundle": "replugged bundle theme",
+    "release": "replugged release",
     "lint": "prettier ./src --check",
     "lint:fix": "prettier ./src --write"
   },

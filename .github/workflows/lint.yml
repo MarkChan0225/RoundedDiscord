@@ -1,33 +1,33 @@
 name: Lint
 
 on:
-    push:
-        branches:
-            - '*'
-    pull_request:
-        branches:
-            - '*'
+  push:
+    branches:
+      - "*"
+  pull_request:
+    branches:
+      - "*"
 
 jobs:
-    run-linters:
-        name: Run linters
-        runs-on: ubuntu-latest
+  run-linters:
+    name: Run linters
+    runs-on: ubuntu-latest
 
-        steps:
-            - name: Check out Git repository
-              uses: actions/checkout@v2
+    steps:
+      - name: Check out Git repository
+        uses: actions/checkout@v4
 
-            - name: Set up Node.js
-              uses: actions/setup-node@v3
-              with:
-                  node-version: 18
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
 
-            - uses: pnpm/action-setup@v2
-              with:
-                  version: latest
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
 
-            - name: Install Node.js dependencies
-              run: pnpm install
+      - name: Install Node.js dependencies
+        run: pnpm install
 
-            - name: Run linters
-              run: pnpm run lint
+      - name: Run linters
+        run: pnpm run lint
