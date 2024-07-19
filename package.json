@@ -2,7 +2,7 @@
   "name": "RoundedDiscord",
   "version": "1.1.1",
   "description": "A theme which make your discord round.",
-"engines": {
+  "engines": {
     "node": ">=20.0.0",
     "pnpm": ">=9.0.0"
   },
@@ -18,10 +18,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^18.19.41",
-    "prettier": "^3.3.3"
-  },
-  "dependencies": {
+    "@types/node": "^20.14.11",
+    "prettier": "^3.3.3",
     "replugged": "^4.8.1"
   }
 }
