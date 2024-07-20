@@ -1,4 +1,4 @@
-<br/><div align="center">
+<div align="center">
 
 # Rounded Discord
 
@@ -13,7 +13,7 @@
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | ![preview](./src/preview_dark.png) | ![preview_win](./src/preview_nitro.png) |
 
-</div><br/>
+</div>
 
 ## Feature:
 
