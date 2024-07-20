@@ -23,7 +23,7 @@
 
 ## Preview:
 
-[![Preview](https://img.shields.io/badge/Preview-5865F2?logo=Discord&style=for-the-badge&labelColor=black)](https://gibbu.github.io/ThemePreview/?file=https://markchan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css)
+[![Preview](https://img.shields.io/badge/Praeview-5865F2?logo=Discord&style=for-the-badge&labelColor=black)](https://gibbu.github.io/ThemePreview/?file=https://markchan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css)
 
 ## Installation:
 
@@ -47,10 +47,7 @@ Download the latest `RoundedDiscord.theme.css` file in
 
 ## Css Adaptation
 
-- [BetterWindowsTitleBar (By @coolesding)](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/BetterWindowsTitleBar.css) -
-  Let the title bar become better and suitable
-- [BetterUserPanel (By @dablulite)](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/BetterUserPanel.css) -
-  Let user panel auto collapse
-- [BetterBotTag (By @blade04208)](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/BetterBotTag.css) -
-  Let bot tag color become better 
+- [BetterWindowsTitleBar (By @coolesding)](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/BetterWindowsTitleBar.css) - Let the title bar become better and suitable
+- [BetterUserPanel (By @dablulite)](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/BetterUserPanel.css) - Let user panel auto collapse
+- [BetterBotTag (By @blade04208)](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/BetterBotTag.css) - Let bot tag color become better 
 - [UserReimagined (By @gibbu)](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/UserReimagined.css) - User Panel redesigned
