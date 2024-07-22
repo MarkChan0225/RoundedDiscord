@@ -1,4 +1,5 @@
-<br/><div align="center">
+<div align="center"><br/>
+
 # Rounded Discord
 
 [![Latest Release](https://img.shields.io/github/v/release/MarkChan0225/RoundedDiscord?color=gree&label=Release&style=flat)](https://github.com/MarkChan0225/RoundedDiscord/releases/latest)
@@ -12,7 +13,7 @@
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | ![preview](./src/preview_dark.png) | ![preview_win](./src/preview_nitro.png) |
 
-</div><br/>
+<br/></div>
 
 ## Feature:
 
