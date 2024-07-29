@@ -33,15 +33,11 @@ the theme.
 
 ### Vencord Users
 
-Download the latest `RoundedDiscord.theme.css` file in
-[release](https://github.com/MarkChan0225/RoundedDiscord/releases/latest) or copy this
-[link](https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css) to `Theme` setting.
+Download the latest `RoundedDiscord.theme.css` file by this [link](https://github.com/MarkChan0225/RoundedDiscord/releases/download/v1.1.1/RoundedDiscord.theme.css) or copy `https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css` to `Theme` setting.
 
 ### BetterDiscord Users
 
-Download the latest `RoundedDiscord.theme.css` file in
-[release](https://github.com/MarkChan0225/RoundedDiscord/releases/latest) or by
-[this link](https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css) and move it into
+Download the latest `RoundedDiscord.theme.css` file by this [link](https://github.com/MarkChan0225/RoundedDiscord/releases/download/v1.1.1/RoundedDiscord.theme.css) and move it into
 `Theme` file.
 
 ## Css Adaptation
