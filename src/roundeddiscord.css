@@ -434,8 +434,7 @@ div#anchor {
 #bd-editor-controls,
 #vc-spotify-player,
 .activityPanel_a4d4d9,
-.bannerSVGWrapper_b32cc2:not(:has([style*="image"]))
-  [style*="background-color"],
+.bannerSVGWrapper_b32cc2:not(:has([style*="image"])) [style*="background-color"],
 .banner_d29eee,
 .bd-modal-header,
 .cardHeader_dedfd1,
@@ -488,6 +487,7 @@ div#anchor {
 .bd-controls > .bd-addon-button:last-of-type,
 .inviteSplash_ed5743,
 .item_aa2afb:last-child,
+.modal_a74b6f,
 .roundedRow_a39fe9 td:last-child {
   border-radius: 0 var(--radius) var(--radius) 0;
 }
@@ -525,8 +525,7 @@ div#anchor {
 .wrapper_adcaac:has(.container_adcaac) ~ .container_b2ca13 {
   border-radius: 0 0 var(--radius) var(--radius) !important;
 }
-.modal_a74b6f,
-.modal_a74b6f ~ .footer_f9a4c9 {
+.modal_a74b6f .footer_f9a4c9 {
   border-radius: 0 0 var(--radius) 0;
 }
 .activityPanel_a4d4d9 ~ .wrapper_adcaac .container_adcaac,
