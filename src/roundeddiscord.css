@@ -498,6 +498,7 @@ div#anchor {
 .footerContainer_bc2461,
 .footer_c5a065,
 .footer_d8e2d0,
+.footer_f9a4c9,
 .lastChannel_f04d06,
 .monaco-editor,
 .navButtons_cd377c,
@@ -524,8 +525,8 @@ div#anchor {
 .wrapper_adcaac:has(.container_adcaac) ~ .container_b2ca13 {
   border-radius: 0 0 var(--radius) var(--radius) !important;
 }
-.footer_f9a4c9,
-.modal_a74b6f {
+.modal_a74b6f,
+.modal_a74b6f ~ .footer_f9a4c9 {
   border-radius: 0 0 var(--radius) 0;
 }
 .activityPanel_a4d4d9 ~ .wrapper_adcaac .container_adcaac,
