@@ -37,13 +37,13 @@
   width: 100%;
   cursor: pointer;
 }
-.container_b2ca13 > .flex_bba380 {
+.container_b2ca13 > .flex_dc333f {
   width: 100%;
   gap: 6px;
   padding: 6px;
   box-sizing: border-box;
 }
-.container_b2ca13 > .flex_bba380 > button {
+.container_b2ca13 > .flex_dc333f > button {
   border-radius: 50px;
   width: 100%;
   padding: 6px 0;
@@ -116,7 +116,7 @@
   box-sizing: border-box;
   display: flex;
 }
-.subtext_e06aad,
+.subtext_be40e6,
 .panelSubtextContainer_b2ca13 {
   max-width: unset;
   display: flex;
