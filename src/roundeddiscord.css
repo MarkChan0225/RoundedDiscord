@@ -82,6 +82,7 @@
 .categoryFadeBlurple_af1167,
 .categoryFadeBlurple_af1167:hover,
 .categoryFade_af1167,
+.categoryFade_af1167:hover,
 .category_d169f5,
 .category_d7acc7,
 .category_fa8ebf,
@@ -712,6 +713,9 @@ div.profileThemedContainer_d2194f {
 }
 .sidebar_a4d4d9 {
   background: unset;
+}
+.categoryFade_af1167:hover {
+  backdrop-filter: none
 }
 .panels_a4d4d9var {
   background: var(--bg-overlay-1, var(--background-secondary-alt));
