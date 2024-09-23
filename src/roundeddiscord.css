@@ -715,7 +715,7 @@ div.profileThemedContainer_d2194f {
   background: unset;
 }
 .categoryFade_af1167:hover {
-  backdrop-filter: none
+  backdrop-filter: none;
 }
 .panels_a4d4d9var {
   background: var(--bg-overlay-1, var(--background-secondary-alt));
