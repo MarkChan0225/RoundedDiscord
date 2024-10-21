@@ -15,8 +15,8 @@ importers:
         specifier: ^3.3.3
         version: 3.3.3
       replugged:
-        specifier: ^4.8.1
-        version: 4.8.1(@codemirror/view@6.28.6)(@lezer/common@1.2.1)(sass-embedded@1.77.8)
+        specifier: ^4.8.2
+        version: 4.8.2(@codemirror/view@6.28.6)(@lezer/common@1.2.1)(sass-embedded@1.77.8)
 
 packages:
 
@@ -631,8 +631,8 @@ packages:
     resolution: {integrity: sha512-+crtS5QjFRqFCoQmvGduwYWEBng99ZvmFvF+cUJkGYF1L1BfU8C6Zp9T7f5vPAwyLkUExpvK+ANVZmGU49qi4Q==}
     engines: {node: '>=12'}
 
-  replugged@4.8.1:
-    resolution: {integrity: sha512-1WTDW9w4N6CmtON34r3leqSGpgrpYqaIQiJ329Cdim8x40X9ebiuUMYDos5uUFie2Yl/mIUADpMZqdF83Bxshw==}
+  replugged@4.8.2:
+    resolution: {integrity: sha512-aJcA909SJfXBX1jQDGyDst/20jVNd12JQ7FrkMreLcNEo0/kirRmSejFyeMoG/G5YHtVzAdBIMRPiU+h2VuH3g==}
     engines: {node: '>=20.0.0', pnpm: '>=9.0.0'}
     hasBin: true
 
@@ -1504,7 +1504,7 @@ snapshots:
     dependencies:
       rc: 1.2.8
 
-  replugged@4.8.1(@codemirror/view@6.28.6)(@lezer/common@1.2.1)(sass-embedded@1.77.8):
+  replugged@4.8.2(@codemirror/view@6.28.6)(@lezer/common@1.2.1)(sass-embedded@1.77.8):
     dependencies:
       '@codemirror/lang-css': 6.2.1(@codemirror/view@6.28.6)
       '@codemirror/language': 6.10.2
