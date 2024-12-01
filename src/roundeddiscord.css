@@ -16,7 +16,6 @@
 .app_a01fb1 button,
 .applicationLargeImage_f866f2,
 .appliedBoostContainer_dba803,
-.stackedBars_bdf0de,
 .attachment_b52bef,
 .attachment_b52bef.newMosaicStyle_b52bef,
 .auditLog_eebd33,
@@ -210,6 +209,7 @@
 .imageWrapper__178ee,
 .innerWrapper_c511e4,
 .inner_c36ce4,
+.inner_c69a7b,
 .input_f4e139,
 .input_f8bc55,
 .interactive_f5eb4b,
@@ -366,6 +366,8 @@
 .sourceThumbnail_d7ec26,
 .spamBanner_c1da2c,
 .splashContainer_e825f6,
+.stackedBars_bdf0de,
+.statusBubbleSingleLineWithTextShape_af9888,
 .stepperContainer_fa2661,
 .stepper_fa2661,
 .streamPreview_adbea6,
@@ -391,6 +393,7 @@
 .upload_df1eaf,
 .upsellBanner_f59576,
 .upsellContainer_bb33d5,
+.upsellOverlay_eb49af,
 .upsellPreview_aa7c25,
 .upsell_b6ac1a,
 .userCardInner_c69a7b,
@@ -426,6 +429,7 @@
 .wrapper_e55051,
 .wrapper_f7e168,
 .wrapper_faf5ab,
+:where(.outer_c69a7b).biteSize_c69a7b,
 div#anchor {
   border-radius: var(--radius);
 }
@@ -447,7 +451,8 @@ div#anchor {
 #bd-editor-controls,
 #vc-spotify-player,
 .activityPanel_a4d4d9,
-.bannerSVGWrapper_b32cc2:not(:has([style*="image"])) [style*="background-color"],
+.bannerSVGWrapper_b32cc2:not(:has([style*="image"]))
+  [style*="background-color"],
 .banner_d29eee,
 .bd-modal-header,
 .cardHeader_dedfd1,
