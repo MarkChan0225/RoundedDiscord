@@ -429,6 +429,7 @@
 .wrapper_e55051,
 .wrapper_f7e168,
 .wrapper_faf5ab,
+:where(.overlay_c69a7b),
 :where(.outer_c69a7b).biteSize_c69a7b,
 div#anchor {
   border-radius: var(--radius);
