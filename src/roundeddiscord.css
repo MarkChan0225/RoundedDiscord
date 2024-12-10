@@ -724,6 +724,9 @@ div.profileThemedContainer_d2194f {
 .sidebar_a4d4d9 {
   background: unset;
 }
+.footer_d71945 {
+  margin-top: auto;
+}
 .categoryFade_af1167:hover {
   backdrop-filter: none;
 }
