@@ -17,8 +17,6 @@
 .app_a01fb1 button,
 .applicationLargeImage_f866f2,
 .appliedBoostContainer_dba803,
-.fileWrapper_f46c86,
-.fileWrapper_f46c86.newMosaicStyle_b52bef,
 .auditLog_eebd33,
 .authBox_dc6abe,
 .autocomplete_bea0d0,
@@ -97,6 +95,7 @@
 .channelTextArea_bdf0de,
 .childButton_f45bfc,
 .chipletContainerInner_d5cb59,
+.choiceContainer_c5e09c,
 .clickableContainer_e5c5d5,
 .clickable_a97e58,
 .collapseable_a3cc4a,
@@ -191,6 +190,8 @@
 .featureCard_b1a8d5,
 .fieldBackground_bd5b94,
 .fieldBackground_bd5b94:hover:not(:focus),
+.fileWrapper_f46c86,
+.fileWrapper_f46c86.newMosaicStyle_b52bef,
 .friend_ebf869,
 .gif_bad108,
 .groupCollapsedContainer_f573e6,
@@ -430,8 +431,8 @@
 .wrapper_e55051,
 .wrapper_f7e168,
 .wrapper_faf5ab,
-:where(.overlay_c69a7b),
 :where(.outer_c69a7b).biteSize_c69a7b,
+:where(.overlay_c69a7b),
 div#anchor {
   border-radius: var(--radius);
 }
@@ -453,15 +454,20 @@ div#anchor {
 #bd-editor-controls,
 #vc-spotify-player,
 .activityPanel_a4d4d9,
-.bannerSVGWrapper_b32cc2:not(:has([style*="image"])) [style*="background-color"],
+.bannerSVGWrapper_b32cc2:not(:has([style*="image"]))
+  [style*="background-color"],
 .banner_d29eee,
 .bd-modal-header,
+.borders_f4e40b,
 .cardHeader_dedfd1,
 .card_fe1b7e,
 .commandContainer_f37ac2 .command_f37ac2:first-child,
 .connectionHeader_e2a436,
 .container_adcaac,
 .container_fc4f04,
+.contentWrapperAccepted_c721cc,
+.contentWrapper_c721cc,
+.contentWrapper_c721cc:after,
 .deny_b05c08,
 .deny_d25d19,
 .disabledButtonWrapper_dd4f85,
@@ -477,6 +483,7 @@ div#anchor {
 .modalTextContainer_d8e2d0,
 .newMosaicStyle_d8e2d0 .textContainer_d8e2d0,
 .popoutContentWrapper_a35965,
+.postEnrollmentBackground_e23249,
 .roundedBanner_c3e427,
 .roundedRow_a39fe9 td:first-child,
 .rowContainer_e5da8b:first-child,
@@ -487,7 +494,8 @@ div#anchor {
 .topicsDropdownHeading_cf58b5,
 .upsellContent_d0de76,
 .vc-gp-banner,
-.withFooter_a0eae1 {
+.withFooter_a0eae1,
+.wrapper_c721cc {
   border-radius: var(--radius) var(--radius) 0 0;
 }
 #replugged-quickcss-wrapper .cm-gutters,
@@ -644,6 +652,7 @@ div.profileThemedContainer_d2194f {
   border-radius: var(--radius);
   margin-bottom: 10px;
 }
+.container_e462a4,
 .container_ee69e0,
 .privateChannels_f0963d {
   border-radius: var(--radius);
