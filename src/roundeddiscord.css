@@ -454,8 +454,7 @@ div#anchor {
 #bd-editor-controls,
 #vc-spotify-player,
 .activityPanel_a4d4d9,
-.bannerSVGWrapper_b32cc2:not(:has([style*="image"]))
-  [style*="background-color"],
+.bannerSVGWrapper_b32cc2:not(:has([style*="image"])) [style*="background-color"],
 .banner_d29eee,
 .bd-modal-header,
 .borders_f4e40b,
