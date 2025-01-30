@@ -1,20 +1,20 @@
 /* BetterUserPanel by @dablulite (582170007505731594) */
-.panels_a4d4d9 {
+.panels_c48ade {
   border-radius: var(--radius);
   overflow: hidden;
   transition: 0.2s;
 }
-.panels_a4d4d9 .container_b2ca13 {
+.panels_c48ade .container__37e49 {
   flex-direction: column;
   height: 88px;
   padding: 8px;
   margin-bottom: -36px;
   transition: 0.2s;
 }
-.panels_a4d4d9:hover .container_b2ca13 {
+.panels_c48ade:hover .container__37e49 {
   margin-bottom: 0;
 }
-.panels_a4d4d9 .avatarWrapper_b2ca13 {
+.panels_c48ade .avatarWrapper__37e49 {
   margin-right: 0;
   width: 100%;
   padding: 6px;
@@ -23,10 +23,10 @@
   border-radius: var(--radius);
   transition: 0.15s;
 }
-.panels_a4d4d9 .directionRow__65900 {
+.panels_c48ade .directionRow__65900 {
   gap: 4px;
 }
-.panels_a4d4d9 .container_b2ca13 .directionRow__65900 > button {
+.panels_c48ade .container__37e49 .directionRow__65900 > button {
   width: calc((224px / 3) - 7px);
   border-radius: var(--radius);
   transition: 0.15s;
