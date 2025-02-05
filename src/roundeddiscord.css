@@ -359,8 +359,7 @@
 .setCustomButton__669b5,
 .settingCard_dd864e,
 .shc-lock-screen-allowed-users-and-roles-container,
-.shiki-btn:last-child,
-.shiki-root,
+.vc-shiki-root,
 .side_b3f026 .item_b3f026,
 .simpleItemWrapper__5dac8,
 .soundButtonSettingContainer__84bad,
@@ -678,7 +677,8 @@ div.profileThemedContainer__656be {
   margin-left: -5px;
   margin-right: 15px;
 }
-.shiki-btn:last-child {
+.vc-shiki-btn:last-child {
+  border-radius: var(--radius);
   margin-bottom: 5px;
   margin-right: 5px;
 }
