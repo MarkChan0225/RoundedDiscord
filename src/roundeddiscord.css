@@ -397,6 +397,7 @@
 .upsellOverlay__0f7dc,
 .upsellPreview_d9161f,
 .upsell_ac65bb,
+.upsell__5be3e div,
 .userCardInner_c69a7b,
 .userPopoutInner_c69a7b,
 .userPopoutInner_c69a7b:before,
@@ -432,7 +433,8 @@
 .wrapper__44df5,
 :where(.outer_c0bea0).biteSize_c0bea0,
 :where(.overlay_c0bea0),
-div#anchor {
+div#anchor,
+html:not(.visual-refresh-chat-input) .inner_a99829 {
   border-radius: var(--radius);
 }
 #replugged-quickcss-wrapper .cm-editor,
