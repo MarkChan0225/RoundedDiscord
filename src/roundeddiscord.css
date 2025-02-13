@@ -409,6 +409,7 @@
 .vc-permviewer-perms-list-item,
 .vc-shiki-root,
 .visualMediaItemContainer_f4758a,
+.visual-refresh .panels_c48ade
 .voiceChannelsButton__29444,
 .votePercentageBar__4c520,
 .warningContainer_d80a13,
@@ -433,6 +434,7 @@
 .wrapper_f7ecac,
 :where(.outer_c0bea0).biteSize_c0bea0,
 :where(.overlay_c0bea0),
+:where(.visual-refresh) .colorDefault_c1e9c4.focused_c1e9c4,
 div#anchor,
 html:not(.visual-refresh-chat-input) .inner_a99829 {
   border-radius: var(--radius);
