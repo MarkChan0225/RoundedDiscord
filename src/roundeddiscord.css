@@ -408,8 +408,10 @@
 .vc-error-card,
 .vc-permviewer-perms-list-item,
 .vc-shiki-root,
+.visual-refresh .container_fea832,
+.visual-refresh .panels_c48ade,
+.visual-refresh .sidebarListRounded_c48ade,
 .visualMediaItemContainer_f4758a,
-.visual-refresh .panels_c48ade
 .voiceChannelsButton__29444,
 .votePercentageBar__4c520,
 .warningContainer_d80a13,
@@ -435,6 +437,7 @@
 :where(.outer_c0bea0).biteSize_c0bea0,
 :where(.overlay_c0bea0),
 :where(.visual-refresh) .colorDefault_c1e9c4.focused_c1e9c4,
+:where(.visual-refresh) .lookFilled__3f413.select__3f413,
 div#anchor,
 html:not(.visual-refresh-chat-input) .inner_a99829 {
   border-radius: var(--radius);
@@ -457,7 +460,8 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 #bd-editor-controls,
 #vc-spotify-player,
 .activityPanel_c48ade,
-.bannerSVGWrapper_b32cc2:not(:has([style*="image"])) [style*="background-color"],
+.bannerSVGWrapper_b32cc2:not(:has([style*="image"]))
+  [style*="background-color"],
 .banner__183e8,
 .bd-modal-header,
 .borders__22c64,
@@ -660,6 +664,13 @@ div.profileThemedContainer__656be {
   border-radius: var(--radius);
   margin-bottom: 5px;
 }
+.visual-refresh .sidebarList_c48ade {
+  border: 1px solid var(--app-border-frame);
+  border-radius: var(--radius);
+}
+.visual-refresh .content_c48ade {
+  margin-top: -10px;
+}
 .bd-notice {
   margin-right: 10px;
   margin-top: 10px;
@@ -714,7 +725,8 @@ div.profileThemedContainer__656be {
   background: none;
   border-radius: var(--radius);
 }
-.layout__91a9d {
+.layout__91a9d,
+.visual-refresh .layout__91a9d {
   border-radius: 20px;
   margin-bottom: 1px;
   margin-top: 1px;
