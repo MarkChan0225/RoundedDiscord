@@ -14,8 +14,8 @@
 .addGamePopout_cc46f0,
 .addReactButton__34c2c,
 .answerInner__4c520,
-.app__160d8 button,
 .appContainer__5a4b6,
+.app__160d8 button,
 .applicationLargeImage__16b66,
 .appliedBoostContainer_ceb06a,
 .auditLog__43dab,
@@ -35,11 +35,13 @@
 .banner_ec75b3,
 .base__13533,
 .bd-addon-error,
-.bd-addon-list .bd-addon-card,
+.bd-addon-store-card,
 .bd-button,
 .bd-changelog-modal img,
 .bd-changelog-modal video,
 .bd-description-wrap .banner,
+.bd-install-modal-clickable,
+.bd-install-modal-items,
 .bd-modal-root,
 .bd-notice,
 .bd-notice-button,
@@ -47,7 +49,10 @@
 .bd-number-input,
 .bd-search-wrapper,
 .bd-select,
+.bd-select .bd-select-option,
 .bd-select-transparent,
+.bd-select-transparent .bd-select-options,
+.bd-store-card,
 .bd-tab-item,
 .bd-toast,
 .bodyMedia__9a337,
@@ -70,6 +75,7 @@
 .cardIcon__29abc:before,
 .cardInput__8b579,
 .cardWrapper_aae012,
+.card__4bb93,
 .card__6faf3,
 .card__73069,
 .card__73069:not(.outline__73069),
@@ -83,10 +89,11 @@
 .categoryFadeBlurple_d02962:hover,
 .categoryFade_d02962,
 .categoryFade_d02962:hover,
+.category__97499,
 .category_d169f5,
 .category_d7acc7,
-.category_fa8ebf,
 .category_ed45d7,
+.category_fa8ebf,
 .changelog_abe1fa,
 .channelContainer_d5f35b,
 .channelTabs-closeTab,
@@ -159,6 +166,9 @@
 .container_fc561d,
 .container_fcf29c,
 .container_fea832,
+.contentContainer__8f46b,
+.contentContainer_c6b177,
+.contentContainer_f8758b,
 .contentImage__42bf5.thumbnail__0f2e8,
 .contentPreview__9a337,
 .contentWrapper__08434,
@@ -168,9 +178,6 @@
 .contentWrapper_eab878.isBurstReactionPicker_c0e32c,
 .content__07f91,
 .content__49fc1,
-.contentContainer_c6b177,
-.contentContainer_f8758b,
-.contentContainer__8f46b,
 .copyInput_fffc15,
 .coverBadge_I41ZIY,
 .credentialList__6c75d,
@@ -204,6 +211,7 @@
 .group_f5fff4,
 .guildPopout__51eb2,
 .headerBanner_a1eac2,
+.headerBar__8a7fc,
 .headerImage_a39aa3,
 .headerImage_a3a4ce,
 .header_f37cb1,
@@ -211,6 +219,7 @@
 .hljs,
 .hoverButtonGroup__06ab4,
 .howItWorksContainer_aa72d6,
+.iconButton__8a7fc,
 .iconWidget__669b5,
 .imageContainer_ef9ae7 .contentImage_ef9ae7,
 .imageWrapper__178ee,
@@ -414,19 +423,19 @@
 .vc-error-card,
 .vc-permviewer-perms-list-item,
 .vc-shiki-root,
-.visual-refresh .container_fea832,
-.visual-refresh .wrapper_d5f3cd,
-.visual-refresh .root__24502,
-.visual-refresh .panels_c48ade,
-.visual-refresh .messageContainer__95796,
-.visual-refresh .sidebarListRounded_c48ade,
-.visual-refresh .contentWrapper__08434,
-.visual-refresh .navButton__08434,
-.visual-refresh .searchBar__97492,
-.visual-refresh .searchAnswer_bd8186:first-child, 
-.visual-refresh .searchFilter_bd8186:first-child,
-.visual-refresh .option__56fec,
 .visual-refresh .container__55c99,
+.visual-refresh .container_fea832,
+.visual-refresh .contentWrapper__08434,
+.visual-refresh .messageContainer__95796,
+.visual-refresh .navButton__08434,
+.visual-refresh .option__56fec,
+.visual-refresh .panels_c48ade,
+.visual-refresh .root__24502,
+.visual-refresh .searchAnswer_bd8186:first-child,
+.visual-refresh .searchBar__97492,
+.visual-refresh .searchFilter_bd8186:first-child,
+.visual-refresh .sidebarListRounded_c48ade,
+.visual-refresh .wrapper_d5f3cd,
 .visualMediaItemContainer_f4758a,
 .voiceChannelsButton__29444,
 .votePercentageBar__4c520,
@@ -454,9 +463,6 @@
 :where(.overlay_c0bea0),
 :where(.visual-refresh) .colorDefault_c1e9c4.focused_c1e9c4,
 :where(.visual-refresh) .lookFilled__3f413.select__3f413,
-.headerBar__8a7fc,
-.iconButton__8a7fc,
-.category__97499,
 div#anchor,
 html:not(.visual-refresh-chat-input) .inner_a99829 {
   border-radius: var(--radius);
@@ -518,9 +524,10 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .topicsDropdownHeading__0f481,
 .upsellContent__4cfe2,
 .vc-gp-banner,
+.visual-refresh .firstChannel_e4503a,
+.visual-refresh .panel__5dec7,
 .withFooter__44c9a,
-.wrapper__0d616,
-.visual-refresh .firstChannel_e4503a {
+.wrapper__0d616 {
   border-radius: var(--radius) var(--radius) 0 0;
 }
 #replugged-quickcss-wrapper .cm-gutters,
@@ -688,9 +695,9 @@ div.profileThemedContainer__656be {
   border: 1px solid var(--app-border-frame);
   border-radius: var(--radius);
 }
-.visual-refresh .content_c48ade,
 .headerBar__8a7fc,
-.platform-osx .content-Pph8t6:not(.hidden_ef3116) {
+.platform-osx .content-Pph8t6:not(.hidden_ef3116),
+.visual-refresh .content_c48ade {
   margin-top: -10px;
 }
 .bd-notice {
@@ -726,6 +733,9 @@ div.profileThemedContainer__656be {
 .platform-osx .vc-bf-folder-sidebar {
   margin-top: -22px;
 }
+#vc-spotify-player {
+  padding: 15px;
+}
 .better-codeblocks-btn:last-child {
   border-radius: var(--radius) !important;
   margin: 5px;
@@ -748,6 +758,7 @@ div.profileThemedContainer__656be {
   background: none;
   border-radius: var(--radius);
 }
+.childContainer__91a9d,
 .layout__91a9d,
 .visual-refresh .layout__91a9d {
   border-radius: 20px;
