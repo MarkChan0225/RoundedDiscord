@@ -478,8 +478,7 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .vc-addon-card,
 .vc-notification-root,
 .vc-st-modal-content input,
-.ͼ1 .cm-scroller,
-:is(.vc-settings-theme-grid, .vc-plugins-grid) .vc-addon-card .vc-addon-note {
+.ͼ1 .cm-scroller {
   border-radius: var(--radius) !important;
 }
 #bd-editor-controls,
