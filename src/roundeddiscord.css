@@ -479,7 +479,13 @@
 :where(.visual-refresh) .item__001a7[aria-checked="true"],
 :where(.visual-refresh) .lookFilled__3f413.select__3f413,
 div#anchor,
-html:not(.visual-refresh-chat-input) .inner_a99829 {
+html:not(.visual-refresh-chat-input) .inner_a99829,
+.friendRequestsButton__523aa,
+.controlButton_ab6641,
+.actionButtons_cc1819,
+.button_aec7ab,
+.inviteContainer__23437,
+.visual-refresh .container__3dde2 {
   border-radius: var(--radius);
 }
 #replugged-quickcss-wrapper .cm-editor,
