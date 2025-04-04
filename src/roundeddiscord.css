@@ -483,7 +483,11 @@ html:not(.visual-refresh-chat-input) .inner_a99829,
 .actionButtons_cc1819,
 .button_aec7ab,
 .inviteContainer__23437,
-.visual-refresh .container__3dde2 {
+.visual-refresh .container__3dde2,
+.howItWorksContainer_dd30dc,
+.card_fc2e20,
+.earningsPreviewContainer__02e4c,
+.avatarCard__02e4c {
   border-radius: var(--radius);
 }
 #replugged-quickcss-wrapper .cm-editor,
