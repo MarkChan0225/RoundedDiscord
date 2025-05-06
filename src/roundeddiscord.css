@@ -635,7 +635,7 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
   border-bottom-left-radius: var(--radius);
 }
 .tutorialContainer__1f388,
-.wrapper__48112 {
+.folderGroup__48112 {
   margin-top: 8px;
 }
 .resizeHandle__01ae2 {
@@ -821,7 +821,7 @@ div.profileThemedContainer__656be {
   background: var(--bg-overlay-1, var(--background-secondary-alt));
 }
 .custom-theme-background .scroller_ef3116,
-.expandedFolderBackground__48112 {
+.folderGroupBackground__48112 {
   background: var(--bg-overlay-3, var(--background-secondary)) !important;
 }
 .theme-dark.custom-theme-background .channelTextArea_f75fb0 {
