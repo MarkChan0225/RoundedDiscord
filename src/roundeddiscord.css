@@ -25,6 +25,7 @@
 .autocomplete__6b0e0,
 .avatarCard__02e4c,
 .avatarUploaderInnerSquare_e04502,
+.backgroundContainer_eaaeee,
 .backgroundModifierContainer_e5c5d5,
 .backgroundOptionInner__53965,
 .backgroundOptionRing__53965,
@@ -176,6 +177,7 @@
 .container_e97453,
 .container_eb2cd2,
 .container_f89b2c,
+.container_fb1896,
 .container_fc561d,
 .container_fcf29c,
 .container_fea832,
@@ -254,9 +256,13 @@
 .inviteSplash_d5f3cd,
 .invite__4d3fa,
 .itemCard__7e549,
+.itemContainer_ec9088,
+.itemSelected_ec9088,
 .item__001a7,
 .item__97e86,
 .item_c1e9c4,
+.joinOptionContent__959cb,
+.joinOptions__959cb,
 .jumpButton__45690,
 .jumpButton_ed0c8c,
 .key_fcddc1,
@@ -431,6 +437,7 @@
 .tooltip_c530da,
 .topPill_b3f026 .item_b3f026,
 .topicsDropdownBase__0f481,
+.traitContainer__4cbea,
 .triggerMainContainer_b6c6eb,
 .twitchSectionPreview__00943,
 .uploadButton_f8e959,
@@ -452,14 +459,22 @@
 .vc-error-card,
 .vc-permviewer-perms-list-item,
 .vc-shiki-root,
+.visual-refresh .auditLog__43dab,
+.visual-refresh .backgroundModifierContainer__6cd3a,
 .visual-refresh .button_f89b2c,
+.visual-refresh .button_fffc15,
+.visual-refresh .clickableContainer__6cd3a,
+.visual-refresh .collapseable__217b7,
 .visual-refresh .container__3dde2,
 .visual-refresh .container__55c99,
 .visual-refresh .container__6436f,
+.visual-refresh .container__6cd3a,
 .visual-refresh .container_f89b2c,
 .visual-refresh .container_fcf29c,
 .visual-refresh .container_fea832,
 .visual-refresh .contentWrapper__08434,
+.visual-refresh .copyInput_fffc15,
+.visual-refresh .editCard_a25a68,
 .visual-refresh .hljs,
 .visual-refresh .jumpButton_ed0c8c,
 .visual-refresh .markup__75297 code,
@@ -467,14 +482,15 @@
 .visual-refresh .navButton__08434,
 .visual-refresh .option__56fec,
 .visual-refresh .panels_c48ade,
+.visual-refresh .popout__76f04,
 .visual-refresh .root__24502,
 .visual-refresh .root__49fc1,
-.visual-refresh .upload_aa605f,
 .visual-refresh .searchAnswer_bd8186:first-child,
 .visual-refresh .searchBar__97492,
 .visual-refresh .searchFilter_bd8186:first-child,
 .visual-refresh .sidebarListRounded_c48ade,
 .visual-refresh .topPill_b3f026 .item_b3f026,
+.visual-refresh .upload_aa605f,
 .visual-refresh .wrapper__44df5,
 .visual-refresh .wrapper_d5f3cd,
 .visualMediaItemContainer_f4758a,
@@ -631,6 +647,7 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .uploadModal_dbca3c .footer_dbca3c,
 .upsellFooter__4cfe2,
 .videoControls_f316dd,
+.visual-refresh .groupCollapsedContainer_b6a9f9,
 .visual-refresh .lastChannel_e4503a {
   border-radius: 0 0 var(--radius) var(--radius);
 }
@@ -654,8 +671,8 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .wrapper__4e6ce {
   border-bottom-left-radius: var(--radius);
 }
-.tutorialContainer__1f388,
-.folderGroup__48112 {
+.folderGroup__48112,
+.tutorialContainer__1f388 {
   margin-top: 8px;
 }
 .resizeHandle__01ae2 {
