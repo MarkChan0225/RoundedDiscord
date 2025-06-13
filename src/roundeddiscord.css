@@ -468,6 +468,7 @@
 .visual-refresh .container__3dde2,
 .visual-refresh .container__55c99,
 .visual-refresh .container__6436f,
+.visual-refresh .container__652b4,
 .visual-refresh .container__6cd3a,
 .visual-refresh .container_f89b2c,
 .visual-refresh .container_fcf29c,
@@ -670,10 +671,6 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .wrapper__4e6ce {
   border-bottom-left-radius: var(--radius);
 }
-.folderGroup__48112,
-.tutorialContainer__1f388 {
-  margin-top: 8px;
-}
 .resizeHandle__01ae2 {
   width: 0;
 }
@@ -782,8 +779,8 @@ div.profileThemedContainer__656be {
   margin-top: 4px;
 }
 [style*="display: flex;"]:has(.wrapper_ef3116.guilds_c48ade) {
-  margin-left: -5px;
-  margin-right: 15px;
+  margin-left: -20px;
+  margin-right: 10px;
 }
 .vc-shiki-btn:last-child {
   border-radius: var(--radius);
