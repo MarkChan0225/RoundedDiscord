@@ -544,8 +544,7 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 }
 #bd-editor-controls,
 #vc-spotify-player,
-.activityPanel_c48ade,
-.bannerSVGWrapper_b32cc2:not(:has([style*="image"])) [style*="background-color"],
+.activityPanel_c48ade
 .banner__183e8,
 .bd-modal-header,
 .borders__22c64,
