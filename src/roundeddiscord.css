@@ -105,6 +105,7 @@
 .category_ed45d7,
 .category_fa8ebf,
 .changelog_abe1fa,
+.channel-settings-overview .nameInput__0511a,
 .channelContainer_d5f35b,
 .channelTabs-closeTab,
 .channelTabs-fav,
@@ -603,8 +604,7 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .roundedRow__71c22 td:first-child,
 .scroller_cc2dff,
 .searchFilter_bd8186,
-.sidebarContainer__1d6c7,
-.nameInput__0511a .input__0f084a {
+.sidebarContainer__1d6c7 {
   border-radius: var(--radius) 0 0 var(--radius);
 }
 .allow__344e6,
@@ -612,7 +612,7 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .bd-controls > .bd-addon-button:last-of-type,
 .inviteSplash__9b0f4,
 .item__3d4a0:last-child,
-.nameInput__0511a .emojiButton__0511a,
+.nameInputInnerWithEmojiPicker__0511a,
 .modal_b962dc,
 .roundedRow__71c22 td:last-child {
   border-radius: 0 var(--radius) var(--radius) 0;
@@ -632,7 +632,6 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .monaco-editor,
 .navButtons_fe70ca,
 .navRow__86e92,
-.nameInput__0511a,
 .newMessagesBar__0f481,
 .newMosaicStyle__4d95d .footer__4d95d,
 .newTopicsBarContainer__0f481,
