@@ -607,6 +607,9 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .sidebarContainer__1d6c7 {
   border-radius: var(--radius) 0 0 var(--radius);
 }
+.nameInputInnerWithEmojiPicker__0511a {
+  border-radius: var(--radius) 0 0 var(--radius) !important;
+}
 .allow__344e6,
 .allow_f5fff4,
 .bd-controls > .bd-addon-button:last-of-type,
@@ -615,9 +618,6 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .modal_b962dc,
 .roundedRow__71c22 td:last-child {
   border-radius: 0 var(--radius) var(--radius) 0;
-}
-.nameInputInnerWithEmojiPicker__0511a {
-  border-radius: 0 var(--radius) var(--radius) 0 !important;
 }
 .animatedContainer_f37cb1,
 .bd-modal-footer,
