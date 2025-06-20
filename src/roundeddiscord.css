@@ -105,7 +105,6 @@
 .category_ed45d7,
 .category_fa8ebf,
 .changelog_abe1fa,
-.channel-settings-overview .nameInput__0511a,
 .channelContainer_d5f35b,
 .channelTabs-closeTab,
 .channelTabs-fav,
@@ -535,6 +534,7 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .avatarWrapper__37e49,
 .better-codeblocks,
 .callContainer_cb9592,
+.channel-settings-overview .nameInput__0511a,
 .headerClickable__43dab,
 .lastChannel_e4503a.firstChannel_e4503a,
 .replugged-addon-card,
@@ -612,10 +612,12 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .bd-controls > .bd-addon-button:last-of-type,
 .inviteSplash__9b0f4,
 .item__3d4a0:last-child,
-.nameInputInnerWithEmojiPicker__0511a,
 .modal_b962dc,
 .roundedRow__71c22 td:last-child {
   border-radius: 0 var(--radius) var(--radius) 0;
+}
+.nameInputInnerWithEmojiPicker__0511a {
+  border-radius: 0 var(--radius) var(--radius) 0 !important;
 }
 .animatedContainer_f37cb1,
 .bd-modal-footer,
