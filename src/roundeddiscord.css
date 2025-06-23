@@ -4,6 +4,7 @@
 .achievementContainer_f8824b,
 .actionButtons_cc1819,
 .actionContainer__6446f,
+.actions__96f95,
 .action_c66e86,
 .activityItem__18da2,
 .activityTag__18da2,
@@ -144,6 +145,7 @@
 .container__3a5a1,
 .container__3dc42,
 .container__3dde2,
+.container__3f864,
 .container__42e04,
 .container__4e30a,
 .container__55c99,
@@ -273,6 +275,7 @@
 .keywordsTextArea__6a631,
 .languageSelector__4d95d,
 .learnMoreTipContainer__9c6a8,
+.levelContainer__3dcc3,
 .linkCalloutContainer_ad9c52,
 .link__2ea32,
 .listRow__9d78f,
@@ -687,7 +690,7 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .floating-window .monaco-editor,
 .formContainer_d9be46 .channelTextAreaInner_d9be46,
 .formContainer_d9be46 .title_d9be46,
-.iconWrapper__96f95 ~ .inputWrapper__0f084,
+.iconWrapper__96f95 + .inputWrapper__0f084 .value__96f95,
 .root_e5f3a9 .body_c6f1a4 {
   border-radius: 0 !important;
 }
@@ -705,6 +708,7 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .container__133bf,
 .container__49668,
 .container__808a1,
+.container__89463,
 .container_a592e1,
 .main_c08b38,
 .pageWrapper_a3a4ce,
