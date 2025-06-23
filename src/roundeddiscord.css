@@ -77,6 +77,7 @@
 .button_f23d00,
 .button_f7ecac.selected_f7ecac,
 .button_f7ecac:hover,
+.buttonSection__1405b,
 .calloutContainer__6fddf,
 .cameraPreview__19236,
 .cameraWrapper_d41d5f,
@@ -475,6 +476,7 @@
 .vc-shiki-root,
 .visual-refresh .auditLog__43dab,
 .visual-refresh .backgroundModifierContainer__6cd3a,
+.visual-refresh .button_e131a9,
 .visual-refresh .button_f89b2c,
 .visual-refresh .button_fffc15,
 .visual-refresh .clickableContainer__6cd3a,
@@ -551,6 +553,7 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .audioControls_f316dd,
 .avatarWrapper__37e49,
 .better-codeblocks,
+.bottomControls_bfe55a .button__201d5,
 .callContainer_cb9592,
 .channel-settings-overview .nameInput__0511a,
 .headerClickable__43dab,
@@ -858,9 +861,6 @@ div.profileThemedContainer__656be {
 .controlButton__1405b > svg > foreignObject {
   mask: none;
 }
-.bottomControls_bfe55a .button__201d5 {
-  border-radius: 30px !important;
-}
 .channelTextArea_f75fb0 {
   background-color: unset;
 }
@@ -879,39 +879,4 @@ div.profileThemedContainer__656be {
 }
 .categoryFade_d02962:hover {
   backdrop-filter: none;
-}
-.panels_c48adevar {
-  background: var(--bg-overlay-1, var(--background-secondary-alt));
-}
-.custom-theme-background .scroller_ef3116,
-.folderGroupBackground__48112 {
-  background: var(--bg-overlay-3, var(--background-secondary)) !important;
-}
-.theme-dark.custom-theme-background .channelTextArea_f75fb0 {
-  background: var(--bg-overlay-1, var(--background-secondary)) !important;
-}
-.theme-light.custom-theme-background .channelTextArea_f75fb0 {
-  background: var(--bg-overlay-2, var(--background-secondary)) !important;
-}
-.channelTextArea_f75fb0 {
-  background: var(--background-secondary) !important;
-}
-.theme-light.custom-theme-background .panels_c48ade {
-  background: var(--bg-overlay-3);
-}
-.theme-dark.custom-theme-background .panels_c48ade {
-  background: var(--bg-overlay-1);
-}
-.panels_c48ade {
-  background: var(--background-secondary-alt);
-}
-.profileCustomizationSection__44061 .biteSizeBannerPremium_c3e427 {
-  max-width: 292px;
-}
-.profileCustomizationSection__44061 .clickable__75b30:hover {
-  border-radius: var(--radius) var(--radius) 0 0;
-  max-width: 292px;
-}
-.actionButtons_e131a9 > div > span {
-  background: transparent !important;
 }
