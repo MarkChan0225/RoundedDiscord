@@ -312,6 +312,7 @@
 .option__3f413,
 .option__56fec,
 .option_e03935,
+.otherRoles__71c22,
 .outerWrapper_d1405b,
 .overlayBackground_c69a7b,
 .overlayTitle__2f4f7,
@@ -331,6 +332,7 @@
 .pill_dfa8b6,
 .pill_fccfdf,
 .placeholder__2dc39,
+.playbackRate_a8e786,
 .popoutContainer__0f481,
 .popoutList__92efc,
 .popout__3f413,
@@ -466,7 +468,7 @@
 .userProfileOuterThemed_c69a7b,
 .userProfileOuter_c69a7b,
 .vc-error-card,
-.vc-permviewer-perms-list-item,
+.vc-permviewer-modal-list-item,
 .vc-shiki-root,
 .visual-refresh .auditLog__43dab,
 .visual-refresh .backgroundModifierContainer__6cd3a,
@@ -497,6 +499,7 @@
 .visual-refresh .panels_c48ade,
 .visual-refresh .popout__76f04,
 .visual-refresh .previewContainer__981c8,
+.visual-refresh .role_b4b2c3,
 .visual-refresh .root__24502,
 .visual-refresh .root__49fc1,
 .visual-refresh .searchAnswer_bd8186:first-child,
@@ -741,6 +744,9 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 div.profileThemedContainer__656be {
   border-radius: var(--radius);
   margin-bottom: 20px;
+}
+.headerBar__8a7fc {
+  margin-top: 5px;
 }
 .notice__6e2b9 {
   margin-left: 5px;
