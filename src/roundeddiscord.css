@@ -217,6 +217,7 @@
 .earningsPreviewContainer__02e4c,
 .editCard_a25a68,
 .editCard_a25a68:before,
+.editProfileContainer__42179,
 .effectGridItem_b4019a,
 .embed__623de,
 .enableSwitch__3c9fa,
@@ -718,7 +719,7 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .shop__6db1d,
 .sidebarContainer__656be {
   border-radius: var(--radius);
-  margin: 10px 10px 10px 5px;
+  margin: 10px 10px 5px 5px;
 }
 .sidebar_c48ade {
   border-radius: var(--radius) !important;
