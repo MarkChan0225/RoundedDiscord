@@ -790,7 +790,8 @@ div.profileThemedContainer__656be {
   margin-top: 4px;
 }
 [style*="display: flex;"]:has(.wrapper_ef3116.guilds_c48ade) {
-  margin-left: -15px;
+  margin-left: -10px;
+  margin-right: 5px;
 }
 .vc-shiki-btn:last-child {
   border-radius: var(--radius);
