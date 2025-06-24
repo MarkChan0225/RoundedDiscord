@@ -731,7 +731,7 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 }
 .sidebar_c48ade {
   border-radius: var(--radius) !important;
-  margin: 0 0 10px 5px;
+  margin: 0 0 10px 10px;
 }
 .wrapper_ef3116 {
   margin-right: 5px;
