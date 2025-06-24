@@ -321,6 +321,7 @@
 .option__3f413,
 .option__56fec,
 .option_e03935,
+.option_edf440,
 .otherRoles__71c22,
 .outerWrapper_d1405b,
 .overlayBackground_c69a7b,
@@ -821,6 +822,9 @@ div.profileThemedContainer__656be {
 .suggestedColor__713b5 {
   border-radius: 10px;
 }
+.recentAvatarButton__1df30 {
+  border-radius: 50%;
+}
 .userProfileOuterUnthemed_c69a7b {
   background: none;
   border-radius: var(--radius);
@@ -842,12 +846,12 @@ div.profileThemedContainer__656be {
 .inviteRowButton__67dba {
   margin-right: -5px !important;
 }
-.sidebar_c48ade {
-  background: unset;
-}
 .footer__214dc {
   margin-top: auto;
 }
 .categoryFade_d02962:hover {
   backdrop-filter: none;
+}
+.full-motion .peopleListItem_cc6179 {
+  transition: none;
 }
