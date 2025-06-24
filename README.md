@@ -10,7 +10,7 @@
 
 | Dark Theme                                                                     | Nitro Theme                                                                         |
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| ![preview](./src/preview_dark.png) | ![preview_win](./src/preview_nitro.png) |
+| ![preview](https://markchan0225.github.io/RoundedDiscord/src/preview_dark.png) | ![preview_win](https://markchan0225.github.io/RoundedDiscord/src/preview_nitro.png) |
 
 </div><br/>
 
