@@ -4,8 +4,8 @@
 .achievementContainer_f8824b,
 .actionButtons_cc1819,
 .actionContainer__6446f,
-.actions__96f95,
 .action_c66e86,
+.actions__96f95,
 .activityItem__18da2,
 .activityTag__18da2,
 .activity__5be3e,
@@ -70,6 +70,7 @@
 .burstGlow__23977,
 .burstGlow_f8896c,
 .buttonInner__34c2c,
+.buttonSection__1405b,
 .button__02a39,
 .button__14992,
 .button__201d5,
@@ -77,7 +78,6 @@
 .button_f23d00,
 .button_f7ecac.selected_f7ecac,
 .button_f7ecac:hover,
-.buttonSection__1405b,
 .calloutContainer__6fddf,
 .cameraPreview__19236,
 .cameraWrapper_d41d5f,
@@ -109,6 +109,7 @@
 .category_ed45d7,
 .category_fa8ebf,
 .changelog_abe1fa,
+.channelChatWrapper_cb9592,
 .channelContainer_d5f35b,
 .channelTabs-closeTab,
 .channelTabs-fav,
@@ -135,9 +136,11 @@
 .containerBackground_d4ced7,
 .containerBorderRadius_cb32c7,
 .container__0800c,
+.container__0be77,
 .container__0f2e8,
 .container__13b2a,
 .container__23c08,
+.container__2637a,
 .container__2692d,
 .container__26dff,
 .container__33507,
@@ -149,6 +152,7 @@
 .container__3f864,
 .container__42e04,
 .container__4e30a,
+.container__551b0,
 .container__55c99,
 .container__56cd1,
 .container__5b321,
@@ -356,6 +360,7 @@
 .previewContainer__981c8,
 .previewListItem_d9161f,
 .previewNotice__60f3f,
+.privateChannels__35e86,
 .productCard__79d38,
 .profileBadges_f89da9,
 .profileCard__5d7c9,
@@ -423,6 +428,7 @@
 .settingCard__1a4ef,
 .settingCard_dd864e,
 .shc-lock-screen-allowed-users-and-roles-container,
+.shopScroll__6db1d,
 .side_b3f026 .item_b3f026,
 .simpleItemWrapper__5dac8,
 .soundButtonSettingContainer__84bad,
@@ -720,35 +726,28 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .shop__6db1d,
 .sidebarContainer__656be {
   border-radius: var(--radius);
-  margin: 10px 10px 5px 5px;
+  margin: 10px 10px 0 5px;
 }
 .sidebar_c48ade {
   border-radius: var(--radius) !important;
-  margin-bottom: 10px;
-  margin-left: 5px;
-  margin-right: 5px !important;
-  margin-top: 10px;
+  margin: 0 0 10px 5px;
 }
 .wrapper_ef3116 {
-  background-color: var(--background-secondary);
-  border-radius: var(--radius);
-  margin: 10px 5px 10px 10px;
+  margin-right: 5px;
+  margin-top: 15px;
 }
-.channelChatWrapper_cb9592 {
+.notice__6e2b9 {
   border-radius: var(--radius);
-  margin: -10px -5px -10px 5px;
-}
-.container__0be77 {
-  border-radius: var(--radius);
-  margin: 10px 5px 10px 10px;
+  margin-bottom: 5px;
+  margin-right: 10px;
 }
 .answerInner__4c520 {
   margin-left: 10px;
   margin-right: 5px;
 }
 .chat_f75fb0.threadSidebarOpen_f75fb0 {
-  border-radius: var(--radius);
-  margin-right: 5px;
+  border-radius: var(--radius) !important;
+  margin-right: 6.5px;
 }
 div.profileThemedContainer__656be {
   border-radius: var(--radius);
@@ -757,34 +756,8 @@ div.profileThemedContainer__656be {
 .headerBar__8a7fc {
   margin-top: 5px;
 }
-.notice__6e2b9 {
-  margin-left: 5px;
-}
-.editor__2a891,
-.notice__6e2b9,
-.themeEditor_cf6da1 {
-  border-radius: var(--radius);
-  margin-right: 10px;
-  margin-top: 10px;
-}
-.editor__2a891,
-.themeEditor_cf6da1 {
-  border-left: 0 !important;
-  height: auto !important;
-  margin-bottom: 10px;
-}
 .shop__6db1d {
   height: 97.5% !important;
-}
-.shopScroll__6db1d {
-  border-radius: var(--radius);
-  margin-bottom: 10px;
-}
-.container__2637a,
-.container__551b0,
-.privateChannels__35e86 {
-  border-radius: var(--radius);
-  margin-bottom: 5px;
 }
 .visual-refresh .sidebarList_c48ade {
   border: 1px solid var(--app-border-frame);
@@ -814,8 +787,7 @@ div.profileThemedContainer__656be {
   margin-top: 4px;
 }
 [style*="display: flex;"]:has(.wrapper_ef3116.guilds_c48ade) {
-  margin-left: -20px;
-  margin-right: 10px;
+  margin-left: -15px;
 }
 .vc-shiki-btn:last-child {
   border-radius: var(--radius);
