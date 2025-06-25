@@ -26,23 +26,21 @@
 
 ## Installation:
 
-### Replugged Users
+### <img src="https://beta.install.vencord.dev/icon.png" width="30" height="30" style="vertical-align: middle;" alt="Vencord icon"> Vencord
 
-Use [this link](https://replugged.dev/install?identifier=dev.markchan0225.RounedDiscord) to install
-the theme.
+**Method 1 (Local theme):** Download the latest `RoundedDiscord.theme.css` file by this [link](https://github.com/MarkChan0225/RoundedDiscord/releases/download/v1.1.1/RoundedDiscord.theme.css) and move it into
+`Theme` file
 
-### Vencord Users
+**Method 2 (Online theme):** Copy `https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css` to `Theme` setting. (Not customizable)
 
-Download the latest `RoundedDiscord.theme.css` file by this [link](https://github.com/MarkChan0225/RoundedDiscord/releases/download/v1.1.1/RoundedDiscord.theme.css) and move it into
-`Theme` file or copy `https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css` to `Theme` setting.
-
-### BetterDiscord Users
+### <img src="https://betterdiscord.app/resources/branding/logo_solid.png" width="30" height="30" style="vertical-align: middle;" alt="BetterDiscord icon"> BetterDiscord
 
 Download the latest `RoundedDiscord.theme.css` file by this [link](https://github.com/MarkChan0225/RoundedDiscord/releases/download/v1.1.1/RoundedDiscord.theme.css) and move it into `Theme` file.
 
-## Css Adaptation
+### <img src="https://replugged.dev/assets/replugged-b625c392.png" width="30" height="30" style="vertical-align: middle;" alt="Replugged icon"> Replugged
 
-- [BetterWindowsTitleBar (By @coolesding)](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/BetterWindowsTitleBar.css) - Let the title bar become better and suitable
-- [BetterUserPanel (By @dablulite)](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/BetterUserPanel.css) - Let user panel auto collapse
-- [BetterBotTag (By @blade04208)](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/BetterBotTag.css) - Let bot tag color become better 
-- [UserReimagined (By @gibbu)](https://markchan0225.github.io/RoundedDiscord/Css-Adaptation/UserReimagined.css) - User Panel redesigned
+Click [this link](https://replugged.dev/install?identifier=dev.markchan0225.RounedDiscord) to install
+the theme.
+
+## ~~Css Adaptation~~
+### No longer supported. Will be removed on 2/7/2025 10:00 (UTC+0)
