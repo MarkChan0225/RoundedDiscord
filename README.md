@@ -26,7 +26,7 @@
 
 ## Installation:
 
-### <img src="https://beta.install.vencord.dev/icon.png" width="30" height="30" style="vertical-align: text-top;" alt="Vencord icon"> Vencord
+### <img src="https://beta.install.vencord.dev/icon.png" width="30" height="30" style="vertical-align: top;" alt="Vencord icon"> Vencord
 
 **Method 1 (Local theme):** Download the latest `RoundedDiscord.theme.css` file by this [link](https://github.com/MarkChan0225/RoundedDiscord/releases/download/v1.1.1/RoundedDiscord.theme.css) and move it into
 `Theme` file
