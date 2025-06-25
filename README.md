@@ -26,18 +26,18 @@
 
 ## Installation:
 
-### <img src="https://beta.install.vencord.dev/icon.png" width="30" height="30" style="vertical-align: middle;" alt="Vencord icon"> Vencord
+### <img src="https://beta.install.vencord.dev/icon.png" width="30" height="30" style="vertical-align: text-top;" alt="Vencord icon"> Vencord
 
 **Method 1 (Local theme):** Download the latest `RoundedDiscord.theme.css` file by this [link](https://github.com/MarkChan0225/RoundedDiscord/releases/download/v1.1.1/RoundedDiscord.theme.css) and move it into
 `Theme` file
 
 **Method 2 (Online theme):** Copy `https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css` to `Theme` setting. (Not customizable)
 
-### <img src="https://betterdiscord.app/resources/branding/logo_solid.png" width="30" height="30" style="vertical-align: middle;" alt="BetterDiscord icon"> BetterDiscord
+### <img src="https://betterdiscord.app/resources/branding/logo_solid.png" width="30" height="30" style="vertical-align: text-top;" alt="BetterDiscord icon"> BetterDiscord
 
 Download the latest `RoundedDiscord.theme.css` file by this [link](https://github.com/MarkChan0225/RoundedDiscord/releases/download/v1.1.1/RoundedDiscord.theme.css) and move it into `Theme` file.
 
-### <img src="https://replugged.dev/assets/replugged-b625c392.png" width="30" height="30" style="vertical-align: middle;" alt="Replugged icon"> Replugged
+### <img src="https://replugged.dev/assets/replugged-b625c392.png" width="30" height="30" style="vertical-align: text-top;" alt="Replugged icon"> Replugged
 
 Click [this link](https://replugged.dev/install?identifier=dev.markchan0225.RounedDiscord) to install
 the theme.
