@@ -41,6 +41,3 @@ Download the latest `RoundedDiscord.theme.css` file by this [link](https://githu
 
 Click [this link](https://replugged.dev/install?identifier=dev.markchan0225.RounedDiscord) to install
 the theme.
-
-## ~~Css Adaptation~~
-### No longer supported. Will be removed on 2/7/2025 10:00 (UTC+0)
