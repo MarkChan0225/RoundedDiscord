@@ -50,8 +50,8 @@
 .bd-changelog-modal video,
 .bd-description-wrap .banner,
 .bd-install-modal-clickable,
-.bd-install-modal-preview-img,
 .bd-install-modal-items,
+.bd-install-modal-preview-img,
 .bd-modal-root,
 .bd-notice,
 .bd-notice-button,
@@ -124,6 +124,8 @@
 .chipletContainerInner__10651,
 .choiceContainer_c28af8,
 .clickableContainer_e5c5d5,
+.clickableImage__39ec2,
+.clickableImage__39ec2:after,
 .clickable_a97e58,
 .clipBadge__1d12e,
 .clipForm__54978,
@@ -259,6 +261,7 @@
 .iconWidget__669b5,
 .imageContainer_ef9ae7 .contentImage_ef9ae7,
 .imageWrapper__178ee,
+.image__39ec2,
 .innerWrapper__70f7f,
 .inner__02fc8,
 .inner_c0bea0,
@@ -311,6 +314,7 @@
 .modInfoItemContainer__96c0b,
 .monaco-editor .overflow-guard,
 .mosaicItemMediaMosaic__6c706,
+.nameplate__5a2c6,
 .navItem__551b0,
 .noiseCancellationPopout_e131a9,
 .notDetected_cc46f0,
@@ -321,11 +325,11 @@
 .optionButton__669b5,
 .optionContainer__949ab,
 .optionPill__1464f,
-.optionsButton__07f91,
 .option__3f413,
 .option__56fec,
 .option_e03935,
 .option_edf440,
+.optionsButton__07f91,
 .otherRoles__71c22,
 .outerWrapper_d1405b,
 .overlayBackground_c69a7b,
@@ -471,12 +475,14 @@
 .uploadButton_f8e959,
 .upload_aa605f,
 .upsellBanner__39bd2,
+.upsellContainer__0b69f,
 .upsellContainer_c0eeaa,
 .upsellContent__5997d,
 .upsellOverlay__0f7dc,
 .upsellPreview_d9161f,
 .upsell__5be3e div,
 .upsell_ac65bb,
+.user-profile-modal-v2 .card__39ec2,
 .userCardInner_c69a7b,
 .userPopoutInner_c69a7b,
 .userPopoutInner_c69a7b:before,
@@ -774,9 +780,12 @@ div.profileThemedContainer__656be {
 .visual-refresh .page_c48ade {
   margin-top: -10px;
 }
+.bd-notice,
+.platform-osx .scroller_ef3116 {
+  margin-top: 10px;
+}
 .bd-notice {
   margin-right: 10px;
-  margin-top: 10px;
 }
 .bd-notice,
 .wrapper_ef3116.guilds_c48ade.content_Pph8t6 {
@@ -792,7 +801,7 @@ div.profileThemedContainer__656be {
   border-radius: var(--radius);
   margin-top: 4px;
 }
-[style*="display: flex;"]:has(.wrapper_ef3116.guilds_c48ade) {
+.vc-betterFolders-sidebar {
   margin-left: -10px;
   margin-right: 5px;
 }
@@ -800,12 +809,6 @@ div.profileThemedContainer__656be {
   border-radius: var(--radius);
   margin-bottom: 5px;
   margin-right: 5px;
-}
-.vc-bf-folder-sidebar [class*="expandedFolderBackground-"] {
-  background: unset !important;
-}
-.platform-osx .vc-bf-folder-sidebar {
-  margin-top: -22px;
 }
 #vc-spotify-player {
   padding: 15px;
