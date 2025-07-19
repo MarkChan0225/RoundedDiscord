@@ -650,11 +650,11 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .optionPillKey__1464f,
 .roundedRow__71c22 td:first-child,
 .scroller_cc2dff,
-.searchAnswer_bd8186 + .searchFilter_bd8186,
 .sidebarContainer__1d6c7 {
   border-radius: var(--radius) 0 0 var(--radius);
 }
-.nameInputInnerWithEmojiPicker__0511a {
+.nameInputInnerWithEmojiPicker__0511a,
+.searchAnswer_bd8186 + .searchFilter_bd8186 {
   border-radius: var(--radius) 0 0 var(--radius) !important;
 }
 .allow__344e6,
