@@ -216,6 +216,7 @@
 .css-19vtg9u-control,
 .customColorPicker_bbc020,
 .datePicker__123cc,
+.datePicker__56fec .datePickerHint__56fec .hintValue__56fec,
 .decorationGridItem_dfa67d,
 .defaultTextInputWrapper__7b848,
 .descriptionBox__981f7,
@@ -242,8 +243,8 @@
 .fileWrapper__0ccae.newMosaicStyle_b52bef,
 .friendRequestsButton__523aa,
 .friend_bbd192,
-.gif__2dc39,
 .gifFavoriteButton__43deb,
+.gif__2dc39,
 .groupCollapsedContainer_b6a9f9,
 .group__344e6,
 .group_f5fff4,
@@ -461,8 +462,8 @@
 .tab_d804ff,
 .tableRowGroup__19fd1 .content__19fd1,
 .table_fda3e4,
-.tag_fea832,
 .tagContainer__95856,
+.tag_fea832,
 .termsFieldBody_fe70ca,
 .testimonialHeroContainer__3e7e2,
 .textArea_c615b7,
@@ -650,11 +651,11 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .optionPillKey__1464f,
 .roundedRow__71c22 td:first-child,
 .scroller_cc2dff,
+.searchFilter_bd8186:has(+ .searchAnswer_bd8186),
 .sidebarContainer__1d6c7 {
   border-radius: var(--radius) 0 0 var(--radius);
 }
-.nameInputInnerWithEmojiPicker__0511a,
-.searchAnswer_bd8186 + .searchFilter_bd8186 {
+.nameInputInnerWithEmojiPicker__0511a {
   border-radius: var(--radius) 0 0 var(--radius) !important;
 }
 .allow__344e6,
