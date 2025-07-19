@@ -417,6 +417,7 @@
 .row__76f04,
 .row__89036,
 .row_d13feb,
+.rows_b1c9f2,
 .safetyChecklist_eae0ef,
 .saturation__889ee > div,
 .saturation__889ee > div > div,
@@ -533,9 +534,7 @@
 .visual-refresh .role_b4b2c3,
 .visual-refresh .root__24502,
 .visual-refresh .root__49fc1,
-.visual-refresh .searchAnswer_bd8186:first-child,
 .visual-refresh .searchBar__97492,
-.visual-refresh .searchFilter_bd8186:first-child,
 .visual-refresh .sidebarListRounded_c48ade,
 .visual-refresh .topPill_b3f026 .item_b3f026,
 .visual-refresh .upload_aa605f,
@@ -651,7 +650,7 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .optionPillKey__1464f,
 .roundedRow__71c22 td:first-child,
 .scroller_cc2dff,
-.searchFilter_bd8186,
+.searchAnswer_bd8186 + .searchFilter_bd8186,
 .sidebarContainer__1d6c7 {
   border-radius: var(--radius) 0 0 var(--radius);
 }
@@ -664,7 +663,8 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .inviteSplash__9b0f4,
 .item__3d4a0:last-child,
 .modal_b962dc,
-.roundedRow__71c22 td:last-child {
+.roundedRow__71c22 td:last-child,
+.searchFilter_bd8186 + .searchAnswer_bd8186 {
   border-radius: 0 var(--radius) var(--radius) 0;
 }
 .nameInput__0511a .emojiButton__0511a {
