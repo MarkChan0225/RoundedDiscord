@@ -651,7 +651,7 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .optionPillKey__1464f,
 .roundedRow__71c22 td:first-child,
 .scroller_cc2dff,
-.searchFilter_bd8186:has(+ .searchAnswer_bd8186),
+.searchFilter_bd8186,
 .sidebarContainer__1d6c7 {
   border-radius: var(--radius) 0 0 var(--radius);
 }
