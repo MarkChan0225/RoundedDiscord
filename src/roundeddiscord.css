@@ -665,7 +665,7 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .item__3d4a0:last-child,
 .modal_b962dc,
 .roundedRow__71c22 td:last-child,
-.searchFilter_bd8186 + .searchAnswer_bd8186 {
+.searchAnswer_bd8186 {
   border-radius: 0 var(--radius) var(--radius) 0;
 }
 .nameInput__0511a .emojiButton__0511a {
