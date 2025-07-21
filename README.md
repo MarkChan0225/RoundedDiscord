@@ -1,5 +1,6 @@
-<div align="center">
 # Rounded Discord
+
+<div align="center">
 
 [![Latest Release](https://img.shields.io/github/v/release/MarkChan0225/RoundedDiscord?color=gree&label=Release&style=flat)](https://github.com/MarkChan0225/RoundedDiscord/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/MarkChan0225/RoundedDiscord/total?label=Downloads)](https://github.com/MarkChan0225/RoundedDiscord/releases/latest)
