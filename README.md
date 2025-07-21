@@ -12,8 +12,6 @@
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | ![preview](https://markchan0225.github.io/RoundedDiscord/src/preview_dark.png) | ![preview_win](https://markchan0225.github.io/RoundedDiscord/src/preview_nitro.png) |
 
-</div><br/>
-
 ## Feature:
 
 1. No colour changed, can be used with your nitro theme or day theme.
@@ -41,3 +39,6 @@ Download the latest `RoundedDiscord.theme.css` file by this [link](https://githu
 
 Click [this link](https://replugged.dev/install?identifier=dev.markchan0225.RounedDiscord) to install
 the theme.
+
+
+</div><br/>
