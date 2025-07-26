@@ -802,8 +802,9 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 }
 .themeEditor_cf6da1 {
   border-radius: var(--radius);
+  border-left: none;
   height: auto;
-  margin: 30px 10px 10px -5px;
+  margin: 10px 10px 10px -5px;
 }
 div.profileThemedContainer__656be {
   border-radius: var(--radius);
