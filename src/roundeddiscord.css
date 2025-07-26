@@ -222,6 +222,7 @@
 .coverBadge_I41ZIY,
 .credentialList__6c75d,
 .css-19vtg9u-control,
+.customColorPicker__459fb,
 .customColorPicker_bbc020,
 .datePicker__123cc,
 .datePicker__56fec .datePickerHint__56fec .hintValue__56fec,
@@ -441,6 +442,7 @@
 .rows_b1c9f2,
 .rules__92677,
 .safetyChecklist_eae0ef,
+.saturation-black,
 .saturation__889ee > div,
 .saturation__889ee > div > div,
 .scrollableContainer__74017,
@@ -801,8 +803,8 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
   margin-right: 6.5px;
 }
 .themeEditor_cf6da1 {
-  border-radius: var(--radius);
   border-left: none;
+  border-radius: var(--radius);
   height: auto;
   margin: 10px 10px 10px -5px;
 }
