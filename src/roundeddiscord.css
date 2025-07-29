@@ -178,6 +178,7 @@
 .container__812a7,
 .container__8279f,
 .container__8cc9a,
+.container__8e577,
 .container__8e680,
 .container__8e75f,
 .container__9271d,
@@ -186,6 +187,7 @@
 .container_a45028,
 .container_a76561,
 .container_adb50a,
+.container_b1f01d,
 .container_b962dc,
 .container_c44293,
 .container_cc2dff,
@@ -610,6 +612,7 @@
 :where(.visual-refresh) .item__001a7[aria-checked="true"],
 :where(.visual-refresh) .lookFilled__3f413.select__3f413,
 div#anchor,
+html:not(.chat-input) .inputInner_b1f01d,
 html:not(.visual-refresh-chat-input) .inner_a99829 {
   border-radius: var(--radius);
 }
@@ -749,13 +752,13 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .modal_b962dc .footer__49fc1 {
   border-radius: 0 0 var(--radius) 0;
 }
+.actions__96f95 .value__96f95,
 .activityPanel_c48ade ~ .wrapper_e131a9 .container_e131a9,
 .content__49fc1.body_c6f1a4.thin__99f8c.scrollerBase__99f8c,
 .floating-window #bd-editor-controls,
 .floating-window .monaco-editor,
 .formContainer_d9be46 .channelTextAreaInner_d9be46,
 .formContainer_d9be46 .title_d9be46,
-.iconWrapper__96f95 + .inputWrapper__0f084 .value__96f95,
 .root_e5f3a9 .body_c6f1a4 {
   border-radius: 0 !important;
 }
