@@ -202,6 +202,7 @@
 .container_e88f3f,
 .container_e97453,
 .container_eb2cd2,
+.container_f69538,
 .container_f89b2c,
 .container_fb1896,
 .container_fc561d,
@@ -284,7 +285,6 @@
 .inner__02fc8,
 .inner_c0bea0,
 .input__0ed4f,
-.input__0f084,
 .input_ac6cb0,
 .interactive_bf202d,
 .inventoryControlsButton__6980e,
@@ -503,7 +503,6 @@
 .themes__6fdb8,
 .tierBody_a36dee,
 .tierHeaderWithoutCardBody_a36dee,
-.tierHeaderWithoutCardBody_f15dca,
 .tierHeader_a36dee,
 .tier_a36dee,
 .tile__72090,
@@ -532,6 +531,7 @@
 .upsell_ac65bb,
 .user-profile-modal-v2 .card__39ec2,
 .userCardInner_c69a7b,
+.userListItem_ec58fe,
 .userPopoutInner_c69a7b,
 .userPopoutInner_c69a7b:before,
 .userPopoutOverlayBackground_c69a7b,
@@ -541,6 +541,7 @@
 .userProfileOuter_c69a7b,
 .vc-error-card,
 .vc-permviewer-modal-list-item,
+.vc-shc-allowed-users-and-roles-container,
 .vc-shiki-root,
 .videoCover__95856,
 .video__6fdb8,
@@ -698,7 +699,7 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .sidebarContainer__1d6c7 {
   border-radius: var(--radius) 0 0 var(--radius);
 }
-.nameInputInnerWithEmojiPicker__0511a {
+.nameInputInner__0511a {
   border-radius: var(--radius) 0 0 var(--radius) !important;
 }
 .allow__344e6,
