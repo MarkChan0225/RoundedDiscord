@@ -266,6 +266,7 @@
 .fieldBackground_d48a51:hover:not(:focus),
 .fileWrapper__0ccae,
 .fileWrapper__0ccae.newMosaicStyle_b52bef,
+.filterOverlay__1feb0,
 .friendRequestsButton__523aa,
 .friend_bbd192,
 .friends_b37a75,
@@ -523,6 +524,7 @@
 .themeSelection__36dee,
 .themeSelector_c85552,
 .themeSelector_c85552 [class*="pillItem"],
+.theme__11877,
 .themes__6fdb8,
 .tierBody_a36dee,
 .tierHeaderWithoutCardBody_a36dee,
@@ -924,7 +926,9 @@ div.profileThemedContainer__656be {
   border-radius: var(--radius);
 }
 .childContainer__91a9d,
+.container__6d099.threeItemBundle__6d099 .nameplatePreview__6d099,
 .layout__91a9d,
+.nameplatePreview_fdeafc,
 .visual-refresh .layout__91a9d {
   border-radius: 20px;
   margin-bottom: 1px;
