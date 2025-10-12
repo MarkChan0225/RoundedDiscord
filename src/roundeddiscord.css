@@ -204,6 +204,7 @@
 .container_c44293,
 .container_cc2dff,
 .container_cc53de,
+.container_cec934,
 .container_d5ae15,
 .container_d8f25b,
 .container_d9c848,
@@ -784,7 +785,10 @@ html:not(.visual-refresh-chat-input) .inner_a99829 {
 .visual-refresh .lastChannel_e4503a {
   border-radius: 0 0 var(--radius) var(--radius);
 }
-.wrapper_e131a9:has(.container_e131a9) ~ .container__37e49 {
+.wrapper_e131a9:has(.container_e131a9) ~ .container__37e49,
+.containerListenAlongVisible__37e49, 
+.containerQuestBarVisible__37e49, 
+.containerRtcOpened__37e49 {
   border-radius: 0 0 var(--radius) var(--radius) !important;
 }
 .modal_b962dc .footer__49fc1 {
