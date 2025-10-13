@@ -20,6 +20,6 @@
   "devDependencies": {
     "@types/node": "^24.7.1",
     "prettier": "^3.6.2",
-    "replugged": "^4.10.2"
+    "replugged": "^4.11.0"
   }
 }
