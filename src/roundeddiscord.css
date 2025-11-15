@@ -652,7 +652,8 @@
 :where(.visual-refresh) .lookFilled__3f413.select__3f413,
 div#anchor,
 html:not(.chat-input) .inputInner_b1f01d,
-html:not(.visual-refresh-chat-input) .inner_a99829 {
+html:not(.visual-refresh-chat-input) .inner_a9982,
+.contentCollapsed__5f897 {
   border-radius: var(--radius);
 }
 #replugged-quickcss-wrapper .cm-editor,
