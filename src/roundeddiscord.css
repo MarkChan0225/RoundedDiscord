@@ -653,7 +653,12 @@
 div#anchor,
 html:not(.chat-input) .inputInner_b1f01d,
 html:not(.visual-refresh-chat-input) .inner_a9982,
-.contentCollapsed__5f897 {
+.contentCollapsed__5f897,
+.addButtonContainer__4a011,
+.container_cec934,
+.menuItemInner_ce8328,
+.featureBorder__65c15,
+.background__65c15 {
   border-radius: var(--radius);
 }
 #replugged-quickcss-wrapper .cm-editor,
@@ -718,7 +723,10 @@ html:not(.visual-refresh-chat-input) .inner_a9982,
 .visual-refresh .firstChannel_e4503a,
 .visual-refresh .panel__5dec7,
 .withFooter__44c9a,
-.wrapper__0d616 {
+.wrapper__0d616,
+.heroAssetWrapper_b5b7aa,
+.container_b5b7aa,
+.summaryInfo_e9cb00 {
   border-radius: var(--radius) var(--radius) 0 0;
 }
 #replugged-quickcss-wrapper .cm-gutters,
@@ -919,6 +927,9 @@ div.profileThemedContainer__656be {
   margin-left: 0 !important;
   margin-right: 10px;
   padding-left: 5px !important;
+}
+.newRing__8fea4 rect {
+  rx: 16;
 }
 .categoryItemDefaultCategory_b9ee0c {
   border-radius: 8px;
