@@ -658,7 +658,8 @@ html:not(.visual-refresh-chat-input) .inner_a9982,
 .container_cec934,
 .menuItemInner_ce8328,
 .featureBorder__65c15,
-.background__65c15 {
+.background__65c15,
+.borderOverlay__8fea4 {
   border-radius: var(--radius);
 }
 #replugged-quickcss-wrapper .cm-editor,
