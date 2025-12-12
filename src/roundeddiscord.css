@@ -738,7 +738,9 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 .visual-refresh .firstChannel_e4503a,
 .visual-refresh .panel__5dec7,
 .withFooter__44c9a,
-.wrapper__0d616 {
+.wrapper__0d616,
+.content__0d616,
+.mask__0d616 {
   border-radius: var(--radius) var(--radius) 0 0;
 }
 #replugged-quickcss-wrapper .cm-gutters,
