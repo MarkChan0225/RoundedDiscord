@@ -377,7 +377,6 @@
 .c0e32c5cffed3d9f-wrapper.c0e32c5cffed3d9f-isBurstReactionPicker:before,
 .c19a557985eb7793-executedCommand
   .c19a557985eb7793-appLauncherOnboardingCommandName,
-.c1e9c47c23f12ca3-item,
 .c1e9c47c23f12ca3-menu,
 .c28af8664f7b2fe8-choiceContainer,
 .c36707910f687430-tooltip,
@@ -537,6 +536,7 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 .bfe55a0aaaf62375-bottomControls ._201d5e8a3c09670a-button,
 .c94584907f9d5a22-commandContainer .c94584907f9d5a22-command:only-child,
 .cb9592ad77576717-callContainer,
+.c1e9c47c23f12ca3-item,
 .e4503acec53c64dd-lastChannel.e4503acec53c64dd-firstChannel,
 .eb110a19ea3d101d-note textarea,
 .replugged-addon-card,
