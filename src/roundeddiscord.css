@@ -85,6 +85,7 @@
 ._2ea32c412048f708-link,
 ._2ea32c412048f708-wrapper,
 ._2f4f7eb58b61c328-border,
+._2f4f7eb58b61c328-experimentOverlayTitle,
 ._2f4f7eb58b61c328-overlayTitle,
 ._3035983b9baa2465-perks,
 ._344e69670924b1be-group,
@@ -95,6 +96,7 @@
 ._36852d62378f0835-previewBox,
 ._36dee59b8fa89219-selectionCircle,
 ._36dee59b8fa89219-themeSelection,
+._3782a6ea22bc857f-container,
 ._37ae554d51e1c7d1-wrapper,
 ._37e49614b9f110a9-container,
 ._39466562bae551de-selectGuildPseudoCta,
@@ -145,6 +147,7 @@
 ._4e29dbc9e1a2384f-preview,
 ._4e30a003110eaaf1-container,
 ._4e35b986167c457d-tooltip,
+._50387b5c048bc9e1-container,
 ._50a5493e9d9cc496-authedAppV2,
 ._50e22d8b0c6ff6cb-container,
 ._50f142ddcd129c8c-previewContainer,
@@ -168,6 +171,7 @@
 ._5a4b641eea77e793-appContainer,
 ._5b32177e89c63961-container,
 ._5b98ee5ec86ed598-wrapper,
+._5c1cfd8731d41933-root,
 ._5ca14cde5e287f4e-channelContainer,
 ._5cea9da4c2ca012f-card,
 ._5d7c9a81ac5dd074-profileCard,
@@ -177,6 +181,7 @@
 ._5e434347c823b592-panels,
 ._5f97b45169dc1b9d-roleRow,
 ._60f3fd90f6085664-previewNotice,
+._61733cb6e6a659f9-premiumBrandRefreshContainer,
 ._61c9355cca12ab4b-key,
 ._623de82e76ad7f82-embed,
 ._63c3c425b0eb0a98-infobox,
@@ -194,6 +199,7 @@
 ._6c706db0523bd9a7-mosaicItemMediaMosaic,
 ._6c75d92c128c46b0-credentialList,
 ._6da2d8abf659f945-streamPreview,
+._6df1abcb56d96feb-card,
 ._6f5a634605e8ce31-groupCollapsedContainer,
 ._6fddf2ee3574a18a-calloutContainer,
 ._7004ff4665879b8e-contentCollapsed,
@@ -283,6 +289,7 @@
 ._9ac2896ae58b7106-scroller,
 ._9b0f44488203477c-contentWrapper:only-child,
 ._9be63f0b86033228-soundButton,
+._9be63f0b86033228-soundButtonWrapper,
 ._9c3bea41fd465666-profileNote textarea,
 ._9c62c6ed231468c4-contentWrapper,
 ._9c6a8876762e8075-learnMoreTipContainer,
@@ -373,7 +380,9 @@
 .bd-tab-item,
 .bd-toast,
 .bf202d63ad53e289-interactive,
+.bfe55a0aaaf62375-bottomControls ._201d5e8a3c09670a-button,
 .c0bea05627c5dc35-inner,
+.c0c49a3e5c8626ac-container:before,
 .c0e32c5cffed3d9f-wrapper,
 .c0e32c5cffed3d9f-wrapper.c0e32c5cffed3d9f-isBurstReactionPicker,
 .c0e32c5cffed3d9f-wrapper.c0e32c5cffed3d9f-isBurstReactionPicker:before,
@@ -526,12 +535,7 @@
 :where(.c0bea05627c5dc35-overlay),
 div#anchor,
 html:not(.chat-input) .b1f01d03ecc7d736-inputInner,
-html:not(.visual-refresh-chat-input) .inner_a9982,
-.c0c49a3e5c8626ac-container:before,
-._6df1abcb56d96feb-card,
-._5c1cfd8731d41933-root,
-._2f4f7eb58b61c328-experimentOverlayTitle,
-.bfe55a0aaaf62375-bottomControls ._201d5e8a3c09670a-button {
+html:not(.visual-refresh-chat-input) .inner_a9982 {
   border-radius: var(--radius);
 }
 #replugged-quickcss-wrapper .cm-editor,
@@ -540,9 +544,9 @@ html:not(.visual-refresh-chat-input) .inner_a9982,
 ._49fc18ba07c5025f-root._49fc18ba07c5025f-root,
 .audioControls_f316dd,
 .better-codeblocks,
+.c1e9c47c23f12ca3-item,
 .c94584907f9d5a22-commandContainer .c94584907f9d5a22-command:only-child,
 .cb9592ad77576717-callContainer,
-.c1e9c47c23f12ca3-item,
 .e4503acec53c64dd-lastChannel.e4503acec53c64dd-firstChannel,
 .f37d39ae7423d877-note textarea,
 .replugged-addon-card,
@@ -621,8 +625,8 @@ html:not(.visual-refresh-chat-input) .inner_a9982,
 .sidebarContainer__1d6c7 {
   border-radius: var(--radius) 0 0 var(--radius);
 }
-.nameInputInner__0511a,
-.f1ceaca61b18918e-attachedButton {
+.f1ceaca61b18918e-attachedButton,
+.nameInputInner__0511a {
   border-radius: var(--radius) 0 0 var(--radius) !important;
 }
 ._344e69670924b1be-allow,
@@ -632,12 +636,14 @@ html:not(.visual-refresh-chat-input) .inner_a9982,
 .b962dc319e969a3f-modal,
 .bd-controls > .bd-addon-button:last-of-type,
 .bd818628221af7aa-searchAnswer,
+.f1ceaca61b18918e-contextMenuNub.f1ceaca61b18918e-attachedCaret,
 .f5fff4b5d8815d51-allow {
   border-radius: 0 var(--radius) var(--radius) 0;
 }
 .nameInput__0511a ._0511a39e97dd4674-emojiButton {
   border-radius: 0 var(--radius) var(--radius) 0 !important;
 }
+._0f0849b61557225e-image,
 ._0f481cbbd7530492-newMessagesBar,
 ._0f481cbbd7530492-newTopicsBarContainer,
 ._0f481cbbd7530492-topicsPillContainer,
@@ -650,6 +656,7 @@ html:not(.visual-refresh-chat-input) .inner_a9982,
 ._4d95d73152192cf9-footer,
 ._4d95d73152192cf9-newMosaicStyle ._4d95d73152192cf9-footer,
 ._655fa0dac0bbc1ad-profileEntryCard:last-child,
+._72cd3c61001cedfe-container,
 ._73000d97b1b29da5-upsellFooter,
 ._7d7feb6bbfde0545-tooltipPremiumFooterContainer,
 ._808a172f562ea104-scroller,
@@ -666,9 +673,7 @@ html:not(.visual-refresh-chat-input) .inner_a9982,
 .f37cb1984c371ee5-animatedContainer,
 .f3b986a284a18c78-searchHeader,
 .fe70ca6739eeb5f0-navButtons,
-.monaco-editor,
-._72cd3c61001cedfe-container,
-._0f0849b61557225e-image {
+.monaco-editor {
   border-radius: 0 0 var(--radius) var(--radius);
 }
 ._37e49614b9f110a9-containerListenAlongVisible,
