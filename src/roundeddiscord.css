@@ -526,7 +526,11 @@
 :where(.c0bea05627c5dc35-overlay),
 div#anchor,
 html:not(.chat-input) .b1f01d03ecc7d736-inputInner,
-html:not(.visual-refresh-chat-input) .inner_a9982 {
+html:not(.visual-refresh-chat-input) .inner_a9982,
+.c0c49a3e5c8626ac-container:before,
+._6df1abcb56d96feb-card,
+._5c1cfd8731d41933-root,
+._2f4f7eb58b61c328-experimentOverlayTitle {
   border-radius: var(--radius);
 }
 #replugged-quickcss-wrapper .cm-editor,
@@ -540,7 +544,7 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 .cb9592ad77576717-callContainer,
 .c1e9c47c23f12ca3-item,
 .e4503acec53c64dd-lastChannel.e4503acec53c64dd-firstChannel,
-.eb110a19ea3d101d-note textarea,
+.f37d39ae7423d877-note textarea,
 .replugged-addon-card,
 .replugged-updater-item,
 .vc-addon-card,
@@ -617,7 +621,8 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 .sidebarContainer__1d6c7 {
   border-radius: var(--radius) 0 0 var(--radius);
 }
-.nameInputInner__0511a {
+.nameInputInner__0511a,
+.f1ceaca61b18918e-attachedButton {
   border-radius: var(--radius) 0 0 var(--radius) !important;
 }
 ._344e69670924b1be-allow,
@@ -661,7 +666,9 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 .f37cb1984c371ee5-animatedContainer,
 .f3b986a284a18c78-searchHeader,
 .fe70ca6739eeb5f0-navButtons,
-.monaco-editor {
+.monaco-editor,
+._72cd3c61001cedfe-container,
+._0f0849b61557225e-image {
   border-radius: 0 0 var(--radius) var(--radius);
 }
 ._37e49614b9f110a9-containerListenAlongVisible,
@@ -688,6 +695,9 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 }
 .c0e32c5cffed3d9f-categoryList {
   border-bottom-left-radius: var(--radius);
+}
+._8ef02eea17068b73-listWrapper {
+  border-bottom-right-radius: var(--radius);
 }
 ._01ae244280823725-resizeHandle {
   width: 0;
