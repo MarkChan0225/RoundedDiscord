@@ -530,7 +530,8 @@ html:not(.visual-refresh-chat-input) .inner_a9982,
 .c0c49a3e5c8626ac-container:before,
 ._6df1abcb56d96feb-card,
 ._5c1cfd8731d41933-root,
-._2f4f7eb58b61c328-experimentOverlayTitle {
+._2f4f7eb58b61c328-experimentOverlayTitle,
+.bfe55a0aaaf62375-bottomControls ._201d5e8a3c09670a-button {
   border-radius: var(--radius);
 }
 #replugged-quickcss-wrapper .cm-editor,
@@ -539,7 +540,6 @@ html:not(.visual-refresh-chat-input) .inner_a9982,
 ._49fc18ba07c5025f-root._49fc18ba07c5025f-root,
 .audioControls_f316dd,
 .better-codeblocks,
-.bfe55a0aaaf62375-bottomControls ._201d5e8a3c09670a-button,
 .c94584907f9d5a22-commandContainer .c94584907f9d5a22-command:only-child,
 .cb9592ad77576717-callContainer,
 .c1e9c47c23f12ca3-item,
