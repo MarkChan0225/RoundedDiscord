@@ -698,6 +698,18 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 ._8ef02eea17068b73-listWrapper {
   border-bottom-right-radius: var(--radius);
 }
+.c19a557985eb7793-cozy.c19a557985eb7793-hasThread:after {
+  border-bottom-left-radius: var(--radius) !important;
+}
+._8fea485116292f13-newRing rect {
+  rx: 16;
+}
+.b9ee0c229bc0b6bb-categoryItemDefaultCategory {
+  border-radius: 8px;
+}
+._1df30b1a583f2fa3-recentAvatarButton {
+  border-radius: 50%;
+}
 ._01ae244280823725-resizeHandle {
   width: 0;
 }
@@ -750,15 +762,21 @@ div._656be05658eed04d-profileThemedContainer {
   border-radius: var(--radius);
   margin-bottom: 20px;
 }
+._6d0994faecf3e6ea-container._6d0994faecf3e6ea-threeItemBundle ._6d0994faecf3e6ea-nameplatePreview,
+._91a9d7f7e5248a56-childContainer,
+._91a9d7f7e5248a56-layout,
+.e144e058a84f76ff-nameplatePreview,
+.visual-refresh ._91a9d7f7e5248a56-layout {
+  border-radius: 20px;
+  margin-bottom: 1px;
+  margin-top: 1px;
+}
+._67dba15a1ae9a3e9-inviteRow {
+  border-radius: var(--radius);
+  margin-right: 0 !important;
+}
 ._8a7fc664acf53af6-headerBar {
   margin-top: 5px;
-}
-._6db1d32c47b6ad72-shop {
-  height: 97.5% !important;
-}
-.visual-refresh ._5e434347c823b592-sidebarList {
-  border: 1px solid var(--app-border-frame);
-  border-radius: var(--radius);
 }
 .platform-osx .content-Pph8t6:not(.ef3116c2da186559-hidden),
 .visual-refresh ._5e434347c823b592-content,
@@ -776,60 +794,39 @@ div._656be05658eed04d-profileThemedContainer {
 .ef3116c2da186559-wrapper._5e434347c823b592-guilds.content_Pph8t6 {
   margin-left: 5px;
 }
-.content_Pph8t6.closed_j55_T- {
-  display: none;
-}
 .bd-modal-content {
   margin-right: 16px;
-}
-.vc-betterFolders-sidebar {
-  margin-left: -10px;
-  margin-right: 5px;
 }
 .vc-shiki-btn:last-child {
   border-radius: var(--radius);
   margin-bottom: 5px;
   margin-right: 5px;
 }
-#vc-spotify-player {
-  padding: 15px;
-}
 .better-codeblocks-btn:last-child {
   border-radius: var(--radius) !important;
   margin: 5px;
+}
+.vc-betterFolders-sidebar {
+  margin-left: -10px;
+  margin-right: 5px;
 }
 .foldersRedesigned-sidebar {
   margin-left: 0 !important;
   margin-right: 10px;
   padding-left: 5px !important;
 }
-._8fea485116292f13-newRing rect {
-  rx: 16;
+._6db1d32c47b6ad72-shop,
+._955a392354a35c6e-container {
+  height: 97.5% !important;
 }
-.b9ee0c229bc0b6bb-categoryItemDefaultCategory {
-  border-radius: 8px;
+#vc-spotify-player {
+  padding: 15px;
 }
-.c19a557985eb7793-cozy.c19a557985eb7793-hasThread:after {
-  border-bottom-left-radius: var(--radius) !important;
-}
-._1df30b1a583f2fa3-recentAvatarButton {
-  border-radius: 50%;
-}
-._6d0994faecf3e6ea-container._6d0994faecf3e6ea-threeItemBundle ._6d0994faecf3e6ea-nameplatePreview,
-._91a9d7f7e5248a56-childContainer,
-._91a9d7f7e5248a56-layout,
-.e144e058a84f76ff-nameplatePreview,
-.visual-refresh ._91a9d7f7e5248a56-layout {
-  border-radius: 20px;
-  margin-bottom: 1px;
-  margin-top: 1px;
+.f37d39ae7423d877-note textarea {
+  padding: 8px;
 }
 ._1405b3b8e8eb5fd0-controlButton > svg > foreignObject {
   mask: none;
-}
-._67dba15a1ae9a3e9-inviteRow {
-  border-radius: var(--radius);
-  margin-right: 0 !important;
 }
 .d02962a38047ac3c-categoryFade:hover {
   backdrop-filter: none;
