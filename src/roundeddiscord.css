@@ -48,6 +48,7 @@
 ._19fd16f9b3ed863d-tableRowGroup ._19fd16f9b3ed863d-content,
 ._1a4ef2934d882343-settingCard,
 ._1ab14d14e9559e7e-baseCardOutline,
+._1bb324526a52affb-itemContainer,
 ._1ccd1ba5cb2270c2-messages,
 ._1d12e4292536ed76-clipBadge,
 ._1d12e4292536ed76-clipItem,
@@ -160,7 +161,9 @@
 ._551b0894962ff66f-container,
 ._551b0894962ff66f-navItem,
 ._55c999adcf6db265-container,
-._56fec8e8b8048fe0-datePicker ._56fec8e8b8048fe0-datePickerHint ._56fec8e8b8048fe0-hintValue,
+._56fec8e8b8048fe0-datePicker
+  ._56fec8e8b8048fe0-datePickerHint
+  ._56fec8e8b8048fe0-hintValue,
 ._56fec8e8b8048fe0-option,
 ._581dd2288501a0d4-container,
 ._58ae6034fc6b31dc-guildRow,
@@ -178,6 +181,7 @@
 ._5dbf818b58a61b59-container,
 ._5e434347c823b592-panels,
 ._5f97b45169dc1b9d-roleRow,
+._5fa2fb5c4d963128-selectDropdown,
 ._60f3fd90f6085664-previewNotice,
 ._61733cb6e6a659f9-premiumBrandRefreshContainer,
 ._61c9355cca12ab4b-key,
@@ -384,7 +388,8 @@
 .c0e32c5cffed3d9f-wrapper,
 .c0e32c5cffed3d9f-wrapper.c0e32c5cffed3d9f-isBurstReactionPicker,
 .c0e32c5cffed3d9f-wrapper.c0e32c5cffed3d9f-isBurstReactionPicker:before,
-.c19a557985eb7793-executedCommand .c19a557985eb7793-appLauncherOnboardingCommandName,
+.c19a557985eb7793-executedCommand
+  .c19a557985eb7793-appLauncherOnboardingCommandName,
 .c1e9c47c23f12ca3-menu,
 .c28af8664f7b2fe8-choiceContainer,
 .c36707910f687430-tooltip,
@@ -427,6 +432,10 @@
 .d02962a38047ac3c-categoryFadeBlurple:hover,
 .d13feb942bc5e7c6-row,
 .d1405bf11dcfb07a-outerWrapper,
+.d27f17593b8064c5-calendarPicker
+  .react-datepicker__navigation.react-datepicker__navigation--next,
+.d27f17593b8064c5-calendarPicker
+  .react-datepicker__navigation.react-datepicker__navigation--previous,
 .d4883c8125f433a3-promotionCard,
 .d5919918c1ff74a9-previewChannelRowContent,
 .d5cd2da5733d0b6e-reactionEmojiDetailsClickable,
@@ -485,6 +494,7 @@
 .edf4408c2c04bc10-option,
 .edf4408c2c04bc10-premiumUpsell,
 .ef9ae7987ec7715e-imageContainer .ef9ae7987ec7715e-contentImage,
+.f1c5c9823fbd3ef8-container,
 .f369dba7416c67f0-mainCard,
 .f37cb1984c371ee5-guildDropdown,
 .f37cb1984c371ee5-header,
@@ -519,6 +529,7 @@
 .hljs,
 .monaco-editor .overflow-guard,
 .qwert-toast,
+.react-datepicker,
 .shc-lock-screen-allowed-users-and-roles-container,
 .vc-btn-base,
 .vc-card-base,
@@ -609,6 +620,7 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 }
 #replugged-quickcss-wrapper .cm-gutters,
 ._1464f16f3e3c14a9-optionPillKey,
+._1bb324526a52affb-filterPill,
 ._344e69670924b1be-deny,
 ._3d4a037904e40932-item:first-child,
 ._71c22426f1aad6f4-roundedRow td:first-child,
@@ -626,6 +638,7 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 .nameInputInner__0511a {
   border-radius: var(--radius) 0 0 var(--radius) !important;
 }
+._1bb324526a52affb-answerPill,
 ._344e69670924b1be-allow,
 ._3d4a037904e40932-item:last-child,
 ._71c22426f1aad6f4-roundedRow td:last-child,
@@ -676,14 +689,17 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 ._37e49614b9f110a9-containerListenAlongVisible,
 ._37e49614b9f110a9-containerQuestBarVisible,
 ._37e49614b9f110a9-containerRtcOpened,
-.e131a99484292a19-wrapper:has(.e131a99484292a19-container) ~ ._37e49614b9f110a9-container {
+.e131a99484292a19-wrapper:has(.e131a99484292a19-container)
+  ~ ._37e49614b9f110a9-container {
   border-radius: 0 0 var(--radius) var(--radius) !important;
 }
 .b962dc319e969a3f-modal ._49fc18ba07c5025f-footer {
   border-radius: 0 0 var(--radius) 0;
 }
 ._49fc18ba07c5025f-content.c6f1a49abaa9f1d6-body._99f8cc7ad4790ce9-thin._99f8cc7ad4790ce9-scrollerBase,
-._5e434347c823b592-activityPanel ~ .e131a99484292a19-wrapper .e131a99484292a19-container,
+._5e434347c823b592-activityPanel
+  ~ .e131a99484292a19-wrapper
+  .e131a99484292a19-container,
 ._96f95c174d3b94a0-actions ._96f95c174d3b94a0-value,
 .d9be463a3c35b91e-formContainer .d9be463a3c35b91e-channelTextAreaInner,
 .d9be463a3c35b91e-formContainer .d9be463a3c35b91e-title,
@@ -692,23 +708,39 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 .floating-window .monaco-editor {
   border-radius: 0 !important;
 }
-.c0e32c5cffed3d9f-categoryList {
+.c0e32c5cffed3d9f-categoryList,
+.d27f17593b8064c5-calendarPicker
+  .react-datepicker__week:last-of-type
+  > .react-datepicker__day:first-of-type {
   border-bottom-left-radius: var(--radius);
 }
-._8ef02eea17068b73-listWrapper {
+._8ef02eea17068b73-listWrapper,
+.d27f17593b8064c5-calendarPicker
+  .react-datepicker__week:last-of-type
+  > .react-datepicker__day:last-of-type {
   border-bottom-right-radius: var(--radius);
 }
 .c19a557985eb7793-cozy.c19a557985eb7793-hasThread:after {
   border-bottom-left-radius: var(--radius) !important;
 }
-._8fea485116292f13-newRing rect {
-  rx: 16;
+.d27f17593b8064c5-calendarPicker
+  .react-datepicker__week:first-of-type
+  > .react-datepicker__day:first-of-type {
+  border-top-left-radius: var(--radius);
+}
+.d27f17593b8064c5-calendarPicker
+  .react-datepicker__week:first-of-type
+  > .react-datepicker__day:last-of-type {
+  border-top-right-radius: var(--radius);
 }
 .b9ee0c229bc0b6bb-categoryItemDefaultCategory {
   border-radius: 8px;
 }
 ._1df30b1a583f2fa3-recentAvatarButton {
   border-radius: 50%;
+}
+._8fea485116292f13-newRing rect {
+  rx: 16;
 }
 ._01ae244280823725-resizeHandle {
   width: 0;
@@ -762,7 +794,8 @@ div._656be05658eed04d-profileThemedContainer {
   border-radius: var(--radius);
   margin-bottom: 20px;
 }
-._6d0994faecf3e6ea-container._6d0994faecf3e6ea-threeItemBundle ._6d0994faecf3e6ea-nameplatePreview,
+._6d0994faecf3e6ea-container._6d0994faecf3e6ea-threeItemBundle
+  ._6d0994faecf3e6ea-nameplatePreview,
 ._91a9d7f7e5248a56-childContainer,
 ._91a9d7f7e5248a56-layout,
 .e144e058a84f76ff-nameplatePreview,
