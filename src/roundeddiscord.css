@@ -725,7 +725,8 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 }
 .d27f17593b8064c5-calendarPicker
   .react-datepicker__week:first-of-type
-  > .react-datepicker__day:first-of-type {
+  > .react-datepicker__day:first-of-type,
+._5e434347c823b592-sidebarListRounded {
   border-top-left-radius: var(--radius);
 }
 .d27f17593b8064c5-calendarPicker
