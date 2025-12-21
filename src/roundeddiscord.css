@@ -561,7 +561,6 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 .c94584907f9d5a22-commandContainer .c94584907f9d5a22-command:only-child,
 .cb9592ad77576717-callContainer,
 .e4503acec53c64dd-lastChannel.e4503acec53c64dd-firstChannel,
-.f37d39ae7423d877-note textarea,
 .replugged-addon-card,
 .replugged-updater-item,
 .vc-addon-card,
@@ -857,15 +856,13 @@ div._656be05658eed04d-profileThemedContainer {
   margin-right: 10px;
   padding-left: 5px !important;
 }
-.eb110a19ea3d101d-note textarea {
+.eb110a19ea3d101d-note textarea,
+.f37d39ae7423d877-note textarea {
   border-radius: var(--radius);
-  padding: 6px
+  padding: 8px
 }
 #vc-spotify-player {
   padding: 15px;
-}
-.f37d39ae7423d877-note textarea {
-  padding: 8px;
 }
 ._1405b3b8e8eb5fd0-controlButton > svg > foreignObject {
   mask: none;
