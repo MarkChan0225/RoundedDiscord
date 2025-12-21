@@ -761,27 +761,6 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
   border-radius: var(--radius);
   margin: 10px 10px 0 5px;
 }
-._5e434347c823b592-sidebar {
-  border-radius: var(--radius) !important;
-  margin: 0 0 10px 10px;
-}
-.ef3116c2da186559-wrapper {
-  margin-right: 5px;
-  margin-top: 15px;
-}
-._6e2b9359c6f84cfd-notice {
-  border-radius: var(--radius);
-  margin-bottom: 5px;
-  margin-right: 10px;
-}
-._4c5209741d147f1b-answerInner {
-  margin-left: 10px;
-  margin-right: 5px;
-}
-.f75fb00fb7356cbe-chat.f75fb00fb7356cbe-threadSidebarOpen {
-  border-radius: var(--radius) !important;
-  margin-right: 6.5px;
-}
 ._2a8914fa6869f3ad-editor,
 ._5a2dfc677f2b8493-container,
 .cf6da1923918f7e3-themeEditor {
@@ -790,23 +769,43 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
   height: auto;
   margin: 10px 10px 10px -5px;
 }
-div._656be05658eed04d-profileThemedContainer {
-  border-radius: var(--radius);
-  margin-bottom: 20px;
-}
 ._6d0994faecf3e6ea-container._6d0994faecf3e6ea-threeItemBundle
   ._6d0994faecf3e6ea-nameplatePreview,
 ._91a9d7f7e5248a56-childContainer,
 ._91a9d7f7e5248a56-layout,
-.e144e058a84f76ff-nameplatePreview,
-.visual-refresh ._91a9d7f7e5248a56-layout {
+.e144e058a84f76ff-nameplatePreview {
   border-radius: 20px;
   margin-bottom: 1px;
   margin-top: 1px;
 }
+._5e434347c823b592-sidebar {
+  border-radius: var(--radius) !important;
+  margin: 0 0 10px 10px;
+}
+.f75fb00fb7356cbe-chat.f75fb00fb7356cbe-threadSidebarOpen {
+  border-radius: var(--radius) !important;
+  margin-right: 6.5px;
+}
+._6e2b9359c6f84cfd-notice {
+  border-radius: var(--radius);
+  margin-bottom: 5px;
+  margin-right: 10px;
+}
+div._656be05658eed04d-profileThemedContainer {
+  border-radius: var(--radius);
+  margin-bottom: 20px;
+}
 ._67dba15a1ae9a3e9-inviteRow {
   border-radius: var(--radius);
   margin-right: 0 !important;
+}
+.ef3116c2da186559-wrapper {
+  margin-right: 5px;
+  margin-top: 15px;
+}
+._4c5209741d147f1b-answerInner {
+  margin-left: 10px;
+  margin-right: 5px;
 }
 ._8a7fc664acf53af6-headerBar {
   margin-top: 5px;
