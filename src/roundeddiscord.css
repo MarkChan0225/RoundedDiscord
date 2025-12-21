@@ -187,6 +187,7 @@
 ._61c9355cca12ab4b-key,
 ._623de82e76ad7f82-embed,
 ._63c3c425b0eb0a98-infobox,
+._63ed30c16c7151f2-guildTagContainer,
 ._6446fb2bd9a3c2e5-actionContainer,
 ._65338bf35f9ad6c1-container,
 ._65c15724a894a2e0-background,
@@ -538,6 +539,9 @@
 .vc-permviewer-role-button,
 .vc-settings-quickActions-pill,
 .vc-shc-allowed-users-and-roles-container,
+.vc-shc-default-emoji-container,
+.vc-shc-tags-container,
+.vc-shc-topic-container,
 .vc-shiki-root,
 :where(.c0bea05627c5dc35-outer).user-profile-popout,
 :where(.c0bea05627c5dc35-overlay),
@@ -779,6 +783,10 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
   margin-bottom: 1px;
   margin-top: 1px;
 }
+._6db1d32c47b6ad72-shop,
+._955a392354a35c6e-container {
+  height: 97.5% !important;
+}
 ._5e434347c823b592-sidebar {
   border-radius: var(--radius) !important;
   margin: 0 0 10px 10px;
@@ -848,9 +856,9 @@ div._656be05658eed04d-profileThemedContainer {
   margin-right: 10px;
   padding-left: 5px !important;
 }
-._6db1d32c47b6ad72-shop,
-._955a392354a35c6e-container {
-  height: 97.5% !important;
+.eb110a19ea3d101d-note textarea {
+  border-radius: var(--radius);
+  padding: 6px
 }
 #vc-spotify-player {
   padding: 15px;
