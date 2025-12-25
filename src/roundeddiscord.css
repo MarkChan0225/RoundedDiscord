@@ -161,9 +161,7 @@
 ._551b0894962ff66f-container,
 ._551b0894962ff66f-navItem,
 ._55c999adcf6db265-container,
-._56fec8e8b8048fe0-datePicker
-  ._56fec8e8b8048fe0-datePickerHint
-  ._56fec8e8b8048fe0-hintValue,
+._56fec8e8b8048fe0-datePicker ._56fec8e8b8048fe0-datePickerHint ._56fec8e8b8048fe0-hintValue,
 ._56fec8e8b8048fe0-option,
 ._581dd2288501a0d4-container,
 ._58ae6034fc6b31dc-guildRow,
@@ -389,8 +387,7 @@
 .c0e32c5cffed3d9f-wrapper,
 .c0e32c5cffed3d9f-wrapper.c0e32c5cffed3d9f-isBurstReactionPicker,
 .c0e32c5cffed3d9f-wrapper.c0e32c5cffed3d9f-isBurstReactionPicker:before,
-.c19a557985eb7793-executedCommand
-  .c19a557985eb7793-appLauncherOnboardingCommandName,
+.c19a557985eb7793-executedCommand .c19a557985eb7793-appLauncherOnboardingCommandName,
 .c1e9c47c23f12ca3-menu,
 .c28af8664f7b2fe8-choiceContainer,
 .c36707910f687430-tooltip,
@@ -433,8 +430,7 @@
 .d02962a38047ac3c-categoryFadeBlurple:hover,
 .d13feb942bc5e7c6-row,
 .d1405bf11dcfb07a-outerWrapper,
-.d27f17593b8064c5-calendarPicker
-  .react-datepicker__navigation.react-datepicker__navigation--next,
+.d27f17593b8064c5-calendarPicker .react-datepicker__navigation.react-datepicker__navigation--next,
 .d27f17593b8064c5-calendarPicker
   .react-datepicker__navigation.react-datepicker__navigation--previous,
 .d4883c8125f433a3-promotionCard,
@@ -693,17 +689,14 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 ._37e49614b9f110a9-containerListenAlongVisible,
 ._37e49614b9f110a9-containerQuestBarVisible,
 ._37e49614b9f110a9-containerRtcOpened,
-.e131a99484292a19-wrapper:has(.e131a99484292a19-container)
-  ~ ._37e49614b9f110a9-container {
+.e131a99484292a19-wrapper:has(.e131a99484292a19-container) ~ ._37e49614b9f110a9-container {
   border-radius: 0 0 var(--radius) var(--radius) !important;
 }
 .b962dc319e969a3f-modal ._49fc18ba07c5025f-footer {
   border-radius: 0 0 var(--radius) 0;
 }
 ._49fc18ba07c5025f-content.c6f1a49abaa9f1d6-body._99f8cc7ad4790ce9-thin._99f8cc7ad4790ce9-scrollerBase,
-._5e434347c823b592-activityPanel
-  ~ .e131a99484292a19-wrapper
-  .e131a99484292a19-container,
+._5e434347c823b592-activityPanel ~ .e131a99484292a19-wrapper .e131a99484292a19-container,
 ._96f95c174d3b94a0-actions ._96f95c174d3b94a0-value,
 .d9be463a3c35b91e-formContainer .d9be463a3c35b91e-channelTextAreaInner,
 .d9be463a3c35b91e-formContainer .d9be463a3c35b91e-title,
@@ -774,8 +767,7 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
   height: auto;
   margin: 10px 10px 10px -5px;
 }
-._6d0994faecf3e6ea-container._6d0994faecf3e6ea-threeItemBundle
-  ._6d0994faecf3e6ea-nameplatePreview,
+._6d0994faecf3e6ea-container._6d0994faecf3e6ea-threeItemBundle ._6d0994faecf3e6ea-nameplatePreview,
 ._91a9d7f7e5248a56-childContainer,
 ._91a9d7f7e5248a56-layout,
 .e144e058a84f76ff-nameplatePreview {
@@ -859,7 +851,7 @@ div._656be05658eed04d-profileThemedContainer {
 .eb110a19ea3d101d-note textarea,
 .f37d39ae7423d877-note textarea {
   border-radius: var(--radius);
-  padding: 8px
+  padding: 8px;
 }
 #vc-spotify-player {
   padding: 15px;
