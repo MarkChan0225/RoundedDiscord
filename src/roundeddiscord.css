@@ -587,6 +587,7 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 ._4d95d73152192cf9-modalTextContainer,
 ._4d95d73152192cf9-newMosaicStyle ._4d95d73152192cf9-textContainer,
 ._5e434347c823b592-activityPanel,
+._5e434347c823b592-sidebarListRounded,
 ._655fa0dac0bbc1ad-profileEntryCard:first-child,
 ._71c22426f1aad6f4-roundedRow td:first-child,
 ._73000d97b1b29da5-upsellContent,
@@ -721,8 +722,7 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 }
 .d27f17593b8064c5-calendarPicker
   .react-datepicker__week:first-of-type
-  > .react-datepicker__day:first-of-type,
-._5e434347c823b592-sidebarListRounded {
+  > .react-datepicker__day:first-of-type {
   border-top-left-radius: var(--radius);
 }
 .d27f17593b8064c5-calendarPicker
