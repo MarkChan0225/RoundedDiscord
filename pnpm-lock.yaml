@@ -9,8 +9,8 @@ importers:
   .:
     devDependencies:
       '@types/node':
-        specifier: ^25.0.7
-        version: 25.0.7
+        specifier: ^25.0.8
+        version: 25.0.8
       prettier:
         specifier: ^3.8.0
         version: 3.8.0
@@ -329,11 +329,11 @@ packages:
     resolution: {integrity: sha512-c83qWb22rNRuB0UaVCI0uRPNRr8Z0FWnEIvT47jiHAmOIUHbBOg5XvV7pM5x+rKn9HRpjxquDbXYSXr3fAKFcw==}
     engines: {node: '>=12'}
 
-  '@types/node@22.19.5':
-    resolution: {integrity: sha512-HfF8+mYcHPcPypui3w3mvzuIErlNOh2OAG+BCeBZCEwyiD5ls2SiCwEyT47OELtf7M3nHxBdu0FsmzdKxkN52Q==}
+  '@types/node@22.19.6':
+    resolution: {integrity: sha512-qm+G8HuG6hOHQigsi7VGuLjUVu6TtBo/F05zvX04Mw2uCg9Dv0Qxy3Qw7j41SidlTcl5D/5yg0SEZqOB+EqZnQ==}
 
-  '@types/node@25.0.7':
-    resolution: {integrity: sha512-C/er7DlIZgRJO7WtTdYovjIFzGsz0I95UlMyR9anTb4aCpBSRWe5Jc1/RvLKUfzmOxHPGjSE5+63HgLtndxU4w==}
+  '@types/node@25.0.8':
+    resolution: {integrity: sha512-powIePYMmC3ibL0UJ2i2s0WIbq6cg6UyVFQxSCpaPxxzAaziRfimGivjdF943sSGV6RADVbk0Nvlm5P/FB44Zg==}
 
   adm-zip@0.5.16:
     resolution: {integrity: sha512-TGw5yVi4saajsSEgz25grObGHEUaDrniwvA2qwSC060KfqGPdglhvPMA2lPIoxs3PQIItj2iag35fONcQqgUaQ==}
@@ -1184,11 +1184,11 @@ snapshots:
       '@pnpm/network.ca-file': 1.0.2
       config-chain: 1.1.13
 
-  '@types/node@22.19.5':
+  '@types/node@22.19.6':
     dependencies:
       undici-types: 6.21.0
 
-  '@types/node@25.0.7':
+  '@types/node@25.0.8':
     dependencies:
       undici-types: 7.16.0
 
@@ -1631,7 +1631,7 @@ snapshots:
 
   standalone-electron-types@34.2.0:
     dependencies:
-      '@types/node': 22.19.5
+      '@types/node': 22.19.6
 
   string-width@4.2.3:
     dependencies:
