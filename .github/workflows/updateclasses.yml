@@ -11,6 +11,6 @@ jobs:
             - uses: actions/checkout@v4
 
             - name: Run Class Name Updater
-              uses: fedeericodl/discord-update-classnames@v1
+              uses: fedeericodl/discord-update-classnames@main
               with:
                   files: "src/roundeddiscord.css"
