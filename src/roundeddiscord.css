@@ -781,11 +781,11 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 }
 .container__955a3,
 .shop__6db1d {
-  height: 97.5% !important;
+  height: auto !important;
 }
 .sidebar__5e434 {
   border-radius: var(--radius) !important;
-  margin: 0 0 10px 10px;
+  margin: 0 0 5px 10px;
 }
 .chat_f75fb0.threadSidebarOpen_f75fb0 {
   border-radius: var(--radius) !important;
