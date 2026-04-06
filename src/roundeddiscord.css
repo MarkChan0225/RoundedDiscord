@@ -1,8 +1,8 @@
 #bd-editor-controls button,
 #floating-editor-window,
 .accordionContainer__7e354,
-.accountProfileCard_a27e58,
 .accountPopoutButtonWrapper__37e49,
+.accountProfileCard_a27e58,
 .achievementContainer_f8824b,
 .actionButtons_cc1819,
 .actionContainer__6446f,
@@ -30,11 +30,11 @@
 .avatarCard__02e4c,
 .avatarUploaderInnerSquare_e04502,
 .backgroundContainer_eaaeee,
+.backgroundModifierContainer_d96a9c,
 .backgroundOptionInner__53965,
 .backgroundOptionRing__53965,
-.backgroundModifierContainer_d96a9c,
-.background_a27e58,
 .background__65c15,
+.background_a27e58,
 .background_e681d1,
 .badgeLabel_aeaaeb,
 .bannedUser__4b8d8,
@@ -89,8 +89,10 @@
 .button_f7ecac.selected_f7ecac,
 .button_f7ecac:hover,
 .buttons__2d021,
-.calendarPicker_d27f17 .react-datepicker__navigation.react-datepicker__navigation--next,
-.calendarPicker_d27f17 .react-datepicker__navigation.react-datepicker__navigation--previous,
+.calendarPicker_d27f17
+  .react-datepicker__navigation.react-datepicker__navigation--next,
+.calendarPicker_d27f17
+  .react-datepicker__navigation.react-datepicker__navigation--previous,
 .calloutContainer__6fddf,
 .cameraPreview__19236,
 .cardContainerWithoutTopIndicator__3efc4,
@@ -98,12 +100,12 @@
 .cardIcon__29abc:before,
 .cardInput__8b579,
 .cardWrapper_aae012,
-.card__4d7bb,
 .card__416c7,
-.card__91402,
+.card__4d7bb,
 .card__73069,
 .card__73069:not(.outline__73069),
 .card__84e3e,
+.card__91402,
 .card_aae012,
 .card_b846e5,
 .card_b846e5:before,
@@ -115,6 +117,7 @@
 .categoryFade_d02962:hover,
 .category__97499,
 .category_ed45d7,
+.category_fe77d6,
 .channelChatWrapper_cb9592,
 .channelContainer__5ca14,
 .channelTabs-closeTab,
@@ -146,6 +149,7 @@
 .container__0e476,
 .container__0f2e8,
 .container__231eb,
+.container__23ba6,
 .container__2637a,
 .container__34940,
 .container__35859,
@@ -161,7 +165,7 @@
 .container__50e22,
 .container__551b0,
 .container__55c99,
-.container__23ba6,
+.container__5682d,
 .container__581dd,
 .container__5b321,
 .container__5dbf8,
@@ -195,7 +199,6 @@
 .container_c0c49a:before,
 .container_c50183,
 .container_cc53de,
-.container_d4630c,
 .container_d8f25b,
 .container_d9c882,
 .container_e88f3f,
@@ -243,6 +246,7 @@
 .expressive_a22cb0 .expressiveFill_a22cb0,
 .featureCard__7dd5e,
 .file__0ccae,
+.filterBackground__72086,
 .filterOverlay__1feb0,
 .friendRequestsButton__523aa,
 .friend_bbd192,
@@ -447,7 +451,6 @@
 .section__00943:only-child,
 .section_fec5bf,
 .selectDropdown__0edde,
-.selectDropdown__0edde,
 .selectGuildPseudoCta__39466,
 .select_a16aea,
 .selectableItem_eb626b,
@@ -531,10 +534,7 @@
 .warningContainer_d80a13,
 .wishlistButton__80679,
 .wishlistButton__979b1,
-.wrapper_f61d60,
-.wrapper_d852db,
 .wrapper__2ea32,
-.wrapper_f2e7c9,
 .wrapper__44df5,
 .wrapper__4d7bb,
 .wrapper__5b98e,
@@ -547,8 +547,10 @@
 .wrapper_c0e32c.isBurstReactionPicker_c0e32c:before,
 .wrapper_cdf8a9,
 .wrapper_d5f3cd,
+.wrapper_d852db,
 .wrapper_e03935,
-.wrapper_cdf8a9,
+.wrapper_f2e7c9,
+.wrapper_f61d60,
 .wrapper_f7ecac,
 :where(.outer_c0bea0).user-profile-popout,
 :where(.overlay_c0bea0),
@@ -588,6 +590,7 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 .connectionHeader_c7f964,
 .container__9293f,
 .container_b5b7aa,
+.container_d08938 .headerBar__8a7fc,
 .container_e131a9,
 .contentWrapperAccepted__0d616,
 .contentWrapper__0d616,
@@ -715,11 +718,15 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 .root_e5f3a9 .body_c6f1a4 {
   border-radius: 0 !important;
 }
-.calendarPicker_d27f17 .react-datepicker__week:last-of-type > .react-datepicker__day:first-of-type,
+.calendarPicker_d27f17
+  .react-datepicker__week:last-of-type
+  > .react-datepicker__day:first-of-type,
 .categoryList_c0e32c {
   border-bottom-left-radius: var(--radius);
 }
-.calendarPicker_d27f17 .react-datepicker__week:last-of-type > .react-datepicker__day:last-of-type,
+.calendarPicker_d27f17
+  .react-datepicker__week:last-of-type
+  > .react-datepicker__day:last-of-type,
 .listWrapper__8ef02 {
   border-bottom-right-radius: var(--radius);
 }
@@ -731,7 +738,9 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
   > .react-datepicker__day:first-of-type {
   border-top-left-radius: var(--radius);
 }
-.calendarPicker_d27f17 .react-datepicker__week:first-of-type > .react-datepicker__day:last-of-type {
+.calendarPicker_d27f17
+  .react-datepicker__week:first-of-type
+  > .react-datepicker__day:last-of-type {
   border-top-right-radius: var(--radius);
 }
 .categoryItemDefaultCategory_b9ee0c {
@@ -749,7 +758,6 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 .applicationStore_f07d62,
 .chat_f75fb0,
 .containerSidenav_dc2e0e,
-.container__01ae2,
 .container__133bf,
 .container__49668,
 .container__808a1,
