@@ -198,6 +198,7 @@
 .container_c0c49a:before,
 .container_c50183,
 .container_cc53de,
+.container_cec934,
 .container_d8f25b,
 .container_d9c882,
 .container_e88f3f,
@@ -759,7 +760,8 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 .container_a592e1,
 .main_c08b38,
 .shop__6db1d,
-.sidebarContainer__656be {
+.sidebarContainer__656be,
+.wrapper_a62174.noChat_a62174 {
   border-radius: var(--radius);
   margin: 10px 10px 0 5px;
 }
@@ -780,7 +782,8 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
   margin-top: 1px;
 }
 .container__955a3,
-.shop__6db1d {
+.shop__6db1d,
+.wrapper_a62174.noChat_a62174 {
   height: auto !important;
 }
 .sidebar__5e434 {
