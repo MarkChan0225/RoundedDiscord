@@ -97,6 +97,7 @@
   .react-datepicker__navigation.react-datepicker__navigation--previous,
 .calloutContainer__6fddf,
 .cameraPreview__19236,
+.cameraWrapper__36486,
 .cardContainerWithoutTopIndicator__3efc4,
 .cardIcon__29abc:after,
 .cardIcon__29abc:before,
@@ -269,6 +270,7 @@
 .guildRow__58ae6,
 .guildTagContainer__63ed3,
 .header_f37cb1,
+.headerBar__8a7fc ~ .scroller__23746,
 .hero_af3b89,
 .hexColorPreview__247cf,
 .hexInputContainer__247cf,
@@ -591,6 +593,7 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 #bd-editor-controls,
 #vc-spotify-player,
 .activityPanel__5e434,
+.backdrop__8a7fc,
 .banner__183e8,
 .banner_da5e8d,
 .bd-modal-header,
@@ -643,7 +646,6 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
   border-radius: var(--radius) var(--radius) 0 0;
 }
 #replugged-quickcss-wrapper .cm-gutters,
-.backdrop__8a7fc,
 .bd-controls > .bd-addon-button:first-of-type,
 .contentWrapper__9b0f4,
 .deny__344e6,
