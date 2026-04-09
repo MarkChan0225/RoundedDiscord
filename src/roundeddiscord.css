@@ -731,15 +731,11 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 .root_e5f3a9 .body_c6f1a4 {
   border-radius: 0 !important;
 }
-.calendarPicker_d27f17
-  .react-datepicker__week:last-of-type
-  > .react-datepicker__day:first-of-type,
+.calendarPicker_d27f17 .react-datepicker__week:last-of-type > .react-datepicker__day:first-of-type,
 .categoryList_c0e32c {
   border-bottom-left-radius: var(--radius);
 }
-.calendarPicker_d27f17
-  .react-datepicker__week:last-of-type
-  > .react-datepicker__day:last-of-type,
+.calendarPicker_d27f17 .react-datepicker__week:last-of-type > .react-datepicker__day:last-of-type,
 .listWrapper__8ef02 {
   border-bottom-right-radius: var(--radius);
 }
