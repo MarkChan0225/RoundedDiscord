@@ -6,6 +6,7 @@
 .achievementContainer_f8824b,
 .actionButtons_cc1819,
 .actionContainer__6446f,
+.actionMenuButton__12cd0,
 .actionMenuButton_d84e0f,
 .action_c66e86,
 .actions__96f95,
@@ -18,6 +19,7 @@
 .analyticsCard__0dfec,
 .animatedTopPerksCard__3add8,
 .answerInner__4c520,
+.appAvatarV2__24605,
 .appContainer__5a4b6,
 .appIconSelection__8a3d7,
 .app__160d8 button,
@@ -89,8 +91,10 @@
 .button_f7ecac.selected_f7ecac,
 .button_f7ecac:hover,
 .buttons__2d021,
-.calendarPicker_d27f17 .react-datepicker__navigation.react-datepicker__navigation--next,
-.calendarPicker_d27f17 .react-datepicker__navigation.react-datepicker__navigation--previous,
+.calendarPicker_d27f17
+  .react-datepicker__navigation.react-datepicker__navigation--next,
+.calendarPicker_d27f17
+  .react-datepicker__navigation.react-datepicker__navigation--previous,
 .calloutContainer__6fddf,
 .cameraPreview__19236,
 .cardContainerWithoutTopIndicator__3efc4,
@@ -140,6 +144,7 @@
 .colorPickerSwatch__459fb.default__459fb,
 .colorSquareInner__247cf,
 .connectedAccountContainer_e6abe8,
+.connection__4109d,
 .connection_c7f964,
 .containerBorderRadius_cb32c7,
 .container__01ae2,
@@ -244,6 +249,7 @@
 .expandedInfo_e9cb00,
 .experimentOverlayTitle__2f4f7,
 .expressive_a22cb0 .expressiveFill_a22cb0,
+.featureBorder__65c15,
 .featureCard__7dd5e,
 .file__0ccae,
 .filterBackground__72086,
@@ -321,6 +327,7 @@
 .message_fd14e0,
 .messagesPopoutWrap_e8b59c,
 .messages__1ccd1,
+.metadataContainer__4109d,
 .metadataContainer_c7f964,
 .modInfoItemContainer__96c0b,
 .modalBg__45776,
@@ -359,6 +366,8 @@
 .phoneField_a0c54f .countryButton_a0c54f,
 .pickerItem_a84c50,
 .picker__09f65,
+.pillContainer__9e06a,
+.pillItem__9e06a,
 .pill_dfa8b6,
 .pill_fccfdf,
 .placeholder__2dc39,
@@ -436,6 +445,7 @@
 .rows_b1c9f2,
 .rules__92677,
 .safetyChecklist_eae0ef,
+.safetyPolicyNoticeContainer__86361,
 .safetySettingsNotice__9536c,
 .saturation__889ee > div,
 .saturation__889ee > div > div,
@@ -465,6 +475,9 @@
 .soundButtonSettingContainer__84bad,
 .soundButtonWrapper__9be63,
 .soundButton__9be63,
+.sourceOverlayCTA__2f580,
+.sourcePreviewContainer__2f580:before,
+.sourcePreview__2f580,
 .sourceThumbnail_a2de16,
 .spamBanner_a2eac3,
 .splashContainer__0bef9,
@@ -718,11 +731,15 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 .root_e5f3a9 .body_c6f1a4 {
   border-radius: 0 !important;
 }
-.calendarPicker_d27f17 .react-datepicker__week:last-of-type > .react-datepicker__day:first-of-type,
+.calendarPicker_d27f17
+  .react-datepicker__week:last-of-type
+  > .react-datepicker__day:first-of-type,
 .categoryList_c0e32c {
   border-bottom-left-radius: var(--radius);
 }
-.calendarPicker_d27f17 .react-datepicker__week:last-of-type > .react-datepicker__day:last-of-type,
+.calendarPicker_d27f17
+  .react-datepicker__week:last-of-type
+  > .react-datepicker__day:last-of-type,
 .listWrapper__8ef02 {
   border-bottom-right-radius: var(--radius);
 }
@@ -734,7 +751,9 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
   > .react-datepicker__day:first-of-type {
   border-top-left-radius: var(--radius);
 }
-.calendarPicker_d27f17 .react-datepicker__week:first-of-type > .react-datepicker__day:last-of-type {
+.calendarPicker_d27f17
+  .react-datepicker__week:first-of-type
+  > .react-datepicker__day:last-of-type {
   border-top-right-radius: var(--radius);
 }
 .categoryItemDefaultCategory_b9ee0c {
@@ -862,9 +881,6 @@ div.profileThemedContainer__656be {
 }
 #vc-spotify-player {
   padding: 15px;
-}
-.controlButton__1405b > svg > foreignObject {
-  mask: none;
 }
 .categoryFade_d02962:hover {
   backdrop-filter: none;
