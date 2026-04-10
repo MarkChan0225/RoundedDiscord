@@ -91,10 +91,8 @@
 .button_f7ecac.selected_f7ecac,
 .button_f7ecac:hover,
 .buttons__2d021,
-.calendarPicker_d27f17
-  .react-datepicker__navigation.react-datepicker__navigation--next,
-.calendarPicker_d27f17
-  .react-datepicker__navigation.react-datepicker__navigation--previous,
+.calendarPicker_d27f17 .react-datepicker__navigation.react-datepicker__navigation--next,
+.calendarPicker_d27f17 .react-datepicker__navigation.react-datepicker__navigation--previous,
 .calloutContainer__6fddf,
 .cameraPreview__19236,
 .cameraWrapper__36486,
@@ -750,9 +748,7 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
   > .react-datepicker__day:first-of-type {
   border-top-left-radius: var(--radius);
 }
-.calendarPicker_d27f17
-  .react-datepicker__week:first-of-type
-  > .react-datepicker__day:last-of-type {
+.calendarPicker_d27f17 .react-datepicker__week:first-of-type > .react-datepicker__day:last-of-type {
   border-top-right-radius: var(--radius);
 }
 .categoryItemDefaultCategory_b9ee0c {
