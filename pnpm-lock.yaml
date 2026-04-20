@@ -12,8 +12,8 @@ importers:
         specifier: ^25.6.0
         version: 25.6.0
       prettier:
-        specifier: ^3.8.2
-        version: 3.8.2
+        specifier: ^3.8.3
+        version: 3.8.3
       replugged:
         specifier: ^4.11.3
         version: 4.11.3(sass-embedded@1.77.8)
@@ -734,8 +734,8 @@ packages:
     resolution: {integrity: sha512-QP88BAKvMam/3NxH6vj2o21R6MjxZUAd6nlwAS/pnGvN9IVLocLHxGYIzFhg6fUQ+5th6P4dv4eW9jX3DSIj7A==}
     engines: {node: '>=12'}
 
-  prettier@3.8.2:
-    resolution: {integrity: sha512-8c3mgTe0ASwWAJK+78dpviD+A8EqhndQPUBpNUIPt6+xWlIigCwfN01lWr9MAede4uqXGTEKeQWTvzb3vjia0Q==}
+  prettier@3.8.3:
+    resolution: {integrity: sha512-7igPTM53cGHMW8xWuVTydi2KO233VFiTNyF5hLJqpilHfmn8C8gPf+PS7dUT64YcXFbiMGZxS9pCSxL/Dxm/Jw==}
     engines: {node: '>=14'}
     hasBin: true
 
@@ -1615,7 +1615,7 @@ snapshots:
   picomatch@4.0.4:
     optional: true
 
-  prettier@3.8.2: {}
+  prettier@3.8.3: {}
 
   prompts@2.4.2:
     dependencies:
