@@ -18,7 +18,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^25.6.0",
+    "@types/node": "^25.8.0",
     "prettier": "^3.8.3",
     "replugged": "^4.11.3"
   }
