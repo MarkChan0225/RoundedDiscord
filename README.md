@@ -1,4 +1,4 @@
-<div align="center"><h1>Rounded Discord</h1>
+<p><div align="center"><h1>Rounded Discord</h1>
 
 [![Latest Release](https://img.shields.io/github/v/release/MarkChan0225/RoundedDiscord?color=gree&label=Release&style=flat)](https://github.com/MarkChan0225/RoundedDiscord/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/MarkChan0225/RoundedDiscord/total?label=Downloads)](https://github.com/MarkChan0225/RoundedDiscord/releases/latest)
@@ -13,7 +13,7 @@
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | ![preview](https://markchan0225.github.io/RoundedDiscord/src/preview_dark.png) | ![preview_win](https://markchan0225.github.io/RoundedDiscord/src/preview_nitro.png) |
 
-</div>
+</div></p>
 
 ## Feature:
 
@@ -23,9 +23,9 @@
 
 ## Preview:
 
-[![Preview](https://img.shields.io/badge/Preview-5865F2?logo=Discord&style=for-the-badge&labelColor=black)](https://discord-preview.vercel.app/?file=https://markchan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css)
+[![Preview](https://img.shields.io/badge/Preview-5865F2?logo=Discord&style=for-the-badge&labelColor=black)](https://gibbu.github.io/ThemePreview/?file=https://markchan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css)
 
-# Installation:
+## Installation:
 
 <h2 align="left" style="vertical-align: middle;">
     <img src="https://vencord.dev/assets/logo.png" width="30" height="30"> <sup> Vencord / </sup>
