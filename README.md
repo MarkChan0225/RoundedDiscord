@@ -29,7 +29,7 @@
 
 ## Installation:
 
-### <img class="middle" src="https://vencord.dev/assets/logo.png" width="30" height="30" alt="Vencord icon"> Vencord / <img class="middle" src="https://docs.equicord.org/logo.png" width="30" height="30" alt="Equicord icon"> Equicord
+### <img src="https://vencord.dev/assets/logo.png" width="30" height="30" style="vertical-align: middle;" alt="Vencord icon"> Vencord / <img src="https://docs.equicord.org/logo.png" width="30" height="30" style="vertical-align: middle;" alt="Equicord icon"> Equicord
 
 **Method 1 (Local theme):** Download the latest `RoundedDiscord.theme.css` file by this [link](https://github.com/MarkChan0225/RoundedDiscord/releases/download/v1.1.1/RoundedDiscord.theme.css) and move it into
 `Theme` file
@@ -44,3 +44,9 @@ Download the latest `RoundedDiscord.theme.css` file by this [link](https://githu
 
 Click [this link](https://replugged.dev/install?identifier=dev.markchan0225.RounedDiscord) to install
 the theme.
+
+### <table><tr><td valign="center"><img src="https://replugged.dev/assets/replugged-b625c392.png" width="30" height="30"> Replugged </td></tr></table>
+
+<h2 align="left" style="vertical-align: middle;">
+    <img src="https://replugged.dev/assets/replugged-b625c392.png" width="30" height="30"> <sup> Replugged</sub>
+</h2>
