@@ -1,4 +1,5 @@
-<br><div align="center">
+<div align="center"><br>
+
 # Rounded Discord
 
 [![Latest Release](https://img.shields.io/github/v/release/MarkChan0225/RoundedDiscord?color=gree&label=Release&style=flat)](https://github.com/MarkChan0225/RoundedDiscord/releases/latest)
@@ -14,7 +15,9 @@
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | ![preview](https://markchan0225.github.io/RoundedDiscord/src/preview_dark.png) | ![preview_win](https://markchan0225.github.io/RoundedDiscord/src/preview_nitro.png) |
 
-</div></br>
+</br></div>
+
+<div>
 
 ## Feature:
 
@@ -43,3 +46,5 @@ Download the latest `RoundedDiscord.theme.css` file by this [link](https://githu
 
 Click [this link](https://replugged.dev/install?identifier=dev.markchan0225.RounedDiscord) to install
 the theme.
+
+</div>
