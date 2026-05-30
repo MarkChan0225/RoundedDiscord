@@ -29,7 +29,7 @@
 
 ## Installation:
 
-### <img class="middle" src="https://vencord.dev/assets/logo.png" width="30" height="30" alt="Vencord icon"> Vencord / <img class="middle" src="https://docs.equicord.org/logo.png" width="30" height="30" " alt="Equicord icon"> Equicord
+### <img class="middle" src="https://vencord.dev/assets/logo.png" width="30" height="30" alt="Vencord icon"> Vencord / <img class="middle" src="https://docs.equicord.org/logo.png" width="30" height="30" alt="Equicord icon"> Equicord
 
 **Method 1 (Local theme):** Download the latest `RoundedDiscord.theme.css` file by this [link](https://github.com/MarkChan0225/RoundedDiscord/releases/download/v1.1.1/RoundedDiscord.theme.css) and move it into
 `Theme` file
