@@ -1,6 +1,4 @@
-<div align="center">
-
-# Rounded Discord
+<div align="center"><h1>Rounded Discord</h1>
 
 [![Latest Release](https://img.shields.io/github/v/release/MarkChan0225/RoundedDiscord?color=gree&label=Release&style=flat)](https://github.com/MarkChan0225/RoundedDiscord/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/MarkChan0225/RoundedDiscord/total?label=Downloads)](https://github.com/MarkChan0225/RoundedDiscord/releases/latest)
@@ -40,13 +38,10 @@
 
 Download the latest `RoundedDiscord.theme.css` file by this [link](https://github.com/MarkChan0225/RoundedDiscord/releases/download/v1.1.1/RoundedDiscord.theme.css) and move it into `Theme` file.
 
-### <img src="https://replugged.dev/assets/replugged-b625c392.png" width="30" height="30" style="vertical-align: middle;" alt="Replugged icon"> Replugged
+
+<h2 align="left" style="vertical-align: middle;">
+    <img src="https://replugged.dev/assets/replugged-b625c392.png" width="30" height="30"> <sup> Replugged </sup>
+</h2>
 
 Click [this link](https://replugged.dev/install?identifier=dev.markchan0225.RounedDiscord) to install
 the theme.
-
-### <table><tr><td valign="center"><img src="https://replugged.dev/assets/replugged-b625c392.png" width="30" height="30"> Replugged </td></tr></table>
-
-<h2 align="left" style="vertical-align: middle;">
-    <img src="https://replugged.dev/assets/replugged-b625c392.png" width="30" height="30"> <sup> Replugged</sub>
-</h2>
