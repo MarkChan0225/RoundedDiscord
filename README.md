@@ -1,5 +1,6 @@
-<br><div align="center"><h1>Rounded Discord</h1>
+<br><p style="align: center;">
 
+# RoundedDiscord
 [![Latest Release](https://img.shields.io/github/v/release/MarkChan0225/RoundedDiscord?color=gree&label=Release&style=flat)](https://github.com/MarkChan0225/RoundedDiscord/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/MarkChan0225/RoundedDiscord/total?label=Downloads)](https://github.com/MarkChan0225/RoundedDiscord/releases/latest)
 ![Last Commitment](https://img.shields.io/github/last-commit/MarkChan0225/RoundedDiscord?label=Last%20Commit)
@@ -13,7 +14,7 @@
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | ![preview](https://markchan0225.github.io/RoundedDiscord/src/preview_dark.png) | ![preview_win](https://markchan0225.github.io/RoundedDiscord/src/preview_nitro.png) |
 
-</div>
+<p>
 
 ## Feature:
 
