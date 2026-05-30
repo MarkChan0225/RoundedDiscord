@@ -1,4 +1,4 @@
-<br/><div align="center">
+<br><div align="center">
 # Rounded Discord
 
 [![Latest Release](https://img.shields.io/github/v/release/MarkChan0225/RoundedDiscord?color=gree&label=Release&style=flat)](https://github.com/MarkChan0225/RoundedDiscord/releases/latest)
@@ -14,7 +14,7 @@
 | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 | ![preview](https://markchan0225.github.io/RoundedDiscord/src/preview_dark.png) | ![preview_win](https://markchan0225.github.io/RoundedDiscord/src/preview_nitro.png) |
 
-</div><br/>
+</div></br>
 
 ## Feature:
 
@@ -28,7 +28,7 @@
 
 ## Installation:
 
-### <img src="https://vencord.dev/assets/logo.png" width="30" height="30" style="vertical-align: text-top;" alt="Vencord icon"> Vencord
+### <img src="https://vencord.dev/assets/logo.png" width="30" height="30" style="vertical-align: middle;" alt="Vencord icon"> Vencord / <img src="https://docs.equicord.org/logo.png" width="30" height="30" style="vertical-align: middle;" alt="Equicord icon"> Equicord
 
 **Method 1 (Local theme):** Download the latest `RoundedDiscord.theme.css` file by this [link](https://github.com/MarkChan0225/RoundedDiscord/releases/download/v1.1.1/RoundedDiscord.theme.css) and move it into
 `Theme` file
