@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>RoundedDiscord<h1>
+<h1>RoundedDiscord</h1>
 <a href="https://github.com/MarkChan0225/RoundedDiscord/releases/latest"><img src="https://img.shields.io/github/v/release/MarkChan0225/RoundedDiscord?color=gree&label=Release&style=flat" alt="Latest Release"></a>
 <a href="https://github.com/MarkChan0225/RoundedDiscord/releases/latest"><img src="https://img.shields.io/github/downloads/MarkChan0225/RoundedDiscord/total?label=Downloads" alt="Downloads"></a>
 <img src="https://img.shields.io/github/last-commit/MarkChan0225/RoundedDiscord?label=Last%20Commit" alt="Last Commitment">
