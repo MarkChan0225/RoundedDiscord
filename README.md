@@ -25,16 +25,22 @@
 
 [![Preview](https://img.shields.io/badge/Preview-5865F2?logo=Discord&style=for-the-badge&labelColor=black)](https://discord-preview.vercel.app/?file=https://markchan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css)
 
-## Installation:
+# Installation:
 
-### <img src="https://vencord.dev/assets/logo.png" width="30" height="30" style="vertical-align: middle;" alt="Vencord icon"> Vencord / <img src="https://docs.equicord.org/logo.png" width="30" height="30" style="vertical-align: middle;" alt="Equicord icon"> Equicord
+<h2 align="left" style="vertical-align: middle;">
+    <img src="https://vencord.dev/assets/logo.png" width="30" height="30"> <sup> Vencord / </sup>
+    <img src="https://docs.equicord.org/logo.png" width="30" height="30"> <sup> Equicord </sup>
+</h2>
 
 **Method 1 (Local theme):** Download the latest `RoundedDiscord.theme.css` file by this [link](https://github.com/MarkChan0225/RoundedDiscord/releases/download/v1.1.1/RoundedDiscord.theme.css) and move it into
 `Theme` file
 
 **Method 2 (Online theme):** Copy `https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css` to `Theme` setting. (Not customizable)
 
-### <img src="https://betterdiscord.app/resources/branding/logo_solid.png" width="30" height="30" style="vertical-align: middle;" alt="BetterDiscord icon"> BetterDiscord
+
+<h2 align="left" style="vertical-align: middle;">
+    <img src="https://betterdiscord.app/resources/branding/logo_solid.png" width="30" height="30"> <sup> BetterDiscord </sup>
+</h2>
 
 Download the latest `RoundedDiscord.theme.css` file by this [link](https://github.com/MarkChan0225/RoundedDiscord/releases/download/v1.1.1/RoundedDiscord.theme.css) and move it into `Theme` file.
 
