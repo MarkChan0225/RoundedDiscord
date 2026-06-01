@@ -34,7 +34,7 @@
 </h2>
 
 **Method 1 (Local theme):** Download the latest `RoundedDiscord.theme.css` file by this [link](https://github.com/MarkChan0225/RoundedDiscord/releases/download/v1.1.1/RoundedDiscord.theme.css) and move it into
-`Theme` file
+`Theme` folder
 
 **Method 2 (Online theme):** Copy `https://MarkChan0225.github.io/RoundedDiscord/RoundedDiscord.theme.css` to `Theme` setting. (Not customizable)
 
@@ -43,7 +43,7 @@
     <img src="https://betterdiscord.app/resources/branding/logo_solid.png" width="30" height="30"> <sup> BetterDiscord </sup>
 </h2>
 
-Download the latest `RoundedDiscord.theme.css` file by this [link](https://github.com/MarkChan0225/RoundedDiscord/releases/download/v1.1.1/RoundedDiscord.theme.css) and move it into `Theme` file.
+Download the latest `RoundedDiscord.theme.css` file by this [link](https://github.com/MarkChan0225/RoundedDiscord/releases/download/v1.1.1/RoundedDiscord.theme.css) and move it into `Theme` folder.
 
 
 <h2 align="left" style="vertical-align: middle;">
