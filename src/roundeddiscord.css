@@ -569,7 +569,11 @@
 :where(.overlay_c0bea0),
 div#anchor,
 html:not(.chat-input) .inputInner_b1f01d,
-html:not(.visual-refresh-chat-input) .inner_a9982 {
+html:not(.visual-refresh-chat-input) .inner_a9982,
+.container_e45859,
+.selected_f391e3,
+.messageRequestItem_abb9ad.active_abb9ad, 
+.messageRequestItem_abb9ad:hover {
   border-radius: var(--radius);
 }
 #replugged-quickcss-wrapper .cm-editor,
