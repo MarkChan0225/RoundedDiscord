@@ -12,8 +12,8 @@ importers:
         specifier: ^25.9.3
         version: 25.9.3
       prettier:
-        specifier: ^3.8.4
-        version: 3.8.4
+        specifier: ^3.9.3
+        version: 3.9.3
       replugged:
         specifier: ^4.11.4
         version: 4.11.4(sass-embedded@1.77.8)
@@ -479,8 +479,8 @@ packages:
     resolution: {integrity: sha512-ej4AhfhfL2Q2zpMmLo7U1Uv9+PyhIZpgQLGT1F9miIGmiCJIoCgSmczFdrc97mWT4kVY72KA+WnnhJ5pghSvSg==}
     engines: {node: '>= 0.4'}
 
-  immutable@4.3.8:
-    resolution: {integrity: sha512-d/Ld9aLbKpNwyl0KiM2CT1WYvkitQ1TSvmRtkcV8FKStiDoA7Slzgjmb/1G2yhKM1p0XeNOieaTbFZmU1d3Xuw==}
+  immutable@4.3.9:
+    resolution: {integrity: sha512-ObHy4YN7ycwZOUCLI1/6svfyAFu7vL8RhAvVu/bh/RZW9EPlOyDaQ9jDQWCtdqzaXUjgXZCW1migtHE7YI7UGQ==}
 
   immutable@5.1.5:
     resolution: {integrity: sha512-t7xcm2siw+hlUM68I+UEOK+z84RzmN59as9DZ7P1l0994DKUWV7UXBMQZVxaoMSRQ+PBZbHCOoBt7a2wxOMt+A==}
@@ -570,8 +570,8 @@ packages:
     resolution: {integrity: sha512-QP88BAKvMam/3NxH6vj2o21R6MjxZUAd6nlwAS/pnGvN9IVLocLHxGYIzFhg6fUQ+5th6P4dv4eW9jX3DSIj7A==}
     engines: {node: '>=12'}
 
-  prettier@3.8.4:
-    resolution: {integrity: sha512-N2MylSdi48+5N/6S5j+maeHbUSIzzZ5uOcX5Hm4QpV8Dkb1HFjfAKTKX6yNPJQD9AhcT3ifHNB66tWTTJDi11Q==}
+  prettier@3.9.3:
+    resolution: {integrity: sha512-HWmu+K+zvHNpaMfSnYeqdqrDbR16cuIXaPx8WoHaviQkDJh1/0BNtOZmHVQI5jc3wXv0H1yXc9wjvFdXh+n3hQ==}
     engines: {node: '>=14'}
     hasBin: true
 
@@ -1266,7 +1266,7 @@ snapshots:
     dependencies:
       function-bind: 1.1.2
 
-  immutable@4.3.8: {}
+  immutable@4.3.9: {}
 
   immutable@5.1.5: {}
 
@@ -1337,7 +1337,7 @@ snapshots:
   picomatch@4.0.4:
     optional: true
 
-  prettier@3.8.4: {}
+  prettier@3.9.3: {}
 
   prompts@2.4.2:
     dependencies:
@@ -1459,7 +1459,7 @@ snapshots:
     dependencies:
       '@bufbuild/protobuf': 1.10.1
       buffer-builder: 0.2.0
-      immutable: 4.3.8
+      immutable: 4.3.9
       rxjs: 7.8.2
       supports-color: 8.1.1
       varint: 6.0.0
