@@ -822,10 +822,14 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
   border-radius: var(--radius) !important;
   margin-right: 6.5px;
 }
-.notice__6e2b9 {
+.notice__6e2b9,
+.notice__29487 {
   border-radius: var(--radius);
   margin-bottom: 5px;
   margin-right: 10px;
+}
+.notice__29487 {
+  width: auto;
 }
 div.profileThemedContainer__656be {
   border-radius: var(--radius);
