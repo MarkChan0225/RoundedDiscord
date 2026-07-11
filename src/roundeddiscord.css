@@ -576,6 +576,7 @@
 .wrapper_e03935,
 .wrapper_f61d60,
 .wrapper_f7ecac,
+.wrapperAudio_cf09d8.newMosaicStyle_cf09d8,
 :where(.outer_c0bea0).user-profile-popout,
 :where(.overlay_c0bea0),
 div#anchor,
@@ -585,6 +586,7 @@ html:not(.visual-refresh-chat-input) .inner_a9982 {
 }
 #replugged-quickcss-wrapper .cm-editor,
 .audioControls_f316dd,
+.audioControls_cf09d8,
 .avatarWrapper__37e49,
 .better-codeblocks,
 .callContainer_cb9592,
