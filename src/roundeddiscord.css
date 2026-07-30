@@ -581,7 +581,9 @@
 :where(.overlay_c0bea0),
 div#anchor,
 html:not(.chat-input) .inputInner_b1f01d,
-html:not(.visual-refresh-chat-input) .inner_a9982 {
+html:not(.visual-refresh-chat-input) .inner_a9982,
+.custom-user-profile-theme.user-profile-popout .inner_c0bea0,
+.custom-user-profile-theme.user-profile-sidebar.user-profile-sidebar-redesign .inner_c0bea0 {
   border-radius: var(--radius);
 }
 #replugged-quickcss-wrapper .cm-editor,
