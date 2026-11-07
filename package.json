@@ -19,7 +19,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^26.6.6",
-    "prettier": "^3.9.8",
+    "prettier": "^3.9.10",
     "replugged": "^4.11.4"
   }
 }
