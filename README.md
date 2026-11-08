@@ -29,7 +29,7 @@
 
 <h2 align="left" style="vertical-align: middle;">
     <img src="https://vencord.dev/assets/logo.png" width="30" height="30"> <sup> Vencord / </sup>
-    <img src="https://equicord.org/fc9a0f28-0ac7-49ee-8f60-dab339f5234e" width="30" height="30"> <sup> Equicord </sup>
+    <img src="https://equicord.org/icon.png" width="30" height="30"> <sup> Equicord </sup>
 </h2>
 
 **Method 1 (Local theme):** Download the latest `RoundedDiscord.theme.css` file by this [link](https://github.com/MarkChan0225/RoundedDiscord/releases/download/v1.1.1/RoundedDiscord.theme.css) and move it into
